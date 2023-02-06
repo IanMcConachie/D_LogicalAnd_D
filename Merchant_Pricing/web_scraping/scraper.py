@@ -1,9 +1,9 @@
 """
 Author: 			Ian McConachie
-Professor: 			Humphrey Shi, Steven
+Professor: 			Humphrey Shi, Steven Walton
 Class: 				CS 472
 Date Created: 		02/04/2023
-Last Date Modified: 02/04/2023
+Last Date Modified: 02/06/2023
 
 Description:
 
@@ -11,7 +11,6 @@ This python script scrapes data from the Theive's Guild 5e resource site. It
 writes the category of an item, the item's name, and the price of the item
 (in gold, silver, or copper pieces) to a text file separating each field with a
 "|" character. Each entry is separated by a newline.
-
 """
 
 ## Import Statements
@@ -37,7 +36,7 @@ def has_anchor(child):
 	"""
 	"""
 	ret = False
-	if (child.contents[1].contents == 3):
+	if (len(child.contents[1].contents) == 3):
 		ret = True
 	return ret
 
@@ -90,8 +89,9 @@ def is_item(child):
 	itm = None
 	cst = None
 	if ('contentrow' in child['class']):
-		#print(len(child.contents[1].contents))
 		has_a = has_anchor(child)
+		# We need two different cases depending on whether the item
+		# name links to more info on the site (i.e. has an anchor tag)
 		if (has_a):
 			itm = str(child.contents[1].contents[1].string)
 			cst = str(child.contents[3].contents[2].string)
@@ -99,7 +99,11 @@ def is_item(child):
 			cst = cst.strip()
 			ret = True
 		else:
-			x = 1+ 1
+			itm = child.contents[1].contents[0]
+			cst = child.contents[3].contents[2]
+			itm = itm.strip()
+			cst = cst.strip()
+			ret = True
 
 	return (ret,itm,cst)
 
@@ -108,6 +112,13 @@ def is_item(child):
 
 def collect_data(soup):
 	"""
+	:inputs:		soup [a BeautifulSoup object defined in bs4]
+	:returns:		item_list [a list of strings]
+
+	This function takes a BeautifulSoup object created by parsing an html
+	document and extracts a list of items, their categories, and their price.
+	It returns this data as a list of strings that are formatted as:
+			category|item|price
 	"""
 	# Variables we'll use later
 	current_cat = ""
@@ -145,7 +156,7 @@ def collect_data(soup):
 			if(is_itm[0]):
 				itm = is_itm[1]
 				cst = is_itm[2]
-				print("    ",itm," : ", cst)
+				#print("    ",itm," : ", cst)
 				item_entry = current_cat+"|"+itm+"|"+cst
 				item_list.append(item_entry)
 
@@ -156,7 +167,11 @@ def write_data(item_list, write_file):
 	"""
 	:inputs: 	item_list   [a list of strings]
 			 	write_file  [a str]
-	:returns:	
+	:returns:	None
+
+	This function takes in a list of strings and a file to write to and writes
+	the strings to the file, separating each with a new line. This function
+	returns nothing, but has the side effect of writing to write_file.
 	"""
 	with open(write_file, 'w') as file:
 		file.write('\n'.join(item_list))
@@ -164,21 +179,32 @@ def write_data(item_list, write_file):
 
 def main():
 	"""
+	:inputs: 		None
+	:returns: 		None
+
+	This is the main function which utilizes the above functions to scrape
+	data from the html files listed in the files list and write them to 
+	the file given by write_file.
 	"""
 	files = ["adventurer.html", "ilicit.html", "arcane.html",
 	 "tailor.html", "alchemist.html", "blacksmith.html", "bookstore.html", 
 	 "bowyer.html", "inn.html", "jewler.html", "leather.html", "temple.html"]
 	write_file = "merchant_prices.txt"
+	item_list = []
 	for file in files:
-		print(file)
+		#print(file)
 		path = "html_files/" + file
 		with open(path, 'r') as f:
 			text = f.read()
 			soup = make_soup(text)
-			item_list = collect_data(soup)
-			write_data(item_list, write_file)
+			item_list = item_list + collect_data(soup)
+
+	write_data(item_list, write_file)
 
 	return None
+
+
+## Executing main function
 
 if __name__ == "__main__":
 	main()
