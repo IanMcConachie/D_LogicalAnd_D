@@ -1,0 +1,821 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="title" content="Bookstore for D&D 5e" />
+<meta name="description" content="Inventory, pricing, weights and other info for a D&D 5e bookstore, library and magic archive; great for role playing games." />
+    
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58352630-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58352630-1');
+</script>
+
+
+<meta name="distribution" CONTENT="Global" />
+<meta name="content-language" CONTENT="EN" />
+<meta name="author" CONTENT="@AmazingDG" />
+<meta name="revisit-after" CONTENT="30 days" />
+<meta name="copyright" CONTENT="ThievesGuild" />
+<meta name="robots" CONTENT="FOLLOW,INDEX" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+
+<!-- Social: Facebook -->
+<meta property="og:title" content="Bookstore for D&D 5e" />
+<meta property="og:site_name" content="The Thieves Guild" />
+<meta property="og:description" content="Inventory, pricing, weights and other info for a D&D 5e bookstore, library and magic archive; great for role playing games.">
+<meta property="og:url" content="https://www.thievesguild.cc/shops/shop-bookstore.php" />
+<meta property="og:image" content="https://www.thievesguild.cc/images/share-square-shops.jpg" />
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2023-02-05T00:04:45+00:00" />
+<meta property="article:author" content="The Guildmaster at the Thieves Guild" />
+
+<!-- Social: Twitter -->
+<!-- Twitter Validator: https://cards-dev.twitter.com/validator -->
+<meta name="twitter:title" content="Bookstore for D&D 5e">
+<meta name="twitter:description" content="Inventory, pricing, weights and other info for a D&D 5e bookstore, library and magic archive; great for role playing games.">
+<meta name="twitter:image" content="https://www.thievesguild.cc/images/share-square-shops.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Social: Google+ / Schema.org  -->
+<meta itemprop="name" content="Bookstore for D&D 5e">
+<meta itemprop="description" content="Inventory, pricing, weights and other info for a D&D 5e bookstore, library and magic archive; great for role playing games.">
+
+<!-- Fav Icons -->
+<link rel="apple-touch-icon-precomposed" href="https://www.thievesguild.cc/favicon-152.png">
+<meta name="msapplication-TileColor" content="#000">
+<meta name="msapplication-TileImage" content="https://www.thievesguild.cc/favicon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.thievesguild.cc/favicon-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.thievesguild.cc/favicon-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.thievesguild.cc/favicon-72.png">
+<link rel="icon" sizes="32x32" href="https://www.thievesguild.cc/favicon-32.png">
+<link rel="icon" sizes="16x16" href="https://www.thievesguild.cc/favicon.png">
+
+<link rel="stylesheet" href="https://www.thievesguild.cc/style.css" />
+
+<style>
+@font-face {
+    font-family: 'enchantedland';
+    src: url('https://www.thievesguild.cc/fonts/enchantedland.eot');
+    src: url('https://www.thievesguild.cc/fonts/enchantedland.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.svg#enchantedland') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'alfresco';
+    src: url('https://www.thievesguild.cc/fonts/alfresco.eot');
+    src: url('https://www.thievesguild.cc/fonts/alfresco.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/alfresco.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/alfresco.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/alfresco.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/alfresco.svg#alfresco') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avantgardebold';
+    src: url('https://www.thievesguild.cc/fonts/avantgardebold.eot');
+    src: url('https://www.thievesguild.cc/fonts/avantgardebold.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.svg#avantgardebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'drawfrunes';
+    src: url('https://www.thievesguild.cc/fonts/drawfrunes.eot');
+    src: url('https://www.thievesguild.cc/fonts/drawfrunes.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.svg#drawfrunes') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+</style> 
+<title>Bookstore for D&D 5e | The Thieves Guild</title>
+    
+	
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script><script>
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+</script>
+
+<script>
+	$(document).ready(function(){
+		$('.search').on('keyup',function(){
+			var searchTerm = $(this).val().toLowerCase();
+			$('#shopTbl div.contentrow').each(function(){
+				var lineStr = $(this).text().toLowerCase();
+				if(lineStr.indexOf(searchTerm) === -1){
+					$(this).hide();
+					$(".descexpand").hide();
+                    $(".rowCat").hide();
+                    $(".rowSec").hide();
+                }else{
+					$(this).show();
+				}
+			});
+		});
+	});
+</script>
+
+	
+</head>
+
+<body>
+
+<script>
+function toggle(n) {
+    var menus = document.getElementsByClassName("submenu");
+    for(var i=0;i<menus.length;i++){
+        if((i == (n-1)) && (menus[i].style.display != "block")){
+            menus[i].style.display = "block";
+        }else{
+            menus[i].style.display = "none";
+        }
+    } 
+};
+</script>
+
+    <div style="position:fixed; bottom:0; right:30px; margin:0; padding:0; z-index:95;">
+    <form  name="submissionform" action="https://www.thievesguild.cc/fix" method="post">
+        <input name="pageissue" type="hidden" id="pageissue" value="https://www.thievesguild.cc/shops/shop-bookstore.php">
+        <input type="image" id="FixButton" alt="Fix Problem" src="https://www.thievesguild.cc/images/fixbutton.jpg" 
+               style=" display:block; margin:0; padding:0; box-shadow: 0px 0px 2px rgb(0 0 0 / 65%);">
+    </form>
+    </div>
+    
+<header>
+  <div class="head-wrap"><a name="top" id="top"></a>
+  	 <div class="head-box">
+        <div class="sitetitlebox">
+            <div class="sitetitle"><a href="https://www.thievesguild.cc/">The Thieves Guild</a>
+                <div class="sitetag">A Collection of D&amp;D 5e Resources</div>
+            </div>
+        </div>
+        <div class="share">
+                        <a href="https://www.facebook.com/sharer.php?u=https://www.thievesguild.cc/shops/shop-bookstore.php" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-facebook.png" alt="Share on Facebook" /></a><!--
+
+            --><a href="https://twitter.com/intent/tweet?url=https://www.thievesguild.cc/shops/shop-bookstore.php&text=The Thieves Guild - DnD 5e Resources and DM Tools&via=" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-twitter.png" alt="Share on Twitter" /></a><!--
+
+           <a href="https://www.pinterest.com/pin/create/button?url=https://www.thievesguild.cc/shops/shop-bookstore.php&media=https://www.thievesguild.cc/images/share-thievesguild732x1102.jpg&description=The Thieves Guild - DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-pinterest.png" alt="Share on Pinterest" /></a>
+
+            <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.thievesguild.cc/shops/shop-bookstore.php&title=The Thieves Guild&caption=DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-tumblr.png" alt="Share on Tumblr" /></a>
+
+            --><a href="mailto:?subject=Visit The Thieves Guild&body=Visit www.thievesguild.cc for DnD 5e resources and DM tools."><img src="https://www.thievesguild.cc/images/social-email.png" alt="Share via Email" /></a>    
+        </div>
+     </div><!-- .head-box -->
+  </div><!-- .head-wrap -->
+
+  <div class="menubar-wrap">
+    <nav>
+		<ul class="mainmenu">
+			<li>
+				<a href="https://www.thievesguild.cc/">
+					<i class="menuico menuico-home"></i>
+					<strong>Home</strong>
+					<small>[the guild]</small>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(1);">
+					<i class="menuico menuico-arcana"></i>
+					<strong>Arcana</strong>
+					<small>[spells, items]</small>
+				</a>
+                <ul class="submenu submenu2">
+                  <li><a href="https://www.thievesguild.cc/spells"><i class="menuico menuico-spells"></i>Spells</a></li>
+                  <li><a href="https://www.thievesguild.cc/spells/spellcards"><i class="menuico menuico-cards"></i>Spell Cards</a></li>
+                  <li><a href="https://www.thievesguild.cc/magicitems"><i class="menuico menuico-magicit"></i>Magic Items List</a></li>
+                  <li><a href="https://www.thievesguild.cc/shops/shop-magicitem"><i class="menuico menuico-magiccoin"></i>Magic Item Shop Gen</a></li>
+                  <li><a href="https://www.thievesguild.cc/beasts?f=familiar"><i class="menuico menuico-familiar"></i>Familiars</a></li>
+                  <li><a href="https://www.thievesguild.cc/beasts"><i class="menuico menuico-polym"></i>Polymorph Beasts</a></li>
+                </ul>
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(2);">
+					<i class="menuico menuico-equip"></i>
+					<strong>Equipment</strong>
+					<small>[shops, trade gear]</small>
+				</a>
+                <ul class="submenu submenu3">
+                    <li><a href="https://www.thievesguild.cc/equipment/"><i class="menuico menuico-equi"></i>Equipment Tables</a></li>
+                    <li><a href="https://www.thievesguild.cc/shops/"><i class="menuico menuico-shop"></i>Shops</a></li>
+                </ul>
+			</li>
+			<li>
+				<a href="https://www.thievesguild.cc/harvest/">
+					<i class="menuico menuico-harvest"></i>
+					<strong>Harvest</strong>
+					<small>[monster loot]</small>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.thievesguild.cc/gods/">
+					<i class="menuico menuico-gods"></i>
+					<strong>Deities</strong>
+					<small>[gods, worship]</small>
+				</a>
+			</li>
+			<li>
+                <a href="javascript:void(0);" onclick="toggle(3);">
+					<i class="menuico menuico-tools"></i>
+					<strong>DM Tools</strong>
+					<small>[tables, reference]</small>
+				</a>
+                <ul class="submenu submenu6">
+                    <li><a href="https://www.thievesguild.cc/feats/"><i class="menuico menuico-feats"></i>Feats</a></li>
+                    <li><a href="https://www.thievesguild.cc/core/"><i class="menuico menuico-screen"></i>DM Screen / Quick Ref.</a></li>
+                    <li><a href="https://www.thievesguild.cc/npc"><i class="menuico menuico-npc"></i>NPC Generator</a></li>
+                    <li><a href="https://www.thievesguild.cc/tables/"><i class="menuico menuico-gears"></i>Generators</a></li>
+                    <li><a href="https://www.thievesguild.cc/stronghold/"><i class="menuico menuico-stronghold"></i>Strongholds</a></li>
+                </ul>    
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(4);">
+					<i class="menuico menuico-other"></i>
+					<strong>Other</strong>
+					<small>[riddles &amp; more]</small>
+				</a>
+                <ul class="submenu submenu7">
+                    <li><a href="https://www.thievesguild.cc/maps/"><i class="menuico menuico-maps"></i>Maps</a></li>
+                    <li><a href="https://www.thievesguild.cc/riddles/"><i class="menuico menuico-riddle"></i>Riddles</a></li>
+                    <li><a href="https://www.thievesguild.cc/cant/"><i class="menuico menuico-cant"></i>Thieve's Cant</a></li>
+                    
+                </ul>
+			</li>
+		</ul>
+    </nav>
+  </div>
+</header>
+<content>
+	<div class="page-wrap">
+ 		<div class="page-left pageback">
+        	<div class="page-border shoppage bookstore innerpage">
+
+                
+				<div class="titlebox">
+                    <div class="breadcrumbs">
+                        <a href="https://www.thievesguild.cc/">The Thieves Guild</a> > <a href="https://www.thievesguild.cc/shops/">Shops</a> > Bookstore
+                    </div> 
+					<div class="titletop">Shops &amp; Vendors</div>
+					<div class="titlemain"><h1>Bookstore</h1></div>
+					<!-- <div class="runetitle"></div> -->
+				</div>  
+
+				<div class="dmtabletxt" style="text-align:center; margin-top:30px;">
+					Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125)<br>
+					Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp)<br>
+					Trade goods accepted.
+				</div>
+				<br>
+				<br>
+				    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+		                    
+                      <a href="https://www.etsy.com/listing/931163233/moradin-t-shirt-dnd-dwarven-god-of-the" target="_blank" style="text-decoration: none;">
+                      <div class="bannershop bannerwide">
+                        
+							<div class="shopadleft">
+								<div class="shopadimg">
+									<img src="https://www.thievesguild.cc/images/shop/moradin-shirt.jpg" alt="Moradin Shirt">
+								</div>
+							</div><!-- .shopadleft -->
+
+							<div class="shopadright">
+								<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>         
+								<div class="shopadprod">
+									<span class="flink">Moradin Shirt</span>
+								</div>
+																	<div class="shopadlink">
+									Looking for more D&amp;D items, check out <span class="flink">our store</span>.
+									</div>
+																</div><!-- .shopadright -->
+                        
+                      </div>
+					  </a>    
+	</div>
+	
+		
+    
+    </div>
+	
+						<br>
+		<center>
+			<img src="https://www.thievesguild.cc/images/unofficial-circle.png" width="15" height="15" alt="unofficial submission" class="unoffimg"/>Denotes unofficial or user created items. Check with your DM first.
+		</center>
+		<br>
+	
+
+	
+
+				
+		<!-- Filter Form -->
+		<div class="tablefilter">
+			<div class="dmtabform">
+				<div class="dmtabinput">
+				  <input type="text" class="search form-control input-txt" placeholder="Filter Content">
+				</div>
+			</div>
+		</div>
+
+		<!-- Low-High Cost Form -->
+		<div class="costmultipier">
+			<form action="/shops/shop-bookstore.php" method="post" enctype="multipart/form-data">
+				<input type="hidden" name="submitted" value="1">
+				<div class="dmtabform costmultitem">
+						<div class="sfldlabel">Low Cost Multiplier:</div>
+						<div class="sfldinput" style="margin: 0 10px 0 5px;">
+							<input type="text" class="input-txt inputmultiplier" name="lowCalc" value=".8">
+						</div>
+				</div>
+				<div class="dmtabform costmultitem">  
+						<div class="sfldlabel">High Cost Multiplier:</div>
+						<div class="sfldinput"style="margin: 0 10px 0 5px;">
+							<input type="text" class="input-txt inputmultiplier" name="highCalc" value="2">
+						</div>   
+				</div>
+				<div class="dmtabform">    
+						<div class="sfldinput"><button type="submit" class="redbut smallbut">Change</button></div>
+				</div>
+			</form>	
+		</div> 
+					<div class="shoptable flextable" id="shopTbl" >
+				<div class="flexheadrow row0">
+					<div class="col1">Item</div>
+					<div class="col2">Cost<br>(Norm)</div>
+					<div class="col3">Cost<br>(Low)</div>
+					<div class="col4">Cost<br>(High)</div>
+					<div class="col5" style="text-align: center;"><span class="hidemob">Weight</span><span class="showmob">Wt</span></div>
+					<div class="col6" style="text-align: center;">Limited<br>Stock</div>
+					<div class="col7" style="text-align: center;">Rural<br>Locale</div>
+					<div class="col8" style="text-align: center;">Urban<br>Locale</div>
+					<div class="col9" style="text-align: center;">Prem.<br>Locale</div>
+									</div>							<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Adventuring Gear<a name='Adventuring-Gear'></a>								</div>
+							</div>						<div class="row1 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Common, Soft Bound 							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								8 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								6 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								16 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								4 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+												<div class="row2 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Common, Hard Bound 							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								10 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								20 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								5 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row3 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Uncommon, Soft Bound							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								15 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								12 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								30 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								4 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row4 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Uncommon, Hard Bound							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								20 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								40 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								5 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row5 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Rare, Soft Bound							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								30 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								24 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								60 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								4 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row6 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								Book, Rare, Hard Bound							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								50 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								40 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								100 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								5 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row7 flexrow contentrow">
+							<div class="col1 flexcol firstcell unoff">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc7');" class="">Hollow Book</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								10 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								4 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc7" class="row7b descexpand">
+								<div class="coldesc dmtabind">
+									A hollow book has the covers and spine of a normal tome and blends in with other books on a shelf. Its pages, however, are glued together and their middles cut out (usually leaving a half-inch border of paper) to form a space.									
+								</div>
+							</div>						<div class="row8 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc8');" class="">Journal, Soft Bound, 25 Sheets</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								7 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								6 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								14 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								5 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc8" class="row8b descexpand">
+								<div class="coldesc dmtabind">
+									An empty, hard bound journal containing 25 pages. 									
+								</div>
+							</div>						<div class="row9 flexrow contentrow">
+							<div class="col1 flexcol firstcell">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc9');" class="">Spellbook</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								50 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								40 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								100 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								3 lb.							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc9" class="row9b descexpand">
+								<div class="coldesc dmtabind">
+									Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.									
+								</div>
+							</div>			</div>
+
+				<div class="footnote">
+		<br>
+		<br>
+		<center>Adapted from tables created by jrobharing for reddit.com/r/DnD users</center>
+	</div>
+									
+<br>
+<br>
+    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+		                    
+                      <a href="https://www.etsy.com/listing/1022755894/st-cuthbert-hat-dnd-god-of" target="_blank" style="text-decoration: none;">
+                      <div class="bannershop bannerwide">
+                        
+							<div class="shopadleft">
+								<div class="shopadimg">
+									<img src="https://www.thievesguild.cc/images/shop/stcuthbert-hat.jpg" alt="St. Cuthbert Hat">
+								</div>
+							</div><!-- .shopadleft -->
+
+							<div class="shopadright">
+								<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>         
+								<div class="shopadprod">
+									<span class="flink">St. Cuthbert Hat</span>
+								</div>
+																	<div class="shopadlink">
+									Looking for more D&amp;D items, check out <span class="flink">our store</span>.
+									</div>
+																</div><!-- .shopadright -->
+                        
+                      </div>
+					  </a>    
+	</div>
+	
+		
+    
+    </div>
+	
+
+            </div>
+        </div><!-- .page-left -->
+        <div class="page-right-wrap">
+   
+	        <div class="page-right pageback">
+    		<div class="page-border">
+				    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+							  <div class="bannershop bannersquare">
+						<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>
+						<div class="shopadimg">
+							<a href="https://www.etsy.com/listing/924819926/auril-spiral-notebook-dnd-deity-of-cold" target="_blank">
+							<img src="https://www.thievesguild.cc/images/shop/auril-notebook.jpg" alt="Auril Notebook">
+							</a>
+						</div>
+						<div class="shopadprod">
+							<a href="https://www.etsy.com/listing/924819926/auril-spiral-notebook-dnd-deity-of-cold" target="_blank">Auril Notebook</a>
+						</div> 							<div class="shopadlink">Looking for more D&amp;D items,<br> 
+							check out <a href="https://www.etsy.com/shop/DnDGuild" target="_blank">our store</a>.</div>
+							                      </div>    
+	</div>
+	
+		
+    
+    </div>
+	        	</div>
+        </div>
+		        <div class="page-right pageback">
+    		<div class="page-border sidemenu linklist">
+            	<div class="listlinks">
+    <a href="https://www.thievesguild.cc/spells">Spells&nbsp;List</a> 
+    <a href="https://www.thievesguild.cc/spells/spellcards">Print&nbsp;Spell&nbsp;Cards</a> 
+    <a href="https://www.thievesguild.cc/magicitems">Magic&nbsp;Items</a> 
+    <a href="https://www.thievesguild.cc/beasts/?f=familiar">Familiars</a> 
+    <a href="https://www.thievesguild.cc/beasts">Polymorph&nbsp;Beasts</a> 
+    <a href="https://www.thievesguild.cc/equipment">Equipment&nbsp;Lists</a> 
+    <a href="https://www.thievesguild.cc/shops">Shops</a> 
+    <a href="https://www.thievesguild.cc/harvest">Harvesting&nbsp;&amp;&nbsp;Loot</a> 
+    <a href="https://www.thievesguild.cc/gods">Deities</a> 
+    <a href="https://www.thievesguild.cc/feats">Feats</a> 
+    <a href="https://www.thievesguild.cc/tables">Tables&nbsp;&amp;&nbsp;Generators</a> 
+    <a href="https://www.thievesguild.cc/riddles">Riddles</a> 
+    <a href="https://www.thievesguild.cc/cant">Thieve's&nbsp;Cant</a>
+</div>        	</div>
+        </div>
+		        <div class="page-right pageback">
+    		<div class="page-border rightads">
+				<div class="clear"></div>
+
+<style>
+	.sqads, .adhead { overflow:hidden; max-width:320px !important;  }
+	.sqads .adsize { width:320px; height:320px; margin: 0 auto; } */
+	/* @media(min-width: 1200px) { .advert .adsize { width:100%; max-width:728px; height:auto; } } */
+</style>
+    
+<div id="adheader-2" class="adhead">ADVERTISING - PLEASE SUPPORT THIS SITE</div>
+<div id="googleads-2" class="sqads">
+
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1015338218779852" crossorigin="anonymous"></script>
+        <!-- ThievesGuild Square -->
+        <ins class="adsbygoogle adsize"
+             style="display:block"
+             data-ad-client="ca-pub-1015338218779852"
+             data-ad-slot="6706681489"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+</div>
+
+<div class="clear"></div>        	</div>
+        </div>
+		    
+</div><!-- .page-right-wrap -->    </div><!-- .page-wrap -->
+</content>
+
+<footer>
+    <div class="footlinks">
+        <a href="https://www.thievesguild.cc/">Home</a> 
+         | <a href="https://www.thievesguild.cc/about">About</a> 
+         | <a href="https://www.thievesguild.cc/submit">Submission</a> 
+         | <a href="https://www.thievesguild.cc/support">Support&nbsp;This&nbsp;Site</a> 
+         | <a href="https://www.thievesguild.cc/contact">Contact</a> 
+         | <a href="https://www.thievesguild.cc/sitemap">Sitemap</a> 
+        <br>
+    </div>
+    <div class="footlist">
+        <div class="listlinks">
+    <a href="https://www.thievesguild.cc/spells">Spells&nbsp;List</a> 
+    <a href="https://www.thievesguild.cc/spells/spellcards">Print&nbsp;Spell&nbsp;Cards</a> 
+    <a href="https://www.thievesguild.cc/magicitems">Magic&nbsp;Items</a> 
+    <a href="https://www.thievesguild.cc/beasts/?f=familiar">Familiars</a> 
+    <a href="https://www.thievesguild.cc/beasts">Polymorph&nbsp;Beasts</a> 
+    <a href="https://www.thievesguild.cc/equipment">Equipment&nbsp;Lists</a> 
+    <a href="https://www.thievesguild.cc/shops">Shops</a> 
+    <a href="https://www.thievesguild.cc/harvest">Harvesting&nbsp;&amp;&nbsp;Loot</a> 
+    <a href="https://www.thievesguild.cc/gods">Deities</a> 
+    <a href="https://www.thievesguild.cc/feats">Feats</a> 
+    <a href="https://www.thievesguild.cc/tables">Tables&nbsp;&amp;&nbsp;Generators</a> 
+    <a href="https://www.thievesguild.cc/riddles">Riddles</a> 
+    <a href="https://www.thievesguild.cc/cant">Thieve's&nbsp;Cant</a>
+</div>    </div>
+    <div class="footcopy">
+        <div class="share">
+                        <a href="https://www.facebook.com/sharer.php?u=https://www.thievesguild.cc/shops/shop-bookstore.php" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-facebook.png" alt="Share on Facebook" /></a><!--
+
+            --><a href="https://twitter.com/intent/tweet?url=https://www.thievesguild.cc/shops/shop-bookstore.php&text=The Thieves Guild - DnD 5e Resources and DM Tools&via=" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-twitter.png" alt="Share on Twitter" /></a><!--
+
+            <a href="https://www.pinterest.com/pin/create/button?url=https://www.thievesguild.cc/shops/shop-bookstore.php&media=https://www.thievesguild.cc/images/share-thievesguild732x1102.jpg&description=The Thieves Guild - DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-pinterest.png" alt="Share on Pinterest" /></a>
+
+            <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.thievesguild.cc/shops/shop-bookstore.php&title=The Thieves Guild&caption=DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-tumblr.png" alt="Share on Tumblr" /></a><!--
+
+            --><a href="mailto:?subject=Visit The Thieves Guild&body=Visit www.thievesguild.cc for DnD 5e resources and DM tools."><img src="https://www.thievesguild.cc/images/social-email.png" alt="Share via Email" /></a>       
+        </div>
+        &copy; Copyright 2023, The Thieve's Guild
+    </div>
+</footer>
+</body>
+
+</html>

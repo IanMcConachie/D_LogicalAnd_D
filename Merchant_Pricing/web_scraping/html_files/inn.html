@@ -1,0 +1,3395 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="title" content="Inn and Tavern menu and sales for D&D 5e" />
+<meta name="description" content="Inventory, pricing, weights and other info for a D&D 5e Inn or Tavern; great for role playing games." />
+    
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58352630-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58352630-1');
+</script>
+
+
+<meta name="distribution" CONTENT="Global" />
+<meta name="content-language" CONTENT="EN" />
+<meta name="author" CONTENT="@AmazingDG" />
+<meta name="revisit-after" CONTENT="30 days" />
+<meta name="copyright" CONTENT="ThievesGuild" />
+<meta name="robots" CONTENT="FOLLOW,INDEX" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+
+<!-- Social: Facebook -->
+<meta property="og:title" content="Inn and Tavern menu and sales for D&D 5e" />
+<meta property="og:site_name" content="The Thieves Guild" />
+<meta property="og:description" content="Inventory, pricing, weights and other info for a D&D 5e Inn or Tavern; great for role playing games.">
+<meta property="og:url" content="https://www.thievesguild.cc/shops/shop-inntavern.php" />
+<meta property="og:image" content="https://www.thievesguild.cc/images/share-square-shops.jpg" />
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2023-02-05T00:04:46+00:00" />
+<meta property="article:author" content="The Guildmaster at the Thieves Guild" />
+
+<!-- Social: Twitter -->
+<!-- Twitter Validator: https://cards-dev.twitter.com/validator -->
+<meta name="twitter:title" content="Inn and Tavern menu and sales for D&D 5e">
+<meta name="twitter:description" content="Inventory, pricing, weights and other info for a D&D 5e Inn or Tavern; great for role playing games.">
+<meta name="twitter:image" content="https://www.thievesguild.cc/images/share-square-shops.jpg">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Social: Google+ / Schema.org  -->
+<meta itemprop="name" content="Inn and Tavern menu and sales for D&D 5e">
+<meta itemprop="description" content="Inventory, pricing, weights and other info for a D&D 5e Inn or Tavern; great for role playing games.">
+
+<!-- Fav Icons -->
+<link rel="apple-touch-icon-precomposed" href="https://www.thievesguild.cc/favicon-152.png">
+<meta name="msapplication-TileColor" content="#000">
+<meta name="msapplication-TileImage" content="https://www.thievesguild.cc/favicon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.thievesguild.cc/favicon-152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.thievesguild.cc/favicon-120.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.thievesguild.cc/favicon-72.png">
+<link rel="icon" sizes="32x32" href="https://www.thievesguild.cc/favicon-32.png">
+<link rel="icon" sizes="16x16" href="https://www.thievesguild.cc/favicon.png">
+
+<link rel="stylesheet" href="https://www.thievesguild.cc/style.css" />
+
+<style>
+@font-face {
+    font-family: 'enchantedland';
+    src: url('https://www.thievesguild.cc/fonts/enchantedland.eot');
+    src: url('https://www.thievesguild.cc/fonts/enchantedland.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/enchantedland.svg#enchantedland') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'alfresco';
+    src: url('https://www.thievesguild.cc/fonts/alfresco.eot');
+    src: url('https://www.thievesguild.cc/fonts/alfresco.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/alfresco.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/alfresco.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/alfresco.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/alfresco.svg#alfresco') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avantgardebold';
+    src: url('https://www.thievesguild.cc/fonts/avantgardebold.eot');
+    src: url('https://www.thievesguild.cc/fonts/avantgardebold.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/avantgardebold.svg#avantgardebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'drawfrunes';
+    src: url('https://www.thievesguild.cc/fonts/drawfrunes.eot');
+    src: url('https://www.thievesguild.cc/fonts/drawfrunes.eot?#iefix') format('embedded-opentype'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.woff2') format('woff2'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.woff') format('woff'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.ttf') format('truetype'),
+         url('https://www.thievesguild.cc/fonts/drawfrunes.svg#drawfrunes') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+</style> 
+<title>Inn and Tavern menu and sales for D&D 5e | The Thieves Guild</title>
+
+	
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script><script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
+
+<script>
+	$(document).ready(function(){
+		$('.search').on('keyup',function(){
+			var searchTerm = $(this).val().toLowerCase();
+			$('#shopTbl div.contentrow').each(function(){
+				var lineStr = $(this).text().toLowerCase();
+				if(lineStr.indexOf(searchTerm) === -1){
+					$(this).hide();
+					$(".descexpand").hide();
+                    $(".rowCat").hide();
+                    $(".rowSec").hide();
+				}else{
+					$(this).show();
+				}
+			});
+		});
+	});
+</script>
+
+	
+</head>
+
+<body>
+
+<script>
+function toggle(n) {
+    var menus = document.getElementsByClassName("submenu");
+    for(var i=0;i<menus.length;i++){
+        if((i == (n-1)) && (menus[i].style.display != "block")){
+            menus[i].style.display = "block";
+        }else{
+            menus[i].style.display = "none";
+        }
+    } 
+};
+</script>
+
+    <div style="position:fixed; bottom:0; right:30px; margin:0; padding:0; z-index:95;">
+    <form  name="submissionform" action="https://www.thievesguild.cc/fix" method="post">
+        <input name="pageissue" type="hidden" id="pageissue" value="https://www.thievesguild.cc/shops/shop-inntavern.php">
+        <input type="image" id="FixButton" alt="Fix Problem" src="https://www.thievesguild.cc/images/fixbutton.jpg" 
+               style=" display:block; margin:0; padding:0; box-shadow: 0px 0px 2px rgb(0 0 0 / 65%);">
+    </form>
+    </div>
+    
+<header>
+  <div class="head-wrap"><a name="top" id="top"></a>
+  	 <div class="head-box">
+        <div class="sitetitlebox">
+            <div class="sitetitle"><a href="https://www.thievesguild.cc/">The Thieves Guild</a>
+                <div class="sitetag">A Collection of D&amp;D 5e Resources</div>
+            </div>
+        </div>
+        <div class="share">
+                        <a href="https://www.facebook.com/sharer.php?u=https://www.thievesguild.cc/shops/shop-inntavern.php" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-facebook.png" alt="Share on Facebook" /></a><!--
+
+            --><a href="https://twitter.com/intent/tweet?url=https://www.thievesguild.cc/shops/shop-inntavern.php&text=The Thieves Guild - DnD 5e Resources and DM Tools&via=" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-twitter.png" alt="Share on Twitter" /></a><!--
+
+           <a href="https://www.pinterest.com/pin/create/button?url=https://www.thievesguild.cc/shops/shop-inntavern.php&media=https://www.thievesguild.cc/images/share-thievesguild732x1102.jpg&description=The Thieves Guild - DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-pinterest.png" alt="Share on Pinterest" /></a>
+
+            <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.thievesguild.cc/shops/shop-inntavern.php&title=The Thieves Guild&caption=DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-tumblr.png" alt="Share on Tumblr" /></a>
+
+            --><a href="mailto:?subject=Visit The Thieves Guild&body=Visit www.thievesguild.cc for DnD 5e resources and DM tools."><img src="https://www.thievesguild.cc/images/social-email.png" alt="Share via Email" /></a>    
+        </div>
+     </div><!-- .head-box -->
+  </div><!-- .head-wrap -->
+
+  <div class="menubar-wrap">
+    <nav>
+		<ul class="mainmenu">
+			<li>
+				<a href="https://www.thievesguild.cc/">
+					<i class="menuico menuico-home"></i>
+					<strong>Home</strong>
+					<small>[the guild]</small>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(1);">
+					<i class="menuico menuico-arcana"></i>
+					<strong>Arcana</strong>
+					<small>[spells, items]</small>
+				</a>
+                <ul class="submenu submenu2">
+                  <li><a href="https://www.thievesguild.cc/spells"><i class="menuico menuico-spells"></i>Spells</a></li>
+                  <li><a href="https://www.thievesguild.cc/spells/spellcards"><i class="menuico menuico-cards"></i>Spell Cards</a></li>
+                  <li><a href="https://www.thievesguild.cc/magicitems"><i class="menuico menuico-magicit"></i>Magic Items List</a></li>
+                  <li><a href="https://www.thievesguild.cc/shops/shop-magicitem"><i class="menuico menuico-magiccoin"></i>Magic Item Shop Gen</a></li>
+                  <li><a href="https://www.thievesguild.cc/beasts?f=familiar"><i class="menuico menuico-familiar"></i>Familiars</a></li>
+                  <li><a href="https://www.thievesguild.cc/beasts"><i class="menuico menuico-polym"></i>Polymorph Beasts</a></li>
+                </ul>
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(2);">
+					<i class="menuico menuico-equip"></i>
+					<strong>Equipment</strong>
+					<small>[shops, trade gear]</small>
+				</a>
+                <ul class="submenu submenu3">
+                    <li><a href="https://www.thievesguild.cc/equipment/"><i class="menuico menuico-equi"></i>Equipment Tables</a></li>
+                    <li><a href="https://www.thievesguild.cc/shops/"><i class="menuico menuico-shop"></i>Shops</a></li>
+                </ul>
+			</li>
+			<li>
+				<a href="https://www.thievesguild.cc/harvest/">
+					<i class="menuico menuico-harvest"></i>
+					<strong>Harvest</strong>
+					<small>[monster loot]</small>
+				</a>
+			</li>
+			<li>
+				<a href="https://www.thievesguild.cc/gods/">
+					<i class="menuico menuico-gods"></i>
+					<strong>Deities</strong>
+					<small>[gods, worship]</small>
+				</a>
+			</li>
+			<li>
+                <a href="javascript:void(0);" onclick="toggle(3);">
+					<i class="menuico menuico-tools"></i>
+					<strong>DM Tools</strong>
+					<small>[tables, reference]</small>
+				</a>
+                <ul class="submenu submenu6">
+                    <li><a href="https://www.thievesguild.cc/feats/"><i class="menuico menuico-feats"></i>Feats</a></li>
+                    <li><a href="https://www.thievesguild.cc/core/"><i class="menuico menuico-screen"></i>DM Screen / Quick Ref.</a></li>
+                    <li><a href="https://www.thievesguild.cc/npc"><i class="menuico menuico-npc"></i>NPC Generator</a></li>
+                    <li><a href="https://www.thievesguild.cc/tables/"><i class="menuico menuico-gears"></i>Generators</a></li>
+                    <li><a href="https://www.thievesguild.cc/stronghold/"><i class="menuico menuico-stronghold"></i>Strongholds</a></li>
+                </ul>    
+			</li>
+			<li>
+				<a href="javascript:void(0);" onclick="toggle(4);">
+					<i class="menuico menuico-other"></i>
+					<strong>Other</strong>
+					<small>[riddles &amp; more]</small>
+				</a>
+                <ul class="submenu submenu7">
+                    <li><a href="https://www.thievesguild.cc/maps/"><i class="menuico menuico-maps"></i>Maps</a></li>
+                    <li><a href="https://www.thievesguild.cc/riddles/"><i class="menuico menuico-riddle"></i>Riddles</a></li>
+                    <li><a href="https://www.thievesguild.cc/cant/"><i class="menuico menuico-cant"></i>Thieve's Cant</a></li>
+                    
+                </ul>
+			</li>
+		</ul>
+    </nav>
+  </div>
+</header>
+<content>
+	<div class="page-wrap">
+ 		<div class="page-left pageback">
+        	<div class="page-border shoppage inntavern innerpage">
+ 
+				<div class="titlebox">
+                    <div class="breadcrumbs">
+                        <a href="https://www.thievesguild.cc/">The Thieves Guild</a> > <a href="https://www.thievesguild.cc/shops/">Shops</a> > Inn &amp; Tavern Prices
+                    </div>
+					<div class="titletop">Shops &amp; Vendors</div>
+					<div class="titlemain"><h1>Inn &amp; Tavern Prices</h1></div>
+					<!-- <div class="runetitle"></div> -->
+				</div>  
+
+				<!--
+				<div class="dmtabletxt" style="text-align:center; margin-top:30px;">
+					Hard Sell (daily) at 375 gp (Cheap: 280 gp, Expensive: 500)<br>
+        			Selling Cap (daily) at 750 gp (Cheap: 560 gp, Expensive: 1000 gp)<br>
+					Trade goods accepted.
+				</div>
+				-->
+				<br>
+				<br>
+				    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+		                    
+                      <a href="https://www.etsy.com/listing/1029419134/vecna-hat-dnd-god-of-evil-secrets" target="_blank" style="text-decoration: none;">
+                      <div class="bannershop bannerwide">
+                        
+							<div class="shopadleft">
+								<div class="shopadimg">
+									<img src="https://www.thievesguild.cc/images/shop/vecna-hat.jpg" alt="Vecna Hat">
+								</div>
+							</div><!-- .shopadleft -->
+
+							<div class="shopadright">
+								<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>         
+								<div class="shopadprod">
+									<span class="flink">Vecna Hat</span>
+								</div>
+																	<div class="shopadlink">
+									Looking for more D&amp;D items, check out <span class="flink">our store</span>.
+									</div>
+																</div><!-- .shopadright -->
+                        
+                      </div>
+					  </a>    
+	</div>
+	
+		
+    
+    </div>
+	
+						<br>
+		<center>
+			<img src="https://www.thievesguild.cc/images/unofficial-circle.png" width="15" height="15" alt="unofficial submission" class="unoffimg"/>Denotes unofficial or user created items. Check with your DM first.
+		</center>
+		<br>
+	
+				<center style="margin:0 0 20px 0;">
+				<b>Menu:</b> <a href="#Menu-Breakfast-Options">Breakfast</a> | <a href="#Menu-Lunch-Options">Lunch</a> | <a href="#Menu-Dinner-Options">Dinner</a><br>
+				<b>Drinks:</b> <a href="#Non-Alcoholic-Beverages">Non-Alcoholic</a> | <a href="#Wine">Wine</a> | <a href="#Liquor">Liquor</a> | <a href="#Ale">Ale</a><br>
+				<a href="#Inn-stay-per-day">Inn Stay (per day)</a>
+				</center>
+				
+	
+
+				
+		<!-- Filter Form -->
+		<div class="tablefilter">
+			<div class="dmtabform">
+				<div class="dmtabinput">
+				  <input type="text" class="search form-control input-txt" placeholder="Filter Content">
+				</div>
+			</div>
+		</div>
+
+		<!-- Low-High Cost Form -->
+		<div class="costmultipier">
+			<form action="/shops/shop-inntavern.php" method="post" enctype="multipart/form-data">
+				<input type="hidden" name="submitted" value="1">
+				<div class="dmtabform costmultitem">
+						<div class="sfldlabel">Low Cost Multiplier:</div>
+						<div class="sfldinput" style="margin: 0 10px 0 5px;">
+							<input type="text" class="input-txt inputmultiplier" name="lowCalc" value=".8">
+						</div>
+				</div>
+				<div class="dmtabform costmultitem">  
+						<div class="sfldlabel">High Cost Multiplier:</div>
+						<div class="sfldinput"style="margin: 0 10px 0 5px;">
+							<input type="text" class="input-txt inputmultiplier" name="highCalc" value="2">
+						</div>   
+				</div>
+				<div class="dmtabform">    
+						<div class="sfldinput"><button type="submit" class="redbut smallbut">Change</button></div>
+				</div>
+			</form>	
+		</div> 
+					<div class="shoptable flextable" id="shopTbl" >
+				<div class="flexheadrow row0">
+					<div class="col1">Item</div>
+					<div class="col2">Cost<br>(Norm)</div>
+					<div class="col3">Cost<br>(Low)</div>
+					<div class="col4">Cost<br>(High)</div>
+					<div class="col5" style="text-align: center;"><span class="hidemob">Weight</span><span class="showmob">Wt</span></div>
+					<div class="col6" style="text-align: center;">Limited<br>Stock</div>
+					<div class="col7" style="text-align: center;">Rural<br>Locale</div>
+					<div class="col8" style="text-align: center;">Urban<br>Locale</div>
+					<div class="col9" style="text-align: center;">Prem.<br>Locale</div>
+									</div>							<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Menu - Breakfast Options<a name='Menu-Breakfast-Options'></a>								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Commoner<a name='Commoner'></a><br>
+								</div>
+							</div>						<div class="row1 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Meat Stick							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row2 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Roasted Locusts							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row3 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Cheese Omelet							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+												<div class="row4 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Ham & Cheese on Rye							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Merchant<a name='Merchant'></a><br>
+								</div>
+							</div>						<div class="row5 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Bacon & Egg Sandwich							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row6 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Omelet "Your Way"							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row7 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Bloodhawk Eggs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+												<div class="row8 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Bacon Stuffed Bread							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Noble<a name='Noble'></a><br>
+								</div>
+							</div>						<div class="row9 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Frittata & Herbs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row10 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Bacon & Owlbear Eggs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row11 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Boar Ham Steak & Eggs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row12 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Truffle Omelet							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Menu - Lunch Options<a name='Menu-Lunch-Options'></a>								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Commoner<a name='Commoner'></a><br>
+								</div>
+							</div>						<div class="row13 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stockpot Stew/ Soup							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row14 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								"Adventurer's" Steak							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row15 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Minced Pork							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row16 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Roast Goat & Cheese							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								6 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								5 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								12 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Merchant<a name='Merchant'></a><br>
+								</div>
+							</div>						<div class="row17 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Roast Lamb & Cheese							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row18 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Boar Tenderloin							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row19 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Baked Goose Breast							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row20 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Grilled Salmon							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								6 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								5 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								12 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Noble<a name='Noble'></a><br>
+								</div>
+							</div>						<div class="row21 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Rack of Lamb							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row22 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Shellfish Platter							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row23 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Dragon Turtle Soup							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row24 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Roc Meat Tar Tar							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								10 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Menu - Dinner Options<a name='Menu-Dinner-Options'></a>								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Commoner<a name='Commoner'></a><br>
+								</div>
+							</div>						<div class="row25 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stockpot Stew/ Soup							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row26 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Pigeon Pot Pie							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row27 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								'Tasha’s Hideous Stew'							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row28 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Rabbit and Potato Plate							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								6 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								5 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								12 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Merchant<a name='Merchant'></a><br>
+								</div>
+							</div>						<div class="row29 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Hunter's Pie							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row30 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Bloodhawk Breast							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row31 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Crocodile Steak							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row32 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Roasted Bullywug Legs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								6 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								5 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								12 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Noble<a name='Noble'></a><br>
+								</div>
+							</div>						<div class="row33 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Buffalo Ribeye							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row34 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Sahuagin Caviar							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row35 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Owlbear Steak & Eggs							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row36 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								[Color] Dragon Steak							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								10 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Drinks<a name='Drinks'></a>								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Non-Alcoholic Beverages<a name='Non-Alcoholic-Beverages'></a><br>
+								</div>
+							</div>						<div class="row37 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Coffee (cup)							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row38 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Goodberry "Wine"							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row39 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Fruit Juice (Varies)							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row40 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Milk (Local Variety)							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Wine<a name='Wine'></a><br>
+								</div>
+							</div>						<div class="row41 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc41');" class="">Abbey Red Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc41" class="row41b descexpand">
+								<div class="coldesc dmtabind">
+									This red wine comes from a variety of abbeys and monasteries that produce wine to help support their way of life. Each of these wines is slightly different and most consumers have a particular abbey they prefer.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row42 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc42');" class="">Bloodwine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc42" class="row42b descexpand">
+								<div class="coldesc dmtabind">
+									This very hearty wine is deep red in color and is said to be made from grapes grown over battlefields. Unknown to the public, it is actually made from raisins. <br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row43 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc43');" class="">Clarry Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc43" class="row43b descexpand">
+								<div class="coldesc dmtabind">
+									This is a generic table wine, often water down, then sweetened with honey.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row44 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc44');" class="">Evermead</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								11 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								9 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								22 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc44" class="row44b descexpand">
+								<div class="coldesc dmtabind">
+									This elven mead is always brewed exactly the same and in secret. Every cup of this golden shimmering liquid tastes exactly the same; it is the perfect mix of sweetness, spice, and smoke. Rumor states that the mead is aged for one hundred years before ready for drinking. It is also rumored that elves on every Plane of Existence brew evermead exactly the same. <i>Intoxication DC 15</i>.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row45 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc45');" class="">Far Ridge Red</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc45" class="row45b descexpand">
+								<div class="coldesc dmtabind">
+									This is a sweet dessert wine that is more rose than red colored. This wine claims to use a secret mix of grapes from all over the world. Those with a refined palate say the peculiar taste is just sugar covering up the water.									
+								</div>
+							</div>						<div class="row46 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc46');" class="">Fire Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc46" class="row46b descexpand">
+								<div class="coldesc dmtabind">
+									This extremely strong and spicy wine is reputed to have medicinal qualities. <i>Intoxication DC 12</i>.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row47 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc47');" class="">Glowfire</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc47" class="row47b descexpand">
+								<div class="coldesc dmtabind">
+									This is a pale chartreuse wine with very faint luminescence in darkness. This wine has a strong pear taste.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row48 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc48');" class="">Highdusk Dark</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc48" class="row48b descexpand">
+								<div class="coldesc dmtabind">
+									This sweet spicy wine is almost black in color and has a very high alcohol content. <i>Intoxication DC 12</i>.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row49 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc49');" class="">Mead Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc49" class="row49b descexpand">
+								<div class="coldesc dmtabind">
+									Mead is only made with honey and it is easily fouled and hard to make. The price reflects the difficulty making it and it is definitely an acquired taste. Intoxication DC 9.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row50 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc50');" class="">Redwood Dry</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc50" class="row50b descexpand">
+								<div class="coldesc dmtabind">
+									Very dry red fortified wine with a strong wood and berry taste.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row51 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc51');" class="">Special Vat</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc51" class="row51b descexpand">
+								<div class="coldesc dmtabind">
+									This pale fortified red wine causes the lips and tongue to go slightly numb and tingly. It tastes like grapes, strawberries, and raspberries.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row52 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc52');" class="">Table Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								6 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								5 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								12 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc52" class="row52b descexpand">
+								<div class="coldesc dmtabind">
+									The only thing fouler than generic watered down table wine, purchased in bulk, are cooking wines. But for those looking for intoxication over cost or taste, table wine will work just fine. <i>Intoxication DC 7</i>.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row53 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc53');" class="">Temple-Under-Rock</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc53" class="row53b descexpand">
+								<div class="coldesc dmtabind">
+									This is a very rare fortified wine on the surface and it is imported from a variety of underdark sources. It is always kept in opaque ceramic vessels as it quickly loses taste and its signature green glow if exposed to any light. This wine is rumored to be made of mushrooms that have never seen daylight.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row54 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc54');" class="">Topaz</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc54" class="row54b descexpand">
+								<div class="coldesc dmtabind">
+									This is a yellow to amber colored wine, slightly dry and balanced, with a nutty flavor.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row55 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc55');" class="">Spiced Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc55" class="row55b descexpand">
+								<div class="coldesc dmtabind">
+									This is a catch-all label for a wide variety of spiced or mulled wine made by different regions and city-states. The price listed is the average price.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row56 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc56');" class="">Westgate Ruby</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc56" class="row56b descexpand">
+								<div class="coldesc dmtabind">
+									This is a bold crimson wine with a slightly bitter taste and is one of the most commonly found wines considered acceptable to serve to one's guests.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row57 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc57');" class="">Winter Wine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc57" class="row57b descexpand">
+								<div class="coldesc dmtabind">
+									This fortified wine is usually only available in the summer when the passes to the frigid polar regions are open for trade. This pale purple-blue wine is very strong and very sweet.<br><span class="smallgray">[wine, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Liquor<a name='Liquor'></a><br>
+								</div>
+							</div>						<div class="row58 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc58');" class="">Absinthe</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc58" class="row58b descexpand">
+								<div class="coldesc dmtabind">
+									A licorice flavored liquor, with a clear green tint. To serve correctly, the bartender places a spoon over a filled glass of absinthe, with the sugar cube on it, underneath one of the taps on the fountain. Water slowly drips onto the sugar until it has dissolved.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row59 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc59');" class="">Cherry Fire</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc59" class="row59b descexpand">
+								<div class="coldesc dmtabind">
+									A cherry liquor with a strong, spicy kick.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row60 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc60');" class="">Death Wish</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc60" class="row60b descexpand">
+								<div class="coldesc dmtabind">
+									This liquor is pale yellow and is always served with a mouse skull. It smells of sunflower oil.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row61 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc61');" class="">Elquestria
+</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc61" class="row61b descexpand">
+								<div class="coldesc dmtabind">
+									This is the generic name given to elven liquors that are made for export by non-elven distributors. These weak liquors vary per region but most are gins that smell like a forest after a heavy rain.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row62 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc62');" class="">Elverquis</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								56 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								45 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								112 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc62" class="row62b descexpand">
+								<div class="coldesc dmtabind">
+									This rare and expensive liquor is said to be distilled from sunlight and rare berries. This drink is often used sparingly in various elven rituals and is rarely exported. It is always stored in glass bottle/jug. <i>Intoxication DC 13</i>.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row63 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc63');" class="">Fireball</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc63" class="row63b descexpand">
+								<div class="coldesc dmtabind">
+									This is a cinnamon schnapps that is hard to get used to. It was originally marketed for spellcasters to drink but it never really caught on. Its sits on most bar shelves as a gimmick more than anything else.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row64 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc64');" class="">Flindmaker</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc64" class="row64b descexpand">
+								<div class="coldesc dmtabind">
+									This clear liquor smells vaguely of rotten eggs and was originally made by gnolls. Certain barbarian tribes and hill giant clans began to drink it as a right of passage. It has gained prominence as the drink to start a celebration, "because everything else will taste better."<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row65 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc65');" class="">Hog Piss</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc65" class="row65b descexpand">
+								<div class="coldesc dmtabind">
+									This eloquently named swill is one of the cheapest liquors known. It tastes terrible, causes horrendous hangovers, and is very widely distributed or made "out back."<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row66 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc66');" class="">Kumis</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc66" class="row66b descexpand">
+								<div class="coldesc dmtabind">
+									This is fermented horse milk. It isn’t terribly rare but is not purchased very often outside of certain regions. The taste of this weak liquor is very "acquired."<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row67 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc67');" class="">Seawine</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc67" class="row67b descexpand">
+								<div class="coldesc dmtabind">
+									This potent grain alcohol is not wine and not made from grapes. It is similar to a very potent grain alcohol distilled from starches found in saltwater swamps and coastal regions. The taste is said to be rather terrible but seawine is not drunk for its taste; it is drunk for its incredible potency. This stuff is very flammable.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row68 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc68');" class="">Shasta</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc68" class="row68b descexpand">
+								<div class="coldesc dmtabind">
+									This is a cheap sake that is not distilled but brewed. Grain alcohol and other extracts have been added to it to the point where it is barely sake anymore. This is what a merchant might drink when pretending to have taste. If nothing else, shasta is very potent. <i>Intoxication DC 13</i>.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row69 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc69');" class="">Vodka</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc69" class="row69b descexpand">
+								<div class="coldesc dmtabind">
+									A clear liquor, traditionally made by distilling the liquid from cereal grains that have been fermented. Rarer vodka uses potatoes or fruits as the base. The price listed is for medium quality vodka. The very best vodka can cost 20 times as much.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row70 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc70');" class="">White Eye Whiskey</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc70" class="row70b descexpand">
+								<div class="coldesc dmtabind">
+									This whiskey has recently hit the market and is stamped with a large blind eye. The literature says it's brewed by the famous pirate, White Eye, who no one has ever heard of. But one thing is for certain; this perfectly aged and smokey whiskey is one of the best whiskeys being made now: at this price it should be.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row71 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc71');" class="">Zzar</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								15 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								12 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								3 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc71" class="row71b descexpand">
+								<div class="coldesc dmtabind">
+									This is technically a heavily fortified sherry wine. It is said to taste better in salty air and has become the liquor of choice among sea pirates and merchants. <i>Intoxication DC 12</i>.<br><span class="smallgray">[liquor, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Ale<a name='Ale'></a><br>
+								</div>
+							</div>						<div class="row72 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc72');" class="">Bitter Black</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								9 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								7 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								18 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc72" class="row72b descexpand">
+								<div class="coldesc dmtabind">
+									1 mug. This is a very dark stout exported from Arabel, a fortified city in northern Cormyr (Faerun). This heavy beer tasted best when served at cellar temperatures. Arabellans looked down upon anyone drinking it at a different temperature. Bitter Black had a dark black color with a thick head of deep brown foam. <i>Intoxication DC 8</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row73 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc73');" class="">Bleak Stout</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc73" class="row73b descexpand">
+								<div class="coldesc dmtabind">
+									1 mug. This dark brown stout has almost double the normal alcohol level and its taste is very bitter with a strong chocolate aftertaste. <i>Intoxication DC 11</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row74 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc74');" class="">Dragon's Breath</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc74" class="row74b descexpand">
+								<div class="coldesc dmtabind">
+									1 mug. This is a bitter dark beer known for its foul smell. It has a strong harsh flavor, and is best served with dark rye bread and cheese. It is exported from Sembia (located on the north-western coast of the Sea of Fallen Stars in central Faerûn). <i>Intoxication DC 10</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row75 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc75');" class="">Goblin Piss</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								1 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc75" class="row75b descexpand">
+								<div class="coldesc dmtabind">
+									Goblins call this terrible liquid "boblin," while other humanoids call it, "goblin piss." This substance is only not poisonous because of the amount of water in it. <i>Intoxication DC 7</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row76 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc76');" class="">Golden Sands Ale</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc76" class="row76b descexpand">
+								<div class="coldesc dmtabind">
+									Golden sands ale comes in basic, gold, and orange flavors. The prices are the same for both ales.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row77 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc77');" class="">Halfling's Best</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc77" class="row77b descexpand">
+								<div class="coldesc dmtabind">
+									This beer is as black as ink, but sweet<br />
+and fruity. <i>Intoxication DC 11</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row78 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc78');" class="">North Brew</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								1 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc78" class="row78b descexpand">
+								<div class="coldesc dmtabind">
+									This dark amber beer is one of the cheapest beers that won’t poison you.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row79 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc79');" class="">Old One Eye</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								3 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								2 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								6 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc79" class="row79b descexpand">
+								<div class="coldesc dmtabind">
+									This lager has a red color and it is rumored to be brewed with hot peppers.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row80 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc80');" class="">Purple Noble</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc80" class="row80b descexpand">
+								<div class="coldesc dmtabind">
+									This ale is crystal clear and filled with hidden flavors that are changed annually. The wealthy brag about being able to discern the year based on what tastes are included. This ale is mostly a status symbol. The ale has no purple coloration and the origin of its name is included in at least forty different and contradictory ballads.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row81 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc81');" class="">Shadowdark Ale</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc81" class="row81b descexpand">
+								<div class="coldesc dmtabind">
+									This ale is frothy and brown.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row82 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc82');" class="">Wizard's Choice</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc82" class="row82b descexpand">
+								<div class="coldesc dmtabind">
+									This is a yeasty red beer. <i>Intoxication DC 11</i>.<br><span class="smallgray">[ale, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row83 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc83');" class="">Hill Cider</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc83" class="row83b descexpand">
+								<div class="coldesc dmtabind">
+									This cider is fermented with a secret mix of fruits and apples and has a dark orange color. This cider is as alcoholic as a strong wine. <i>Intoxication DC 12</i>.<br><span class="smallgray">[cider, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row84 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc84');" class="">Knee Cracker Cider</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								1 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+															</div>
+						</div>
+													<div id="desc84" class="row84b descexpand">
+								<div class="coldesc dmtabind">
+									This is the most readily available cider. It is cheap, gritty, and inconsistent in flavor.<br><span class="smallgray">[cider, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row85 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc85');" class="">Troll Pear Cider</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc85" class="row85b descexpand">
+								<div class="coldesc dmtabind">
+									This pear cider is as exclusive as it is flavorful. What a pear has to do with a troll is not explained but the marketing has caught on. For those who can afford it, this is the finest cider to be found.<br><span class="smallgray">[cider, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>						<div class="row86 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								<a href="javascript:void(0)" onclick="toggle_visibility('desc86');" class="">Vilhoun Cider</a>							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+															</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+													<div id="desc86" class="row86b descexpand">
+								<div class="coldesc dmtabind">
+									This cider is known for its strong cherry flavor and its smoothness. It is usually served piping hot. Common in cold climates.<br><span class="smallgray">[cider, 16 oz. mug, retail price]</span>									
+								</div>
+							</div>							<div class="flexrow flexCat contentrow rowCat">
+								<div class="colCat colCat1 flexcol flexcolcat">
+									Food, Drink & Lodging<a name='Food,-Drink-&-Lodging'></a>								</div>
+							</div>							<div class="flexrow flexSec contentrow rowSec">
+								<div class="colSec colSec1 flexcol flexcolsec">
+									Inn stay (per day)<a name='Inn-stay-per-day'></a><br>
+								</div>
+							</div>						<div class="row87 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Squalid Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								7 cp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								6 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								14 cp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row88 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Poor Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								1 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								8 cp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								2 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row89 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Modest Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								5 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								4 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								1 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row90 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Comfortable Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								8 sp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								6 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								16 sp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+								&#x2714;							</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row91 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Wealthy Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								2 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								16 sp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								4 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+								&#x2714;							</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+												<div class="row92 flexrow contentrow">
+							<div class="col1 flexcol firstcell dmtabind">
+								Stay, Aristocratic Inn							</div>
+							<div class="col2 flexcol colcost">
+								<span class="celllabel graytxt">Cost: </span>
+								4 gp							</div>
+							<div class="col3 flexcol colcostlo">
+								<span class="celllabel graytxt">Cheap: </span>
+								3 gp							</div>
+							<div class="col4 flexcol colcosthi">
+								<span class="celllabel graytxt">Expensive: </span>
+								8 gp							</div>
+							<div class="col5 flexcol colweight">
+								<span class="celllabel graytxt">Weight: </span>
+								&mdash;							</div>
+							<div class="col6 flexcol collimstock">
+								<span class="celllabel graytxt">Limited Stock: </span>
+								&#x2714;							</div>
+							<div class="col7 flexcol colrural">
+								<span class="celllabel graytxt">Rural Locale: </span>
+															</div>
+							<div class="col8 flexcol colurban">
+								<span class="celllabel graytxt">Urban Locale: </span>
+															</div>
+							<div class="col9 flexcol colpremium">
+								<span class="celllabel graytxt">Premium Locale: </span>
+								&#x2714;							</div>
+						</div>
+									</div>
+
+				<div class="footnote">
+		<br>
+		<br>
+		<center>Adapted from tables created by jrobharing for reddit.com/r/DnD users</center>
+	</div>
+									
+<br>
+<br>
+    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+		                    
+                      <a href="https://www.etsy.com/listing/931183871/mask-hat-dnd-god-of-thieves" target="_blank" style="text-decoration: none;">
+                      <div class="bannershop bannerwide">
+                        
+							<div class="shopadleft">
+								<div class="shopadimg">
+									<img src="https://www.thievesguild.cc/images/shop/mask-hat.jpg" alt="Mask Hat">
+								</div>
+							</div><!-- .shopadleft -->
+
+							<div class="shopadright">
+								<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>         
+								<div class="shopadprod">
+									<span class="flink">Mask Hat</span>
+								</div>
+																	<div class="shopadlink">
+									Looking for more D&amp;D items, check out <span class="flink">our store</span>.
+									</div>
+																</div><!-- .shopadright -->
+                        
+                      </div>
+					  </a>    
+	</div>
+	
+		
+    
+    </div>
+	
+
+            </div>
+        </div><!-- .page-left -->
+        <div class="page-right-wrap">
+   
+	        <div class="page-right pageback">
+    		<div class="page-border">
+				    <div class="shopadhead">
+    	ADVERTISING - PLEASE SUPPORT THIS SITE
+    </div>
+	
+    
+    <div class="shopad">
+	
+  	<div class="bannershop">
+							  <div class="bannershop bannersquare">
+						<div class="shopadtitl"><h3>Shop D&ampD Goodies</h3></div>
+						<div class="shopadimg">
+							<a href="https://www.etsy.com/listing/926306411/auril-hat-dd-deity-of-cold?ga_search_query=auril" target="_blank">
+							<img src="https://www.thievesguild.cc/images/shop/auril-hat.jpg" alt="Auril Hat">
+							</a>
+						</div>
+						<div class="shopadprod">
+							<a href="https://www.etsy.com/listing/926306411/auril-hat-dd-deity-of-cold?ga_search_query=auril" target="_blank">Auril Hat</a>
+						</div> 							<div class="shopadlink">Looking for more D&amp;D items,<br> 
+							check out <a href="https://www.etsy.com/shop/DnDGuild" target="_blank">our store</a>.</div>
+							                      </div>    
+	</div>
+	
+		
+    
+    </div>
+	        	</div>
+        </div>
+		        <div class="page-right pageback">
+    		<div class="page-border sidemenu linklist">
+            	<div class="listlinks">
+    <a href="https://www.thievesguild.cc/spells">Spells&nbsp;List</a> 
+    <a href="https://www.thievesguild.cc/spells/spellcards">Print&nbsp;Spell&nbsp;Cards</a> 
+    <a href="https://www.thievesguild.cc/magicitems">Magic&nbsp;Items</a> 
+    <a href="https://www.thievesguild.cc/beasts/?f=familiar">Familiars</a> 
+    <a href="https://www.thievesguild.cc/beasts">Polymorph&nbsp;Beasts</a> 
+    <a href="https://www.thievesguild.cc/equipment">Equipment&nbsp;Lists</a> 
+    <a href="https://www.thievesguild.cc/shops">Shops</a> 
+    <a href="https://www.thievesguild.cc/harvest">Harvesting&nbsp;&amp;&nbsp;Loot</a> 
+    <a href="https://www.thievesguild.cc/gods">Deities</a> 
+    <a href="https://www.thievesguild.cc/feats">Feats</a> 
+    <a href="https://www.thievesguild.cc/tables">Tables&nbsp;&amp;&nbsp;Generators</a> 
+    <a href="https://www.thievesguild.cc/riddles">Riddles</a> 
+    <a href="https://www.thievesguild.cc/cant">Thieve's&nbsp;Cant</a>
+</div>        	</div>
+        </div>
+		        <div class="page-right pageback">
+    		<div class="page-border rightads">
+				<div class="clear"></div>
+
+<style>
+	.sqads, .adhead { overflow:hidden; max-width:320px !important;  }
+	.sqads .adsize { width:320px; height:320px; margin: 0 auto; } */
+	/* @media(min-width: 1200px) { .advert .adsize { width:100%; max-width:728px; height:auto; } } */
+</style>
+    
+<div id="adheader-2" class="adhead">ADVERTISING - PLEASE SUPPORT THIS SITE</div>
+<div id="googleads-2" class="sqads">
+
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1015338218779852" crossorigin="anonymous"></script>
+        <!-- ThievesGuild Square -->
+        <ins class="adsbygoogle adsize"
+             style="display:block"
+             data-ad-client="ca-pub-1015338218779852"
+             data-ad-slot="6706681489"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+</div>
+
+<div class="clear"></div>        	</div>
+        </div>
+		    
+</div><!-- .page-right-wrap -->    </div><!-- .page-wrap -->
+</content>
+
+<footer>
+    <div class="footlinks">
+        <a href="https://www.thievesguild.cc/">Home</a> 
+         | <a href="https://www.thievesguild.cc/about">About</a> 
+         | <a href="https://www.thievesguild.cc/submit">Submission</a> 
+         | <a href="https://www.thievesguild.cc/support">Support&nbsp;This&nbsp;Site</a> 
+         | <a href="https://www.thievesguild.cc/contact">Contact</a> 
+         | <a href="https://www.thievesguild.cc/sitemap">Sitemap</a> 
+        <br>
+    </div>
+    <div class="footlist">
+        <div class="listlinks">
+    <a href="https://www.thievesguild.cc/spells">Spells&nbsp;List</a> 
+    <a href="https://www.thievesguild.cc/spells/spellcards">Print&nbsp;Spell&nbsp;Cards</a> 
+    <a href="https://www.thievesguild.cc/magicitems">Magic&nbsp;Items</a> 
+    <a href="https://www.thievesguild.cc/beasts/?f=familiar">Familiars</a> 
+    <a href="https://www.thievesguild.cc/beasts">Polymorph&nbsp;Beasts</a> 
+    <a href="https://www.thievesguild.cc/equipment">Equipment&nbsp;Lists</a> 
+    <a href="https://www.thievesguild.cc/shops">Shops</a> 
+    <a href="https://www.thievesguild.cc/harvest">Harvesting&nbsp;&amp;&nbsp;Loot</a> 
+    <a href="https://www.thievesguild.cc/gods">Deities</a> 
+    <a href="https://www.thievesguild.cc/feats">Feats</a> 
+    <a href="https://www.thievesguild.cc/tables">Tables&nbsp;&amp;&nbsp;Generators</a> 
+    <a href="https://www.thievesguild.cc/riddles">Riddles</a> 
+    <a href="https://www.thievesguild.cc/cant">Thieve's&nbsp;Cant</a>
+</div>    </div>
+    <div class="footcopy">
+        <div class="share">
+                        <a href="https://www.facebook.com/sharer.php?u=https://www.thievesguild.cc/shops/shop-inntavern.php" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-facebook.png" alt="Share on Facebook" /></a><!--
+
+            --><a href="https://twitter.com/intent/tweet?url=https://www.thievesguild.cc/shops/shop-inntavern.php&text=The Thieves Guild - DnD 5e Resources and DM Tools&via=" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-twitter.png" alt="Share on Twitter" /></a><!--
+
+            <a href="https://www.pinterest.com/pin/create/button?url=https://www.thievesguild.cc/shops/shop-inntavern.php&media=https://www.thievesguild.cc/images/share-thievesguild732x1102.jpg&description=The Thieves Guild - DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-pinterest.png" alt="Share on Pinterest" /></a>
+
+            <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.thievesguild.cc/shops/shop-inntavern.php&title=The Thieves Guild&caption=DnD 5e Resources and DM Tools" target="_blank" rel="nofollow"><img src="https://www.thievesguild.cc/images/social-tumblr.png" alt="Share on Tumblr" /></a><!--
+
+            --><a href="mailto:?subject=Visit The Thieves Guild&body=Visit www.thievesguild.cc for DnD 5e resources and DM tools."><img src="https://www.thievesguild.cc/images/social-email.png" alt="Share via Email" /></a>       
+        </div>
+        &copy; Copyright 2023, The Thieve's Guild
+    </div>
+</footer>
+</body>
+
+</html>
