@@ -1,0 +1,359 @@
+Adventuring Gear|Abacus|2 gp
+Adventuring Gear|Acid (vial)|25 gp
+Adventuring Gear|Airship|20000 gp
+Adventuring Gear|Alchemist's Fire (flask)|50 gp
+Tool|Alchemist's Supplies|50 gp
+Gemstone|Alexandrite|500 gp
+Gemstone|Amber|100 gp
+Gemstone|Amethyst|100 gp
+Holy Symbol|Amulet|5 gp
+Adventuring Gear|Antitoxin|50 gp
+Gemstone|Aquamarine|500 gp
+Ammunition|Arrows|1 gp
+Poison|Assassin's Blood (Ingested)|150 gp
+Mount|Axe Beak|50 gp
+Gemstone|Azurite|10 gp
+Adventuring Gear|Backpack|2 gp
+Ammunition|Bad News Bullets|10 gp
+Tool|Bagpipes|30 gp
+Adventuring Gear|Ball Bearings (bag of 1,000)|1 gp
+Gemstone|Banded Agate|10 gp
+Adventuring Gear|Barrel|2 gp
+Adventuring Gear|Basic Fishing Equipment|1 sp
+Adventuring Gear|Basket|4 sp
+Martial Melee Weapon|Battleaxe|10 gp
+Adventuring Gear|Bedroll|1 gp
+Adventuring Gear|Bell|1 gp
+Tool|Birdpipes|12 gp
+Adventuring Gear|Bit and Bridle|2 gp
+Gemstone|Black Opal|1000 gp
+Gemstone|Black Pearl|500 gp
+Potion|Black Sap|300 gp
+Gemstone|Black Sapphire|5000 gp
+Adventuring Gear|Blanket|5 sp
+Potion|Blight Ichor|200 gp
+Adventuring Gear|Block and Tackle|1 gp
+Gemstone|Bloodstone|50 gp
+Martial Ranged Weapon|Blowgun|10 gp
+Ammunition|Blowgun Needles|1 gp
+Gemstone|Blue quartz|10 gp
+Gemstone|Blue Sapphire|1000 gp
+Gemstone|Blue spinel|500 gp
+Firearms Ranged Weapon|Blunderbuss (Exandria)|300 gp
+Ammunition|Blunderbuss Bullets|5 gp
+Adventuring Gear|Bomb|150 gp
+Vehicle (Space)|Bombard|50000 gp
+Adventuring Gear|Book|25 gp
+Adventuring Gear|Bottle, Glass|2 gp
+Medium Armor|Breastplate|400 gp
+Tool|Brewer's Supplies|20 gp
+Adventuring Gear|Bucket|5 cp
+Ammunition|Bullets, Renaissance|3 gp
+Equipment Pack|Burglar's Pack|16 gp
+Poison|Burnt Othur Fumes (Inhaled)|500 gp
+Tool|Calligrapher's Supplies|10 gp
+Adventuring Gear|Caltrops (bag of 20)|1 gp
+Mount|Camel|50 gp
+Adventuring Gear|Candle|1 cp
+Adventuring Gear|Canoe|50 gp
+Gemstone|Carnelian|50 gp
+Tool|Carpenter's Tools|8 gp
+Vehicle (Land)|Carriage|100 gp
+Vehicle (Land)|Cart|15 gp
+Tool|Cartographer's Tools|15 gp
+Adventuring Gear|Case, Crossbow Bolt|1 gp
+Adventuring Gear|Case, Map or Scroll|1 gp
+Adventuring Gear|Chain (10 feet)|5 gp
+Heavy Armor|Chain Mail|75 gp
+Medium Armor|Chain Shirt|50 gp
+Gemstone|Chalcedony|50 gp
+Adventuring Gear|Chalk (1 piece)|1 cp
+Vehicle (Land)|Chariot|250 gp
+Adventuring Gear|Chest|5 gp
+Gemstone|Chrysoberyl|100 gp
+Gemstone|Chrysoprase|50 gp
+Gemstone|Citrine|50 gp
+Adventuring Gear|Climber's Kit|25 gp
+Adventuring Gear|Clothes, Common|5 sp
+Adventuring Gear|Clothes, Costume|5 gp
+Adventuring Gear|Clothes, Fine|15 gp
+Adventuring Gear|Clothes, Traveler's|2 gp
+Adventuring Gear|Clothing, cold weather|10 gp
+Simple Melee Weapon|Club|1 sp
+Tool|Cobbler's Tools|5 gp
+Adventuring Gear|Component Pouch|25 gp
+Tool|Cook's Utensils|1 gp
+Gemstone|Coral|100 gp
+Adventuring Gear|Crampons|2 gp
+Poison|Crawler Mucus (Contact)|200 gp
+Ammunition|Crossbow Bolts|1 gp
+Martial Ranged Weapon|Crossbow, hand|75 gp
+Martial Ranged Weapon|Crossbow, heavy|50 gp
+Simple Ranged Weapon|Crossbow, light|25 gp
+Adventuring Gear|Crowbar|2 gp
+Arcane Focus|Crystal|10 gp
+Simple Melee Weapon|Dagger|2 gp
+Vehicle (Space)|Damselfly Ship|20000 gp
+Simple Ranged Weapon|Dart|5 cp
+Gemstone|Diamond|5000 gp
+Tool|Dice Set|1 sp
+Equipment Pack|Diplomat's Pack|39 gp
+Tool|Disguise Kit|25 gp
+Vehicle (Land)|Dogsled|20 gp
+Mount|Donkey (or Mule)|8 gp
+Martial Melee Weapon|Double-Bladed Scimitar|100 gp
+Mount|Draft Horse|50 gp
+Tool|Dragonchess Set|1 gp
+Poison|Dreamlily|1 gp
+Poison|Drow Poison (Injury)|200 gp
+Tool|Drum|6 gp
+Tool|Dulcimer|25 gp
+Equipment Pack|Dungeoneer's Pack|12 gp
+Mount|Elephant|200 gp
+Holy Symbol|Emblem|5 gp
+Gemstone|Emerald|1000 gp
+Equipment Pack|Entertainer's Pack|40 gp
+Poison|Essence of Ether (Inhaled)|300 gp
+Equipment Pack|Explorer's Pack|10 gp
+Gemstone|Eye agate|10 gp
+Adventuring Gear|Feed (per day)|5 cp
+Gemstone|Fire Opal|1000 gp
+Adventuring Gear|Fishing Tackle|1 gp
+Martial Melee Weapon|Flail|10 gp
+Adventuring Gear|Flask or Tankard|2 cp
+Tool|Flute|2 gp
+Vehicle (Space)|Flying Fish Ship|20000 gp
+Tool|Forgery Kit|15 gp
+Vehicle (Water)|Galley|30000 gp
+Gemstone|Garnet|100 gp
+Martial Melee Weapon|Glaive|20 gp
+Tool|Glassblower's Tools|30 gp
+Tool|Glaur|3 gp
+Adventuring Gear|Grappling Hook|2 gp
+Martial Melee Weapon|Greataxe|30 gp
+Simple Melee Weapon|Greatclub|2 sp
+Martial Melee Weapon|Greatsword|50 gp
+Adventuring Gear|Gunpowder, Keg|250 gp
+Adventuring Gear|Gunpowder, Powder Horn|35 gp
+Martial Melee Weapon|Halberd|20 gp
+Medium Armor|Half Plate|750 gp
+Adventuring Gear|Hammer|1 gp
+Adventuring Gear|Hammer, Sledge|2 gp
+Vehicle (Space)|Hammerhead Ship|40000 gp
+Tool|Hand Drum|6 gp
+Ammunition|Hand Mortar Ammunition|10 gp
+Simple Melee Weapon|Handaxe|5 gp
+Adventuring Gear|Healer's Kit|5 gp
+Gemstone|Hematite|10 gp
+Tool|Herbalism Kit|5 gp
+Medium Armor|Hide|10 gp
+Adventuring Gear|Holy Water (flask)|25 gp
+Martial Melee Weapon|Hoopak|1 gp
+Martial Ranged Weapon|Hoopak (Ranged)|1 gp
+Tool|Horn|3 gp
+Adventuring Gear|Hourglass|25 gp
+Adventuring Gear|Hunting Trap|5 gp
+Adventuring Gear|Ink (1 ounce bottle)|10 gp
+Adventuring Gear|Ink Pen|2 cp
+Adventuring Gear|Insect Repellent-Incense|1 sp
+Adventuring Gear|Insect Repellent-Salve|1 gp
+Gemstone|Jacinth|5000 gp
+Gemstone|Jade|100 gp
+Gemstone|Jasper|50 gp
+Simple Melee Weapon|Javelin|5 sp
+Gemstone|Jet|100 gp
+Tool|Jeweler's Tools|25 gp
+Adventuring Gear|Jug or Pitcher|2 cp
+Vehicle (Water)|Keelboat|3000 gp
+Adventuring Gear|Ladder (10 foot)|1 sp
+Adventuring Gear|Lamp|5 sp
+Vehicle (Space)|Lamprey Ship|20000 gp
+Martial Melee Weapon|Lance|10 gp
+Adventuring Gear|Lantern, Bullseye|10 gp
+Adventuring Gear|Lantern, Hooded|5 gp
+Gemstone|Lapis Lazuli|10 gp
+Light Armor|Leather|10 gp
+Tool|Leatherworker's Tools|5 gp
+Simple Melee Weapon|Light Hammer|2 gp
+Vehicle (Space)|Living Ship|25000 gp
+Adventuring Gear|Lock|10 gp
+Martial Ranged Weapon|Longbow|50 gp
+Tool|Longhorn|2 gp
+Vehicle (Water)|Longship|10000 gp
+Martial Melee Weapon|Longsword|15 gp
+Tool|Lute|35 gp
+Tool|Lyre|30 gp
+Simple Melee Weapon|Mace|5 gp
+Adventuring Gear|Magnifying Glass|100 gp
+Gemstone|Malachite|10 gp
+Poison|Malice (Inhaled)|250 gp
+Adventuring Gear|Manacles|2 gp
+Tool|Mason's Tools|10 gp
+Mount|Mastiff|25 gp
+Martial Melee Weapon|Maul|10 gp
+Adventuring Gear|Mess Kit|2 sp
+Poison|Midnight Tears (Ingested)|1500 gp
+Adventuring Gear|Mirror, Steel|5 gp
+Equipment Pack|Monster Hunter's Pack|33 gp
+Gemstone|Moonstone|50 gp
+Mount|Moorbounder|400 gp
+Martial Melee Weapon|Morningstar|15 gp
+Gemstone|Moss agate|10 gp
+Potion|Muroosa Balm|100 gp
+Firearms Ranged Weapon|Musket|500 gp
+Firearms Ranged Weapon|Musket (Exandria)|300 gp
+Ammunition|Musket (Exandria) Bullets|5 gp
+Vehicle (Space)|Nautiloid|50000 gp
+Tool|Navigator's Tools|25 gp
+Martial Ranged Weapon|Net|1 gp
+Vehicle (Space)|Nightspider|50000 gp
+Gemstone|Obsidian|10 gp
+Adventuring Gear|Oil (flask)|1 sp
+Poison|Oil of Taggit (Contact)|400 gp
+Potion|Olisuba Leaf|50 gp
+Gemstone|Onyx|50 gp
+Gemstone|Opal|1000 gp
+Arcane Focus|Orb|20 gp
+Light Armor|Padded|5 gp
+Tool|Painter's Supplies|10 gp
+Poison|Pale Tincture (Ingested)|250 gp
+Firearms Ranged Weapon|Palm Pistol (Exandria)|50 gp
+Ammunition|Palm Pistol Bullets|2 gp
+Tool|Pan Flute|12 gp
+Adventuring Gear|Paper (one sheet)|2 sp
+Adventuring Gear|Parchment (one sheet)|1 sp
+Gemstone|Pearl|100 gp
+Firearms Ranged Weapon|Pepperbox (Exandria)|250 gp
+Ammunition|Pepperbox Bullets|4 gp
+Adventuring Gear|Perfume (vial)|5 gp
+Gemstone|Peridot|500 gp
+Adventuring Gear|Pick, Miner's|2 gp
+Martial Melee Weapon|Pike|5 gp
+Firearms Ranged Weapon|Pistol|250 gp
+Firearms Ranged Weapon|Pistol (Exandria)|150 gp
+Ammunition|Pistol (Exandria) Bullets|4 gp
+Adventuring Gear|Piton|5 cp
+Heavy Armor|Plate|1500 gp
+Tool|Playing Card Set|5 sp
+Poison|Poison, Basic (vial)|100 gp
+Tool|Poisoner's Kit|50 gp
+Adventuring Gear|Pole (10-foot)|5 cp
+Mount|Pony|30 gp
+Adventuring Gear|Pot, Iron|2 gp
+Potion|Potion of Healing|50 gp
+Tool|Potter's Tools|10 gp
+Adventuring Gear|Pouch|5 sp
+Adventuring Gear|Pride Silk|100 gp
+Light Armor|Pride Silk Outfit|500 gp
+Equipment Pack|Priest's Pack|19 gp
+Poison|Purple Worm Poison (Injury)|2000 gp
+Simple Melee Weapon|Quarterstaff|2 sp
+Gemstone|Quartz|50 gp
+Adventuring Gear|Quiver|1 gp
+Adventuring Gear|Rain Catcher|1 gp
+Adventuring Gear|Ram, Portable|4 gp
+Martial Melee Weapon|Rapier|25 gp
+Adventuring Gear|Rations (1 day)|5 sp
+Holy Symbol|Reliquary|5 gp
+Gemstone|Rhodochrosite|10 gp
+Mount|Riding Horse|75 gp
+Heavy Armor|Ring Mail|30 gp
+Adventuring Gear|Robes|1 gp
+Arcane Focus|Rod|10 gp
+Adventuring Gear|Rope, Hempen (50 feet)|1 gp
+Adventuring Gear|Rope, Silk (50 feet)|10 gp
+Vehicle (Water)|Rowboat|50 gp
+Gemstone|Ruby|5000 gp
+Adventuring Gear|Sack|1 cp
+Adventuring Gear|Saddle, Exotic|60 gp
+Adventuring Gear|Saddle, Military|20 gp
+Adventuring Gear|Saddle, Pack|5 gp
+Adventuring Gear|Saddle, Riding|10 gp
+Adventuring Gear|Saddlebags|4 gp
+Vehicle (Water)|Sailing Ship|10000 gp
+Gemstone|Sardonyx|50 gp
+Medium Armor|Scale Mail|50 gp
+Adventuring Gear|Scale, Merchant's|5 gp
+Equipment Pack|Scholar's Pack|40 gp
+Martial Melee Weapon|Scimitar|25 gp
+Vehicle (Space)|Scorpion Ship|25000 gp
+Adventuring Gear|Sealing Wax|5 sp
+Poison|Serpent Venom (Injury)|200 gp
+Tool|Shawm|2 gp
+Shield|Shield|10 gp
+Simple Ranged Weapon|Shortbow|25 gp
+Martial Melee Weapon|Shortsword|10 gp
+Adventuring Gear|Shovel|2 gp
+Vehicle (Space)|Shrike Ship|20000 gp
+Simple Melee Weapon|Sickle|1 gp
+Adventuring Gear|Signal Whistle|5 cp
+Adventuring Gear|Signet Ring|5 gp
+Vehicle (Land)|Skyship|100000 gp
+Vehicle (Land)|Sled|20 gp
+Mount|Sled Dog|50 gp
+Simple Ranged Weapon|Sling|1 sp
+Ammunition|Sling Bullets|4 cp
+Tool|Smith's Tools|20 gp
+Adventuring Gear|Snowshoes|2 gp
+Adventuring Gear|Soap|2 cp
+Tool|Songhorn|2 gp
+Potion|Soothsalts|150 gp
+Vehicle (Space)|Space Galleon|30000 gp
+Simple Melee Weapon|Spear|1 gp
+Adventuring Gear|Spellbook|50 gp
+Medium Armor|Spiked Armor|75 gp
+Adventuring Gear|Spikes, Iron (10)|1 gp
+Gemstone|Spinel|100 gp
+Heavy Armor|Splint|200 gp
+Druidic Focus|Sprig of Mistletoe|1 gp
+Adventuring Gear|Spyglass|1000 gp
+Vehicle (Space)|Squid Ship|25000 gp
+Arcane Focus|Staff|5 gp
+Vehicle (Space)|Star Moth|40000 gp
+Gemstone|Star Rose Quartz|50 gp
+Gemstone|Star Ruby|1000 gp
+Gemstone|Star Sapphire|1000 gp
+Light Armor|Studded Leather|45 gp
+Tool|Tantan|6 gp
+Adventuring Gear|Tent, Two-Person|2 gp
+Potion|Theki Root|3 gp
+Tool|Thelarr|2 gp
+Tool|Thieves' Tools|25 gp
+Tool|Three-Dragon Ante Set|1 gp
+Gemstone|Tiger Eye|10 gp
+Adventuring Gear|Tinderbox|5 sp
+Tool|Tinker's Tools|50 gp
+Tool|Tocken|6 gp
+Gemstone|Topaz|500 gp
+Adventuring Gear|Torch|1 cp
+Poison|Torpor (Ingested)|600 gp
+Druidic Focus|Totem|1 gp
+Gemstone|Tourmaline|100 gp
+Martial Melee Weapon|Trident|5 gp
+Poison|Truth Serum (Ingested)|150 gp
+Gemstone|Turquoise|10 gp
+Vehicle (Space)|Turtle Ship|40000 gp
+Adventuring Gear|Vial|1 gp
+Tool|Viol|30 gp
+Vehicle (Land)|Wagon|35 gp
+Arcane Focus|Wand|10 gp
+Martial Melee Weapon|War Pick|5 gp
+Tool|Wargong|30 gp
+Martial Melee Weapon|Warhammer|15 gp
+Mount|Warhorse|400 gp
+Vehicle (Water)|Warship|25000 gp
+Vehicle (Space)|Wasp Ship|20000 gp
+Adventuring Gear|Waterskin|2 sp
+Tool|Weaver's Tools|1 gp
+Adventuring Gear|Whetstone|1 cp
+Martial Melee Weapon|Whip|2 gp
+Potion|Willowshade Oil|30 gp
+Tool|Woodcarver's Tools|1 gp
+Druidic Focus|Wooden Staff|5 gp
+Poison|Wyvern Poison (Injury)|1200 gp
+Tool|Yarting|35 gp
+Gemstone|Yellow sapphire|1000 gp
+Druidic Focus|Yew Wand|10 gp
+Simple Melee Weapon|Yklwa|1 gp
+Gemstone|Zircon|50 gp
+Tool|Zulkoon|30 gp
