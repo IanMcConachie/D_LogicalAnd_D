@@ -1,0 +1,803 @@
+Type|Items|DMPG Price gp
+Wondrous Items|Abracadabrus|2,500 gp
+Wondrous Items|Absorbing Tattoo|8,000 gp
+Weapons|Acheron Blade|900 gp
+Armor|Adamantine Armor|+500 gp
+Wondrous Items|Alchemical Compendium|3,000 gp
+Wondrous Items|Alchemy Jug|100 gp
+Wondrous Items|All-Purpose Tool, +1|1,500 gp
+Wondrous Items|All-Purpose Tool, +2|4,500 gp
+Wondrous Items|All-Purpose Tool, +3|16,000 gp
+Wondrous Items|Amethyst Lodestone|20,000 gp
+Ammunition|Ammunition +1 (Ea)|50 gp
+Ammunition|Ammunition +2 (Ea)|250 gp
+Ammunition|Ammunition +3 (Ea)|2,500 gp
+Ammunition|Ammunition, Adamantine (10 pieces)|500 gp
+Wondrous Items: Neck|Amulet Of Health|4,000 gp
+Wondrous Items: Neck|Amulet Of Proof Against Detection And Location|400 gp
+Wondrous Items: Neck|Amulet Of Protection From Turning|3,600 gp
+Wondrous Items: Neck|Amulet Of The Black Skull|6,400 gp
+Wondrous Items|Amulet of the Devout, +1|425 gp
+Wondrous Items|Amulet of the Devout, +2|4,250 gp
+Wondrous Items|Amulet of the Devout, +3|14,500 gp
+Wondrous Item|Amulet of the Drunkard|500 gp
+Wondrous Items: Neck|Amulet Of The Planes|43,000 gp
+Shields|Animated Shield|6,000 gp
+Wondrous Items|Apparatus Of Kwalish|90,000 gp
+Wondrous Items|Apparatus Of The Crab|90,000 gp
+Wondrous Item|Arcane Cannon|6,500 gp
+Wondrous Items|Arcane Grimoire, +1|425 gp
+Wondrous Items|Arcane Grimoire, +2|4,250 gp
+Wondrous Items|Arcane Grimoire, +3|14,500 gp
+Wondrous Items|Arcane Propulsion Arm|5,100 gp
+Weapons|Armblade|100 gp
+Weapons|Armblade|100 gp
+Armor|Armor Of Gleaming (any medium or heavy)|+75 gp
+Armor|Armor Of Invulnerability|70,000 gp
+Armor|Armor Of Resistance|3,000 gp
+Armor|Armor Of Vulnerability|1,500 gp
+Armor|Armor, +1|3,000 gp
+Armor|Armor, +2|20,000 gp
+Armor|Armor, +3|51,000 gp
+Ammunition|Arrow Of Slaying (Ea)|1,000 gp
+Shields|Arrow-Catching Shield|4,500 gp
+Wondrous Items|Astral Shard|4,200 gp
+Wondrous Items|Astronomy Archive|3,300 gp
+Wondrous Items|Atlas of Endless Horizons|3,750 gp
+Weapons|Azuredge (battleaxe)|53,000 gp
+Wondrous Items|Badge Of The Watch|3,250 gp
+Wondrous Items|Bag Of Beans|4,200 gp
+Wondrous Items|Bag Of Devouring|12,000 gp
+Wondrous Items|Bag Of Holding|500 gp
+Wondrous Items|Bag Of Tricks|350 gp
+Wondrous Items|Balance Of Harmony|200 gp
+Wondrous Items|Balloon Pack|275 gp
+Wondrous Items|Banner Of The Krig Rune|4,400 gp
+Wondrous Items|Barrier Tattoo (Rare)|1,500 gp
+Wondrous Items|Barrier Tattoo (Uncommon)|200 gp
+Wondrous Items|Barrier Tattoo (Very Rare)|6,000 gp
+Armor|Battering Shield|850 gp
+Wondrous Items|Battle Standard Of Infernal Power|6,000 gp
+Wondrous Items|Bead Of Force|3,000 gp
+Wondrous Items|Bead Of Nourishment|25 gp
+Wondrous Items|Bead Of Refreshment|25 gp
+Wondrous Items|Belashyrra's Beholder Crown|51,000 gp
+Wondrous Items|Bell Branch|750 gp
+Wondrous Items: Waist|Belt Of Dwarvenkind|5,000 gp
+Wondrous Items: Waist|Belt Of Giant Strength (Cloud)|66,000 gp
+Wondrous Items: Waist|Belt Of Giant Strength (Fire)|36,000 gp
+Wondrous Items: Waist|Belt Of Giant Strength (Hill)|4,000 gp
+Wondrous Items: Waist|Belt Of Giant Strength (Stone/Frost)|12,000 gp
+Wondrous Items: Waist|Belt Of Giant Strength (Storm)|100,000 gp
+Weapons|Berserker Axe|2,000 gp
+Wondrous Items|Black Crystal Tablet|90,000 gp
+Wondrous Items: Eyes|Black Dragon Mask|95,000 gp
+Staffs|Blackstaff|72,000 gp
+Weapons|Blade Of The Medusa|5,500 gp
+Rods|Blast Scepter|9500 gp
+Wondrous Items|Blod Stone|6,500 gp
+Wondrous Items|Blood Fury Tattoo|32,000 gp
+Potions & Oils|Blood of the Lycanthrope Antidote|500 gp
+Weapons|Blood Spear|375 gp
+Weapons|Bloodaxe|27,000 gp
+Wondrous Items|Bloodwell Vial, +1|425 gp
+Wondrous Items|Bloodwell Vial, +2|4,250 gp
+Wondrous Items|Bloodwell Vial, +3|14,500 gp
+Wondrous Items|Bobbing Lilly Pad|4,000 gp
+Weapons|Bookmark (dagger)|30,000 gp
+Wondrous Items: Feet|Boots Of Elvenkind|400 gp
+Wondrous Items: Feet|Boots Of False Tracks|60 gp
+Wondrous Items: Feet|Boots Of Levitation|4,500 gp
+Wondrous Items: Feet|Boots Of Speed|3,000 gp
+Wondrous Items: Feet|Boots Of Striding And Springing|200 gp
+Wondrous Items: Feet|Boots Of The Winterlands|300 gp
+Wondrous Items|Bottle of Boundless Coffee|50 gp
+Potions & Oils|Bottled Breath|350 gp
+Wondrous Items|Bowl Of Commanding Water Elementals|4,700 gp
+Wondrous Items: Arms & Wrists|Bracelet Of Rock Magic|9,000 gp
+Wondrous Items: Arms & Wrists|Bracer Of Flying Daggers|1,000 gp
+Wondrous Items: Arms & Wrists|Bracers Of Archery|350 gp
+Wondrous Items: Arms & Wrists|Bracers Of Defense|4,000 gp
+Wondrous Items|Brazier Of Commanding Fire Elementals|4,700 gp
+Wondrous Item|Breathing Bubble|50 gp
+Woundrous Items|Bridle of Capturing|4,500 gp
+Wondrous Item|Brooch of Living Essence|250 gp
+Wondrous Items: Neck|Brooch Of Shielding|375 gp
+Wondrous Items|Broom Of Flying|7,500 gp
+Wondrous Item|Butchers Bib|2,750 gp
+Wondrous Items|Candle Of Invocation|8,400 gp
+Wondrous Items|Candle Of The Deep|50 gp
+Wondrous Items: Head|Cap Of Water Breathing|450 gp
+Wondrous Items: Shoulders|Cape Of The Mountebank|3,900 gp
+Wondrous Items|Carpet Of Flying|44,000 gp
+Armor|Cast Off Armor|+50 gp
+Wondrous Items|Cauldron of Plenty|3,500 gp
+Wondrous Items|Cauldron of Rebirth|10,000 gp
+Wondrous Items|Censer Of Controlling Air Elementals|4,700 gp
+Wondrous Items|Charlatan's Die|80 gp
+Wondrous Items|Charm Of Plant Command|1,500 gp
+Wondrous Items|Chest Of Preserving|100 gp
+Wondrous Items|Chime Of Opening|3,000 gp
+Wondrous Items|Chromatic Rose|500 gp
+Wondrous Items|Chronolometer|12,500 gp
+Wondrous Items: Head|Circlet Of Blasting|350 gp
+Wondrous Items|Circlet Of Human Perfection|200 gp
+Wondrous Items|Claw Of The Wyrm Rune|4,400 gp
+Wondrous Items: Hands|Claws Of The Umber Hulk|4,300 gp
+Wondrous Items|Cleansing Stone|50 gp
+Wondrous Items|Cleansing Stone|50 gp
+Wondrous Items: Shoulders|Cloak Of Arachnida|14,000 gp
+Wondrous Items: Shoulders|Cloak Of Billowing|100 gp
+Wondrous Items: Shoulders|Cloak Of Displacement|3,600 gp
+Wondrous Items: Shoulders|Cloak Of Elvenkind|250 gp
+Wondrous Items: Shoulders|Cloak Of Invisibility|54,000 gp
+Wondrous Items: Shoulders|Cloak Of Many Fashions|90 gp
+Wondrous Items: Shoulders|Cloak Of Protection|400 gp
+Wondrous Items: Shoulders|Cloak Of The Bat|4,600 gp
+Wondrous Items: Shoulders|Cloak Of The Manta Ray|350 gp
+Wondrous Items: Neck|Clockwork Amulet|100 gp
+Wondrous Items: Body|Clothes Of Mending|50 gp
+Wondrous Items|Codicil of White|500 gp
+Wondrous Items|Coiling Grasp Tattoo|500 gp
+Wondrous Item|Coin of Delving|50 gp
+Wondrous Items|Conch Of Teleportation|1,850 gp
+Weapons|Corpse Slayer|1,300 gp
+Wondrous Items|Crystal Ball|42,000 gp
+Wondrous Items|Crystal Ball Of Mind Reading|51,000 gp
+Wondrous Items|Crystal Ball Of Telepathy|70,000 gp
+Wondrous Items|Crystal Ball Of True Seeing|80,000 gp
+Weapons|Crystal Blade|6,000 gp
+Wondrous Items|Crystalline Chronicle|6,500 gp
+Wondrous Items|Cube Of Force|5,000 gp
+Wondrous Items|Cubic Gate|164,000 gp
+Wondrous Items|Cuddly Strixhaven Mascot|100 gp
+Wondrous Items|Cursed Luckstone|250 gp
+Wondrous Items|Daern's Instant Fortress|5,000 gp
+Weapons|Dagger Of Blindsight|1,000 gp
+Weapons|Dagger Of Venom|1,500 gp
+Weapons|Dancing Sword (any sword)|10,000 gp
+Wondrous Items: Neck|Dark Shard Amulet|75 gp
+Weapons|Dawnbringer (longsword)|57,000 gp
+Wondrous Items|Decanter Of Endless Water|300 gp
+Wondrous Items|Deck Of Illusions|450 gp
+Wondrous Items|Deck Of Many Things|250,000 gp
+Wondrous Items|Deck Of Several Things|51,000 gp
+Weapons|Defender (any sword)|55,000 gp
+Armor|Demon Armor (plate) (cursed)|7,500 gp
+Wondrous Items|Devastation Orb (Air)|8,000 gp
+Wondrous Items|Devastation Orb (Earth)|11,000 gp
+Wondrous Items|Devastation Orb (Fire)|9,500 gp
+Wondrous Items|Devastation Orb (Water)|9,500 gp
+Weapons|Devotee's Censer (flail)|4,500 gp
+Wondrous Items|Dimensional Loop|6,000 gp
+Wondrous Items|Dimensional Shackles|2,800 gp
+Wondrous Item|Dispelling Stone|7,000 gp
+Wondrous Items|Docent|4,500 gp
+Wondrous Items|Docent|4,500 gp
+Wondrous Items|Dodecahedron Of Doom|750 gp
+Armor|Dragon Scale Mail|15,000 gp
+Weapons|Dragon Slayer (any sword)|4,800 gp
+Woundrous Items|Dragon Vessel (Ascendant)|150,000 gp
+Woundrous Items|Dragon Vessel (Slumbering)|500 gp
+Woundrous Items|Dragon Vessel (Stirring)|3,000 gp
+Woundrous Items|Dragon Vessel (Wakened)|25,000 gp
+Weapons|Dragon Wing Bow|4,000 gp
+Woundrous Items|Dragon-Touched Focus (Ascendant)|30,000 gp
+Woundrous Items|Dragon-Touched Focus (Slumbering)|400 gp
+Woundrous Items|Dragon-Touched Focus (Stirring)|2,000 gp
+Woundrous Items|Dragon-Touched Focus (Wakened)|10,000 gp
+Weapons|Dragon's Wrath weapon (Ascendant) (any)|65,000 gp
+Weapons|Dragon's Wrath weapon (Slumbering) (any)|250 gp
+Weapons|Dragon's Wrath weapon (Stirring) (any)|3,000 gp
+Weapons|Dragon's Wrath weapon (Wakened) (any)|11,000 gp
+Armor|Dragonguard (breastplate)|4,000 gp
+Wondrous Items|Dragonhide Belt (Rare)|4,000 gp
+Wondrous Items|Dragonhide Belt (Uncommon)|400 gp
+Wondrous Items|Dragonhide Belt (Very Rare)|14,000 gp
+Weapons|Dragonlance|25,000 gp
+Staffs|Dragonstaff Of Ahghairon|50,500 gp
+Weapons|Dragontooth Dagger|5,000 gp
+Wondrous Items: Head|Dread Helm|55 gp
+Wondrous Items|Driftglobe|100 gp
+Weapons|Drown (trident)|66,000 gp
+Wondrous Items|Duplicitous Manuscript|3,000 gp
+Weapons|Duskcrusher|8,500 gp
+Wondrous Items|Dust of Corrosion|150 gp
+Wondrous Item|Dust of Deliciousness|150 gp
+Wondrous Items|Dust Of Disappearance|200 gp
+Wondrous Items|Dust Of Dryness (1 pellet)|350 gp
+Wondrous Items|Dust Of Sneezing And Choking|150 gp
+Armor|Dwarven Plate|25,000 gp
+Weapons|Dwarven Thrower (warhammer)|25,000 gp
+Weapons|Dyrrn's Tentacle Whip|17,000 gp
+Wondrous Items|Eagle Whistle|600 gp
+Wondrous Items|Ear Horn Of Hearing|75 gp
+Wondrous Items|Earworm|225 gp
+Wondrous Items|Efreeti Bottle|45,000 gp
+Armor|Efreeti Chain (chain mail)|80,000 gp
+Wondrous Items|Eldritch Claw Tattoo|500 gp
+Staffs|Eldritch Staff|2,000 gp
+Wondrous Items|Elemental Essence Shard|3,500 gp
+Wondrous Items|Elemental Gem|250 gp
+Potions & Oils|Elixir Of Health|2,000 gp
+Armor|Elven Chain|4,500 gp
+Wondrous Items|Emerald Pen|250 gp
+Wondrous Items|Enduring Spellbook|100 gp
+Wondrous Items: Eyes|Ersatz Eye|75 gp
+Wondrous Items|Everbright Lantern|100 gp
+Wondrous Items|Everbright Lantern|100 gp
+Wondrous Items|Eversmoking Bottle|270 gp
+Wondrous Items: Eyes|Eyes Of Charming|300 gp
+Wondrous Items: Eyes|Eyes Of Minute Seeing|150 gp
+Wondrous Items: Eyes|Eyes Of The Eagle|400 gp
+Weapons|Fane-Eater (battleaxe)|55,000 gp
+Wondrous Items|Far Gear|7,500 gp
+Wondrous Items|Far Realm Shard|2,500 gp
+Wondrous Items|Feather Of Diatryma Summoning|600 gp
+Wondrous Items|Feather Token|25 gp
+Wondrous Items|Feather Token (Feather Fall)|25 gp
+Wondrous Items|Feather Token Feather Fall|25 gp
+Wondrous Items|Feywild Shard|250 gp
+Wondrous Items|Figurine of Wondrous Power (Bronze Griffon)|3,600 gp
+Wondrous Items|Figurine of Wondrous Power (Ebony Fly)|3,600 gp
+Wondrous Items|Figurine of Wondrous Power (Golden Canary)|55,000 gp
+Wondrous Items|Figurine of Wondrous Power (Golden Lions)|5,000 gp
+Wondrous Items|Figurine of Wondrous Power (Ivory Goats - Terror)|5,000 gp
+Wondrous Items|Figurine of Wondrous Power (Ivory Goats - Travail)|5,000 gp
+Wondrous Items|Figurine of Wondrous Power (Ivory Goats - Travelling)|5,000 gp
+Wondrous Items|Figurine of Wondrous Power (Marble Elephant)|5,000 gp
+Wondrous Items|Figurine of Wondrous Power (Obsidian Steed)|28,500 gp
+Wondrous Items|Figurine of Wondrous Power (Onyx Dog)|3,200 gp
+Wondrous Items|Figurine of Wondrous Power (Serpentine Owl)|3,000 gp
+Wondrous Items|Figurine of Wondrous Power (Silver Raven)|380 gp
+Wondrous Items|Finder's Goggles|500 gp
+Weapons|Flail of Tiamat|70,000 gp
+Weapons|Flame Tongue|5,000 gp
+Wondrous Items|Flying Chariot|4,750 gp
+Wondrous Items|Folding Boat|4,750 gp
+Weapons|Frost Brand (any sword)|11,000 gp
+Wondrous Items|Fulminating Treatise|4,000 gp
+Wondrous Items|Galder's Bubble Pipe|2,000 gp
+Weapons|Gambler's Blade|10,000 gp
+Wondrous Items|Gauntlets Of Flaming Fury|2,000 gp
+Wondrous Items: Hands|Gauntlets Of Ogre Power|450 gp
+Wondrous Items|Gavel Of The Venn Rune|2,800 gp
+Wondrous Items|Gem Of Brightness|250 gp
+Wondrous Items|Gem Of Seeing|5,000 gp
+Wondrous Items|Ghost Lantern|1,750 gp
+Wondrous Items|Ghost Step Tattoo|9,000 gp
+Weapons|Giant Slayer (any sword or axe)|4,600 gp
+Wondrous Items|Glamerweave (Common)|50 gp
+Wondrous Items|Glamerweave (Uncommon)|150 gp
+Armor|Glamoured Studded Leather|4,800 gp
+Wondrous Items: Hands|Gloves Of Missile Snaring|325 gp
+Wondrous Items: Hands|Gloves Of Swimming And Climbing|250 gp
+Wondrous Items: Hands|Gloves Of Thievery|300 gp
+Wondrous Items: Eyes|Goggles Of Night|300 gp
+Wondrous Item|Goggles of Object Reading|350 gp
+Weapons|Greater Silver Sword|16,000 gp
+Wondrous Items|Guardian Emblem|300 gp
+Wondrous Items|Guild Charms|450 gp
+Wondrous Items|Guild Keyrune (Azorius)|1,000 gp
+Wondrous Items|Guild Keyrune (Boros)|3,500 gp
+Wondrous Items|Guild Keyrune (Dimir)|26,000 gp
+Wondrous Items|Guild Keyrune (Golgari)|7,500 gp
+Wondrous Items|Guild Keyrune (Gruul)|2,800 gp
+Wondrous Items|Guild Keyrune (Izzet)|1,850 gp
+Wondrous Items|Guild Keyrune (Orzhov)|1,100 gp
+Wondrous Items|Guild Keyrune (Rakdos)|400 gp
+Wondrous Items|Guild Keyrune (Selesnya)|1,500 gp
+Wondrous Items|Guild Keyrune (Simic)|500 gp
+Rings|Guild Signet|350 gp
+Staffs|Gulthias Staff|2,200 gp
+Weapons|Gurt's Greataxe|67,000 gp
+Weapons|Hammer Of Thunderbolts (maul)|51,000 gp
+Wondrous Items|Handy Haversack|2,000 gp
+Wondrous Items: Head|Hat Of Disguise|475 gp
+Wondrous Items: Head|Hat Of Vermin|65 gp
+Wondrous Items: Head|Hat Of Wizardry|75 gp
+Weapons|Hazirawn (greatsword)|66,000 gp
+Wondrous Items: Head|Headband Of Intellect|450 gp
+Wondrous Items|Heart Weaver's Primer|3,000 gp
+Wondrous Items: Shoulders|Hell Hound Cloak|1,700 gp
+Weapons|Hellfire Weapon|500 gp
+Wondrous Items: Head|Helm Of Brilliance|32,000 gp
+Wondrous Items: Head|Helm Of Comprehending Languages|200 gp
+Wondrous Items: Head|Helm Of Devil Command|21,500 gp
+Wondrous Items: Head|Helm Of Telepathy|300 gp
+Wondrous Items: Head|Helm Of Teleportation|4,250 gp
+Wondrous Items|Helm of the Gods|1,200 gp
+Wondrous Items|Helm Of The Scavenger|175000 gp
+Wondrous Items|Helm Of Underwater Action|500 gp
+Weapons|Hew (battleaxe)|800 gp
+Wondrous Items|Heward's Handy Haversack|2,000 gp
+Wondrous Items|Heward's Handy Spice Pouch|100 gp
+Armor|Heward's Hireling Armor (leather)|7,000 gp
+Weapons|Holy Avenger (any sword)|65,000 gp
+Wondrous Items: Neck|Holy Symbol Of Ravenkind|51,000 gp
+Wondrous Items|Hook of Fisher's Delight|550 gp
+Wondrous Items|Horn Of Blasting|2,500 gp
+Wondrous Items|Horn Of Silent Alarm|85 gp
+Wondrous Items|Horn Of Valhalla (Brass)|5,000 gp
+Wondrous Items|Horn Of Valhalla (Bronze)|20,000 gp
+Wondrous Items|Horn Of Valhalla (Iron)|50,000 gp
+Wondrous Items|Horn Of Valhalla (Silver)|5,000 gp
+Rings|Horned Ring|10,000 gp
+Wondrous Items|Horseshoes Of A Zephyr|6,000 gp
+Wondrous Items|Horseshoes Of Speed|3,000 gp
+Armor|Hunter's Coat|5,000 gp
+Wondrous Items|Icon Of Ravenloft|50,500 gp
+Armor|Ild Rune Armor|3,000 gp
+Weapons|Ild Rune Weapon (any)|400 gp
+Wondrous Items|Illuminator's Tattoo|65 gp
+Wondrous Items: Arms & Wrists|Illusionist's Bracers|13,500 gp
+Wondrous Items|Imbued Wood Focus|75 gp
+Rods|Immovable Rod|500 gp
+Woundrous Items|Incantation of Iriolarthas|100,000 gp
+Wondrous Items|Infernal Puzzle Box|3,500 gp
+Wondrous Items|Infernal Tack|8,000 gp
+Wondrous Items|Ingot Of The Skold Rune|15,000 gp
+Wondrous Items|Insignia Of Claws|450 gp
+Wondrous Items|Instant Fortress|5,000 gp
+Wondrous Items|Instrument Of Illusions|100 gp
+Wondrous Items|Instrument Of Scribing|80 gp
+Wondrous Items|Instrument of the Bards (Anstruth Harp)|17500 gp
+Wondrous Items|Instrument of the Bards (Canaith Mandolin)|3750 gp
+Wondrous Items|Instrument of the Bards (Cli Lyre)|4250 gp
+Wondrous Items|Instrument of the Bards (Doss Lute)|250 gp
+Wondrous Items|Instrument of the Bards (Fochulan Bandore)|350 gp
+Wondrous Items|Instrument of the Bards (Mac-Fuirmidh Cittern)|450 gp
+Wondrous Items|Instrument of the Bards (Ollamh Harp)|51,000 gp
+Wondrous Items: Head|Ioun Stone (Absorption)|20,000 gp
+Wondrous Items: Head|Ioun Stone (Agility)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Awareness)|4,000 gp
+Wondrous Items: Head|Ioun Stone (Fortitude)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Greater Absorption)|60,000 gp
+Wondrous Items: Head|Ioun Stone (Insight)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Intellect)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Leadership)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Mastery)|60,000 gp
+Wondrous Items: Head|Ioun Stone (Protection)|3,600 gp
+Wondrous Items: Head|Ioun Stone (Regeneration)|55,000 gp
+Wondrous Items: Head|Ioun Stone (Reserve)|4,500 gp
+Wondrous Items: Head|Ioun Stone (Strength)|8,000 gp
+Wondrous Items: Head|Ioun Stone (Sustenance)|3,000 gp
+Wondrous Items: Head|Ioun Stone (Vitality)|1,000 gp
+Wondrous Items|Ioun Stone Of Historical Knowledge|500 gp
+Wondrous Items|Ioun Stone Of Language Knowledge|500 gp
+Wondrous Items|Ioun Stone Of Natural Knowledge|500 gp
+Wondrous Items|Ioun Stone Of Religious Knowledge|500 gp
+Wondrous Items|Ioun Stone Of Self Preservation|750 gp
+Wondrous Items|Ioun Stone Of Supreme Intellect|600 gp
+Wondrous Items|Iron Bands Of Bilarro|2,600 gp
+Wondrous Items|Iron Bands Of Binding|2,600 gp
+Wondrous Items|Iron Flask|170,000 gp
+Weapons|Ironfang (war pick)|76,000 gp
+Wondrous Items: Feet|Ise Rune Boots|2,650 gp
+Wondrous Items: Shoulders|Ise Rune Cloak|1,200 gp
+Weapons|Javelin Of Backbiting (or spear)|6,500 gp
+Weapons|Javelin Of Lightning|350 gp
+Wondrous Items|Keoghtom's Ointment (Per Dose)|400 gp
+Wondrous Items|Keycharm|50 gp
+Wondrous Items: Head|Knave's Eye Patch|2,000 gp
+Weapons|Korolnor Scepter|63,000 gp
+Wondrous Items|Kyrzin's Ooze|21,000 gp
+Wondrous Items|Lantern Of Revealing|500 gp
+Wondrous Items|Lantern of Tracking|75 gp
+Armor|Last Stand Armor|6,500 gp
+Armor|Leather Golem Armor|3,000 gp
+Wondrous Items|Libram of Souls and Flesh|4,200 gp
+Wondrous Items|Lifewell Tattoo|5,100 gp
+Weapons|Lightbringer (mace)|1,600 gp
+Armor|Living Armor|9,500 gp
+Wondrous Items|Living Gloves|500 gp
+Wondrous Items|Loadstone|150 gp
+Wondrous Items|Lock Of Trickery|50 gp
+Wondrous Items: Body|Lord's Ensemble|5,000 gp
+Wondrous Items|Lorehold Primer|300 gp
+Wondrous Items: Head|Lost Crown Of Besilmer|23,000 gp
+Weapons|Luck Blade|100,000 gp
+Wondrous Item|Luxon Beacon|35,000 gp
+Wondrous Items|Lyre of Building|4,750 gp
+Weapons|Mace Of Disruption|1,750 gp
+Weapons|Mace Of Smiting|2,000 gp
+Weapons|Mace Of Terror|3,500 gp
+Wondrous Items: Shoulders|Mantle Of Spell Resistance|4,200 gp
+Wondrous Items|Manual Of Bodily Health|36,000 gp
+Wondrous Items|Manual Of Gainful Exercise|36,000 gp
+Wondrous Items|Manual Of Golems|22,000 gp
+Wondrous Items|Manual Of Quickness Of Action|36,000 gp
+Armor|Mariner's Armor|+400 gp
+Wondrous Items|Marvelous Pigments|16,000 gp
+Wondrous Items: Eyes|Mask Of The Beast|200 gp
+Wondrous Items|Masquerade Tattoo|75 gp
+Weapons|Matalotok|70,000 gp
+Wondrous Items: Neck|Medallion Of Thoughts|300 gp
+Weapons|Mind Blade (any sword)|2,000 gp
+Armor|Mind Carapace Armor|+500 gp
+Weapons|Mind Lash (whip)|750 gp
+Wondrous Items|Mirror Of Life Trapping|50,000 gp
+Wondrous Items|Mirror Of The Past|3,800 gp
+Armor|Mithral Armor (medium or heavy, not hide)|+450 gp
+Wondrous Items: Body|Mizzium Apparatus|500 gp
+Armor|Mizzium Armor|+1,500 gp
+Wondrous Items|Mizzium Mortar|2,100 gp
+Armor|Molten Bronze Skin|+1,300 gp
+Wondrous Items|Moodmark Paint|50 gp
+Weapons|Moon Sickle, +1|1,500 gp
+Weapons|Moon Sickle, +2|4,000 gp
+Weapons|Moon Sickle, +3|16,500 gp
+Weapons|Moon-Touched Sword|+75 gp
+Potions & Oils|Mummy Rot Antidote|150 gp
+Wondrous Items|Mystery Key|50 gp
+Wondrous Items|Nature's Mantle|325 gp
+Wondrous Items|Navigation Orb|27,000 gp
+Wondrous Items: Neck|Necklace Of Adaptation|450 gp
+Wondrous Items: Neck|Necklace of Fireballs (1 Bead)|725 gp
+Wondrous Items: Neck|Necklace of Fireballs (2 Beads)|1,450 gp
+Wondrous Items: Neck|Necklace of Fireballs (3 Beads)|2,175 gp
+Wondrous Items: Neck|Necklace of Fireballs (4 Beads)|2,900 gp
+Wondrous Items: Neck|Necklace of Fireballs (5 Beads)|3,625 gp
+Wondrous Items: Neck|Necklace of Fireballs (6 Beads)|4,350 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Blessing)|5,000 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Curing)|5,000 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Favor)|5,000 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Smiting)|5,000 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Summons)|5,000 gp
+Wondrous Items: Neck|Necklace Of Prayer Beads (Wind Walking)|5,000 gp
+Weapons|Needle of Mending|1,400 gp
+Wondrous Items|Night Caller|350 gp
+Wondrous Item|Nightfall Pearl|51,000 gp
+Weapons|Nine Lives Stealer (Fully Charged) (any sword)|36,000 gp
+Wondrous Items|Nolzur's Marvelous Pigments|16,000 gp
+Weapons|Oathbow (longbow)|13,000 gp
+Armor|Obsidian Flint Dragon Plate|27,000 gp
+Potions & Oils|Oil Of Etherealness|2,000 gp
+Potions & Oils|Oil Of Sharpness|2,200 gp
+Potions & Oils|Oil Of Slipperiness|250 gp
+Wondrous Items|Opal Of The Ild Rune|3,500 gp
+Wondrous Items|Orb Of Direction|50 gp
+Wondrous Items|Orb Of Gonging|50 gp
+Wondrous Items|Orb Of Shielding|80 gp
+Wondrous Items|Orb Of Shielding|80 gp
+Wondrous Items|Orb Of The Stein Rune|2,700 gp
+Wondrous Item|Orb of the Veil|31,000 gp
+Wondrous Items|Orb Of Time|50 gp
+Weapons|Orcsplitter (greataxe)|60,000 gp
+Wondrous Items|Ornithopter of Flying|3,500 gp
+Wondrous Items|Outer Essence Shard|2,000 gp
+Wondrous Items|Paper Bird|350 gp
+Shields|Pariah's Shield|1,500 gp
+Wondrous Items|Pearl Of Power|400 gp
+Wondrous Items|Pennant Of The Vind Rune|13,000 gp
+Wondrous Items: Head|Peregrine Mask|6,000 gp
+Potions & Oils|Perfume Of Bewitching|75 gp
+Wondrous Items: Neck|Periapt Of Health|250 gp
+Wondrous Items: Neck|Periapt Of Proof Against Poison|4,700 gp
+Wondrous Items: Neck|Periapt Of Wound Closure|375 gp
+Potions & Oils|Philter Of Love|150 gp
+Wondrous Items|Pipe Of Remembrance|50 gp
+Wondrous Items|Pipe Of Smoke Monsters|50 gp
+Wondrous Items|Pipes Of Haunting|300 gp
+Wondrous Items|Pipes Of The Sewers|150 gp
+Wondrous Items: Shoulders|Piwafwi (Cloak Of Elvenkind)|200 gp
+Wondrous Items: Shoulders|Piwafwi Of Fire Resistance|1,400 gp
+Wondrous Items|Pixie Dust|1,000 gp
+Wondrous Items|Planecaller's Codex|3,500 gp
+Armor|Plate Armor Of Etherealness|60,000 gp
+Wondrous Items|Platinum Scarf|20,000 gp
+Wondrous Items|Pole Of Angling|50 gp
+Wondrous Items|Pole Of Collapsing|55 gp
+Weapons|Polymorph Blade (any sword)|6,500 gp
+Wondrous Items|Portable Hole|5,000 gp
+Wondrous Items|Pot Of Awakening|85 gp
+Potions|Potion of Advantage|125 gp
+Potions & Oils|Potion Of Animal Friendship|200 gp
+Potions & Oils|Potion of Aqueous Form|1,000 gp
+Potions & Oils|Potion Of Clairvoyance|900 gp
+Potions & Oils|Potion Of Climbing|30 gp
+Potions & Oils|Potion Of Comprehension|25 gp
+Potions & Oils|Potion Of Diminution|500 gp
+Potions|Potion of Dragon's Majesty|15,000 gp
+Potions & Oils|Potion Of Fire Breath|350 gp
+Potions & Oils|Potion Of Flying|2,500 gp
+Potions & Oils|Potion Of Gaseous Form|1,500 gp
+Potions & Oils|Potion Of Giant Size|11,000 gp
+Potions & Oils|Potion Of Giant Strength (Cloud)|1,800 gp
+Potions & Oils|Potion Of Giant Strength (Fire)|1,200 gp
+Potions & Oils|Potion Of Giant Strength (Frost/Stone)|650 gp
+Potions & Oils|Potion Of Giant Strength (Hill)|125 gp
+Potions & Oils|Potion Of Giant Strength (Storm)|8,000 gp
+Potions & Oils|Potion Of Growth|300 gp
+Potions & Oils|Potion Of Healing|50 gp
+Potions & Oils|Potion Of Healing (Greater)|300 gp
+Potions & Oils|Potion Of Healing (Superior)|750 gp
+Potions & Oils|Potion Of Healing (Supreme)|1,500 gp
+Potions & Oils|Potion Of Heroism|800 gp
+Potions & Oils|Potion Of Invisibility|2,000 gp
+Potions & Oils|Potion Of Invulnerability|1,500 gp
+Potions & Oils|Potion Of Longevity|3,000 gp
+Potion|Potion of Maximum Power|2,000 gp
+Potions & Oils|Potion Of Mind Control (Beast)|1,600 gp
+Potions & Oils|Potion Of Mind Control (Humanoid)|2,500 gp
+Potions & Oils|Potion Of Mind Control (Monster)|6,000 gp
+Potions & Oils|Potion Of Mind Reading|1,100 gp
+Potions & Oils|Potion Of Poison|500 gp
+Potion|Potion of Possibility|1,900 gp
+Potions & Oils|Potion Of Resistance|500 gp
+Potions & Oils|Potion Of Speed|2,000 gp
+Potions & Oils|Potion Of Vitality|1,800 gp
+Potions & Oils|Potion Of Watchful Rest|35 gp
+Potions & Oils|Potion Of Water Breathing|400 gp
+Armor|Powered Armor (plate)|30,000 gp
+Wondrous Items|Pressure Capsule|25 gp
+Wondrous Items|Prismari Primer|300 gp
+Wondrous Items|Professor Orb|4,000 gp
+Wondrous Items|Professor Orb|4,000 gp
+Wondrous Items|Propeller Helm|250 gp
+Wondrous Item|Prosthetic Limb|100 gp
+Wondrous Items|Prosthetic Limb|100 gp
+Wondrous Items|Protective Verses|3,500 gp
+Wondrous Items|Psi Crystal|500 gp
+Wondrous Items|Pyroconverger|250 gp
+Wondrous Items|Pyxis of Pandemonium|25,000 gp
+Wondrous Items|Quaals Feather Token (Anchor)|1,000 gp
+Wondrous Items|Quaals Feather Token (Bird)|1,000 gp
+Wondrous Items|Quaals Feather Token (Fan)|1,000 gp
+Wondrous Items|Quaals Feather Token (Swan Boat)|1,000 gp
+Wondrous Items|Quaals Feather Token (Whip)|1,000 gp
+Wondrous Items|Quandrix Primer|300 gp
+Wondrous Items|Quiver Of Ehlonna|250 gp
+Weapons|Rakdos Riteknife (dagger)|60,000 gp
+Wondrous Item|Reincarnation Dust|3,500 gp
+Wondrous Items|Reveler's Concertina|4,250 gp
+Wondrous Items|Rhythm-Maker's Drum, +1|425 gp
+Wondrous Items|Rhythm-Maker's Drum, +2|4,250 gp
+Wondrous Items|Rhythm-Maker's Drum, +3|14,500 gp
+Rings|Ring Of Air Elemental Command|200,000 gp
+Rings|Ring Of Animal Influence|1,000 gp
+Rings|Ring Of Djinni Summoning|125,000 gp
+Rings|Ring Of Earth Elemental Command|200,000 gp
+Rings|Ring Of Elemental Command|200,000 gp
+Rings|Ring Of Evasion|4,900 gp
+Rings|Ring Of Feather Falling|2,200 gp
+Rings|Ring Of Fire Elemental Command|200,000 gp
+Rings|Ring Of Free Action|4,500 gp
+Rings|Ring Of Invisibility|75,000 gp
+Rings|Ring Of Jumping|250 gp
+Rings|Ring Of Mind Shielding|250 gp
+Rings|Ring of Obscuring|150 gp
+Rings|Ring Of Protection|3,000 gp
+Rings|Ring Of Regeneration|40,000 gp
+Rings|Ring Of Resistance|3,500 gp
+Rings|Ring Of Shooting Stars|20,000 gp
+Rings|Ring Of Spell Storing|3,600 gp
+Rings|Ring Of Spell Turning|66,000 gp
+Rings|Ring Of Swimming|300 gp
+Rings|Ring Of Telekinesis|25,000 gp
+Rings|Ring of Temporal Salvation|2,250 gp
+Rings|Ring Of The Ram|4,000 gp
+Rings|Ring Of Three Wishes|97,950 gp
+Rings|Ring Of Truth Telling|150 gp
+Rings|Ring Of Warmth|480 gp
+Rings|Ring Of Water Elemental Command|200,000 gp
+Rings|Ring Of Water Walking|500 gp
+Rings|Ring Of X-Ray Vision|3,500 gp
+Wondrous Items: Body|Robe Of Eyes|5,000 gp
+Wondrous Items: Body|Robe Of Scintillating Colors|27,000 gp
+Wondrous Items: Body|Robe Of Serpents|375 gp
+Wondrous Items: Body|Robe Of Stars|45,000 gp
+Wondrous Items: Body|Robe Of Summer|2,900 gp
+Wondrous Items: Body|Robe Of The Archmagi|75,000 gp
+Wondrous Items: Body|Robe Of Useful Items|400 gp
+Rods|Rod Of Absorption|48,000 gp
+Rods|Rod Of Alertness|11,000 gp
+Rods|Rod Of Lordly Might|70,000 gp
+Rods|Rod Of Resurrection|125,000 gp
+Rods|Rod of Retribution|250 gp
+Rods|Rod Of Rulership|3,600 gp
+Rods|Rod Of Security|45,000 gp
+Rods|Rod Of The Pact Keeper +1|400 gp
+Rods|Rod Of The Pact Keeper +2|4,000 gp
+Rods|Rod Of The Pact Keeper +3|17,000 gp
+Rods|Rod Of The Vonindod|3,400 gp
+Wondrous Items|Rope Of Climbing|350 gp
+Wondrous Items|Rope Of Entanglement|1,000 gp
+Wondrous Items|Rope Of Mending|50 gp
+Wondrous Items|Rotor Of Return|2,500 gp
+Wondrous Items|Ruby Of The War Mage|100 gp
+Wondrous Items|Ruby Weave Gem|30,000 gp
+Weapons|Ruinblade (greatsword)|17,000 gp
+Wondrous Items|Saddle Of The Cavalier|250 gp
+Armor|Sapphire Buckler|9,000 gp
+Woundrous Items|Scaled Ornament (Ascendant)|20,000 gp
+Woundrous Items|Scaled Ornament (Slumbering)|200 gp
+Woundrous Items|Scaled Ornament (Stirring)|4,000 gp
+Woundrous Items|Scaled Ornament (Wakened)|8,000 gp
+Wondrous Items: Neck|Scarab Of Protection|58,000 gp
+Weapons|Scimitar Of Speed|7,500 gp
+Wondrous Items|Scissors of Shadow Snipping|750 gp
+Armor|Scorpion Armor (plate)|2,100 gp
+Wondrous Items|Scribe's Pen|60 gp
+Wondrous Items|Scribes Pen|60 gp
+Spell Scrolls|Scroll Of Protection|3,500 gp
+Spell Scrolls|Scroll of Tarrasque Summoning|150,000 gp
+Spell Scrolls|Scroll of the Comet|250,000 gp
+Weapons|Seeker Dart|100 gp
+Wondrous Items|Sekolahian Worshiping Statuette|50 gp
+Wondrous Items|Sending Stone|500 gp
+Wondrous Items|Sending Stones|500 gp
+Shields|Sentinel Shield|300 gp
+Wondrous Items|Shadowfell Brand Tattoo|1,100 gp
+Wondrous Items|Shadowfell Shard|600 gp
+Wondrous Items|Shard Of The Ise Rune|9,000 gp
+Weapons|Shatterspike (longsword)|550 gp
+Shields|Shield Of Expression|50 gp
+Shields|Shield Of Far Sight|750 gp
+Shields|Shield Of Missile Attraction|1,000 gp
+Armor|Shield Of The Hidden Lord|86,000 gp
+Shields|Shield Of The Uven Rune|11,000 gp
+Shields|Shield, +1|450 gp
+Shields|Shield, +2|4,000 gp
+Shields|Shield, +3|22,000 gp
+Wondrous Items|Shiftweave|100 gp
+Wondrous Items|Shiftweave|100 gp
+Wondrous Items|Silverquill Primer|300 gp
+Wondrous Items|Siren Song Lyre|650 gp
+Shields|Skold Rune Shield|2,600 gp
+Weapons|Skold Rune Weapon|500 gp
+Staffs|Skyblinder Staff|375 gp
+Weapons|Sling Bullets of Althemone|5,500 gp
+Wondrous Items: Feet|Slippers Of Spider Climbing|500 gp
+Wondrous Items|Smokepowder|325 gp
+Armor|Smoldering Armor|+75 gp
+Weapons|Snicker-Snack (greatsword)|80,000 gp
+Wondrous Items|Soul Coin|250 gp
+Wondrous Items|Sovereign Glue|5,000 gp
+Wondrous Items|Speaking Stone|5,000 gp
+Wondrous Items|Speaking Stone|5,000 gp
+Weapons|Spear Of Backbiting (javelin or spear)|6,500 gp
+Wondrous Item|Spell Bottle|75,000 gp
+Spell Gems|Spell Gem (Amber, Level 4)|8,000 gp
+Spell Gems|Spell Gem (Bloodstone, Level 3)|4,000 gp
+Spell Gems|Spell Gem (Diamond, Level 9)|78,000 gp
+Spell Gems|Spell Gem (Jade, Level 5)|15,000 gp
+Spell Gems|Spell Gem (Lapis Lazuli, Level 1)|350 gp
+Spell Gems|Spell Gem (Obsidian, Level 0)|150 gp
+Spell Gems|Spell Gem (Quartz ,Level 2)|1,500 gp
+Spell Gems|Spell Gem (Ruby, Level 8)|51,000 gp
+Spell Gems|Spell Gem (Star Ruby, Level 7)|35,000 gp
+Spell Gems|Spell Gem (Topaz, Level 6)|20,000 gp
+Spell Scrolls|Spell Scroll (Level 0)|15 gp
+Spell Scrolls|Spell Scroll (Level 1)|25 gp
+Spell Scrolls|Spell Scroll (Level 2)|150 gp
+Spell Scrolls|Spell Scroll (Level 3)|400 gp
+Spell Scrolls|Spell Scroll (Level 4)|800 gp
+Spell Scrolls|Spell Scroll (Level 5)|1,500 gp
+Spell Scrolls|Spell Scroll (Level 6)|2,000 gp
+Spell Scrolls|Spell Scroll (Level 7)|3,500 gp
+Spell Scrolls|Spell Scroll (Level 8)|5,000 gp
+Spell Scrolls|Spell Scroll (Level 9)|20,000 gp
+Shields|Spellguard Shield|36,000 gp
+Wondrous Items|Spellshard|100 gp
+Wondrous Items|Spellshard|100 gp
+Wondrous Items|Spellwrought Tattoo (Level 0)|20 gp
+Wondrous Items|Spellwrought Tattoo (Level 1)|35 gp
+Wondrous Items|Spellwrought Tattoo (Level 2)|225 gp
+Wondrous Items|Spellwrought Tattoo (Level 3)|500 gp
+Wondrous Items|Spellwrought Tattoo (Level 4)|1,200 gp
+Wondrous Items|Spellwrought Tattoo (Level 5)|2,100 gp
+Wondrous Items|Sphere Of Annihilation|200,000 gp
+Staffs|Spider Staff|1,750 gp
+Wondrous Items: Head|Spies' Murmur|475 gp
+Staffs|Staff Of Adornment|50 gp
+Staffs|Staff Of Birdcalls|70 gp
+Staffs|Staff Of Charming|1,750 gp
+Staffs|Staff Of Defense|3,400 gp
+Staffs|Staff of Dunamancy|27,000 gp
+Staffs|Staff Of Fire|18,000 gp
+Staffs|Staff Of Flowers|50 gp
+Staffs|Staff Of Frost|18,000 gp
+Staffs|Staff Of Healing|4,800 gp
+Staffs|Staff Of Power|46,000 gp
+Staffs|Staff Of Striking|36,000 gp
+Staffs|Staff Of Swarming Insects|4,500 gp
+Staffs|Staff Of The Adder|350 gp
+Staffs|Staff of the Ivory Claw|1,000 gp
+Staffs|Staff Of The Magi|98,000 gp
+Staffs|Staff Of The Python|250 gp
+Staffs|Staff Of The Woodlands|4,500 gp
+Staffs|Staff Of Thunder And Lightning|30,000 gp
+Staffs|Staff Of Withering|2,100 gp
+Weapons|Steel (longsword)|6,500 gp
+Wondrous Items: Feet|Stein Rune Boots|350 gp
+Shields|Stein Rune Shield|4,600 gp
+Wondrous Items|Stone Of Controlling Earth Elementals|4,700 gp
+Wondrous Items|Stone Of Good Luck (Luckstone)|400 gp
+Wondrous Items|Stone Of Ill Luck|400 gp
+Wondrous Items|Stonespeaker Crystal|4,600 gp
+Weapons|Storm Boomerang|150 gp
+Wondrous Items|Strixhaven Pennant|50 gp
+Weapons|Sun Blade (longsword)|3,500 gp
+Weapons|Sunforger (warhammer)|4,600 gp
+Weapons|Sunsword (longsword)|55,000 gp
+Weapons|Sword Of Answering|51,000 gp
+Weapons|Sword Of Life Stealing (any sword)|2,200 gp
+Weapons|Sword Of Sharpness (slashing swords)|42,000 gp
+Weapons|Sword Of The Paruns (longsword)|16,000 gp
+Weapons|Sword Of Vengeance (any sword)|400 gp
+Weapons|Sword Of Wounding (any sword)|2,000 gp
+Wondrous Items|Talisman Of Pure Good|125,000 gp
+Wondrous Items|Talisman Of The Sphere|75,000 gp
+Wondrous Items|Talisman Of Ultimate Evil|125,000 gp
+Wondrous Items|Talking Doll|75 gp
+Wondrous Items|Tankard Of Plenty|25 gp
+Wondrous Items|Tankard Of Sobriety|80 gp
+Rods|Tentacle Rod|2,000 gp
+Wondrous Items|Thermal Cube|50 gp
+Potions & Oils|Thessaltoxin Antidote|100 gp
+Wondrous Items|Timepiece Of Travel|8,000 gp
+Weapons|Tinderstrike (dagger)|71,000 gp
+Wondrous Items|Tome Of Clear Thought|36,000 gp
+Wondrous Items|Tome Of Leadership And Influence|36,000 gp
+Wondrous Items|Tome Of The Stilled Tongue|60,000 gp
+Wondrous Items|Tome Of Understanding|36,000 gp
+Weapons|Topaz Annihilator (firearm)|12,000 gp
+Weapons|Trident Of Fish Command|300 gp
+Weapons|Two-Birds Sling|4,000 gp
+Ammunition|Unbreakable Arrow|25 gp
+Wondrous Items|Universal Solvent|5,000 gp
+Wondrous Items|Ventilating Lungs|1,000 gp
+Weapons|Veteran's Cane|50 gp
+Weapons|Vicious Weapon (any)|1,200 gp
+Armor|Vind Rune Armor|+300 gp
+Wondrous Items: Feet|Vind Rune Boots|650 gp
+Weapons|Vorpal Sword|75,000 gp
+Wondrous Item|Vox Seeker|100 gp
+Staffs|Voyager Staff|10,500 gp
+Ammunition|Walloping Ammunition|30 gp
+Wands|Wand Of Binding|2,500 gp
+Wands|Wand Of Conducting|90 gp
+Wands|Wand Of Enemy Detection|3,750 gp
+Wands|Wand Of Entangle|300 gp
+Wands|Wand Of Fear|3,250 gp
+Wands|Wand Of Fireballs|4,800 gp
+Wands|Wand Of Lightning Bolts|4,800 gp
+Wands|Wand Of Magic Detection|150 gp
+Wands|Wand Of Magic Missiles|300 gp
+Wands|Wand Of Paralysis|4,250 gp
+Wands|Wand Of Polymorph|21,000 gp
+Wands|Wand Of Pyrotechnics|65 gp
+Wands|Wand Of Scowls|60 gp
+Wands|Wand Of Secrets|125 gp
+Wands|Wand Of Smiles|60 gp
+Wands|Wand Of The War Mage +1|400 gp
+Wands|Wand Of The War Mage +2|4,000 gp
+Wands|Wand Of The War Mage +3|14,000 gp
+Wands|Wand Of Viscid Globs|900 gp
+Wands|Wand Of Web|250 gp
+Wands|Wand Of Winter|4,100 gp
+Wands|Wand Of Wonder|2,250 gp
+Wondrous Items|Wand Sheath|75 gp
+Wondrous Items|Wand Sheath|75 gp
+Weapons|Waythe (greatsword)|62,000 gp
+Weapons|Weapon of Certain Death|1,500 gp
+Weapons|Weapon of the Uven Rune (any)|2,000 gp
+Weapons|Weapon Of Warning|400 gp
+Weapons|Weapon, +1|500 gp
+Weapons|Weapon, +2|2,500 gp
+Weapons|Weapon, +3|15,000 gp
+Weapons|Weapon, Adamantine (any)|+500 gp
+Wondrous Items|Weird Tank|2,200 gp
+Wondrous Items|Well Of Many Worlds|90,000 gp
+Wondrous Items|Wheel Of Stars|6,500 gp
+Wondrous Items|Wheel Of Wind And Water|350 gp
+Wondrous Items|Wheel Of Wind And Water|350 gp
+Wondrous Items|Wind Fan|150 gp
+Weapons|Windvane|68,000 gp
+Wondrous Items: Feet|Winged Boots|5,000 gp
+Wondrous Items: Shoulders|Wings Of Flying|3,600 gp
+Wondrous Items: Body|Wingwear|300 gp
+Wondrous Items|Witherbloom Primer|300 gp
+Weapons|Woodcutter's Axe|1,500 gp
+Wondrous Items|Ythryn Mythallar|200,000 gp
