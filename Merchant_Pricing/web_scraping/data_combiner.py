@@ -17,10 +17,11 @@ import re
 
 ## Helper Functions
 
-def unique_filter(dictionary, name):
+def unique_filter(dictionary, name, price):
 	"""
 	:inputs: 	dictionary   [a dict with (string, int) val pairs]
-			 	name  [a str]
+			 	name  		 [a str]
+			 	price 		 [an int]
 	:returns:	Bool
 
 	Tells us whether an item name is a unique entry in our list. Specifically,
@@ -29,7 +30,7 @@ def unique_filter(dictionary, name):
 	"""
 	ret = False
 	if (dictionary.get(name) == None):
-		dictionary[name] = 1
+		dictionary[name] = price
 		ret = True
 	
 	return ret
@@ -142,7 +143,7 @@ def main():
 				price = price[0].replace(",","")
 
 				# Check to see if we already have recorded this item
-				if not (unique_filter(existing_items, name)):
+				if not (unique_filter(existing_items, name, price)):
 					continue
 
 				# Filtering bad data points
