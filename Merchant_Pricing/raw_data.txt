@@ -1,0 +1,1374 @@
+Adventuring Gear|Tool|Gemstone|Holy Symbol|Ammunition|Poison|Mount|Martial Melee Weapon|Potion or Oil|Martial Ranged Weapon|Firearms Ranged Weapon|Vehicle (Space)|Medium Armor|Equipment Pack|Vehicle (Land)|Heavy Armor|Simple Melee Weapon|Simple Ranged Weapon|Arcane Focus|Vehicle (Water)|Light Armor|Shield|Druidic Focus|Weapon|Magic Item|Food, Drink & Lodging|Service|Miscellaneous|Modification|Wondrous Item|Armor|Staff|Rod|Ring|Spell Scroll|Spell Gem|Wand
+
+Abacus|Adventuring Gear|2|gp
+Acid (vial)|Adventuring Gear|25|gp
+Airship|Adventuring Gear|20000|gp
+Alchemist's Fire (flask)|Adventuring Gear|50|gp
+Alchemist's Supplies|Tool|50|gp
+Alexandrite|Gemstone|500|gp
+Amber|Gemstone|100|gp
+Amethyst|Gemstone|100|gp
+Amulet|Holy Symbol|5|gp
+Antitoxin|Adventuring Gear|50|gp
+Aquamarine|Gemstone|500|gp
+Arrows|Ammunition|1|gp
+Assassin's Blood (Ingested)|Poison|150|gp
+Axe Beak|Mount|50|gp
+Azurite|Gemstone|10|gp
+Backpack|Adventuring Gear|2|gp
+Bad News Bullets|Ammunition|10|gp
+Bagpipes|Tool|30|gp
+Ball Bearings (bag of 1,000)|Adventuring Gear|1|gp
+Banded Agate|Gemstone|10|gp
+Barrel|Adventuring Gear|2|gp
+Basic Fishing Equipment|Adventuring Gear|1|sp
+Basket|Adventuring Gear|4|sp
+Battleaxe|Martial Melee Weapon|10|gp
+Bedroll|Adventuring Gear|1|gp
+Bell|Adventuring Gear|1|gp
+Birdpipes|Tool|12|gp
+Bit and Bridle|Adventuring Gear|2|gp
+Black Opal|Gemstone|1000|gp
+Black Pearl|Gemstone|500|gp
+Black Sap|Potion or Oil|300|gp
+Black Sapphire|Gemstone|5000|gp
+Blanket|Adventuring Gear|5|sp
+Blight Ichor|Potion or Oil|200|gp
+Block and Tackle|Adventuring Gear|1|gp
+Bloodstone|Gemstone|50|gp
+Blowgun|Martial Ranged Weapon|10|gp
+Blowgun Needles|Ammunition|1|gp
+Blue quartz|Gemstone|10|gp
+Blue Sapphire|Gemstone|1000|gp
+Blue spinel|Gemstone|500|gp
+Blunderbuss (Exandria)|Firearms Ranged Weapon|300|gp
+Blunderbuss Bullets|Ammunition|5|gp
+Bomb|Adventuring Gear|150|gp
+Bombard|Vehicle (Space)|50000|gp
+Book|Adventuring Gear|25|gp
+Bottle, Glass|Adventuring Gear|2|gp
+Breastplate|Medium Armor|400|gp
+Brewer's Supplies|Tool|20|gp
+Bucket|Adventuring Gear|5|cp
+Bullets, Renaissance|Ammunition|3|gp
+Burglar's Pack|Equipment Pack|16|gp
+Burnt Othur Fumes (Inhaled)|Poison|500|gp
+Calligrapher's Supplies|Tool|10|gp
+Caltrops (bag of 20)|Adventuring Gear|1|gp
+Camel|Mount|50|gp
+Candle|Adventuring Gear|1|cp
+Canoe|Adventuring Gear|50|gp
+Carnelian|Gemstone|50|gp
+Carpenter's Tools|Tool|8|gp
+Carriage|Vehicle (Land)|100|gp
+Cart|Vehicle (Land)|15|gp
+Cartographer's Tools|Tool|15|gp
+Case, Crossbow Bolt|Adventuring Gear|1|gp
+Case, Map or Scroll|Adventuring Gear|1|gp
+Chain (10 feet)|Adventuring Gear|5|gp
+Chain Mail|Heavy Armor|75|gp
+Chain Shirt|Medium Armor|50|gp
+Chalcedony|Gemstone|50|gp
+Chalk (1 piece)|Adventuring Gear|1|cp
+Chariot|Vehicle (Land)|250|gp
+Chest|Adventuring Gear|5|gp
+Chrysoberyl|Gemstone|100|gp
+Chrysoprase|Gemstone|50|gp
+Citrine|Gemstone|50|gp
+Climber's Kit|Adventuring Gear|25|gp
+Clothes, Common|Adventuring Gear|5|sp
+Clothes, Costume|Adventuring Gear|5|gp
+Clothes, Fine|Adventuring Gear|15|gp
+Clothes, Traveler's|Adventuring Gear|2|gp
+Clothing, cold weather|Adventuring Gear|10|gp
+Club|Simple Melee Weapon|1|sp
+Cobbler's Tools|Tool|5|gp
+Component Pouch|Adventuring Gear|25|gp
+Cook's Utensils|Tool|1|gp
+Coral|Gemstone|100|gp
+Crampons|Adventuring Gear|2|gp
+Crawler Mucus (Contact)|Poison|200|gp
+Crossbow Bolts|Ammunition|1|gp
+Crossbow, hand|Martial Ranged Weapon|75|gp
+Crossbow, heavy|Martial Ranged Weapon|50|gp
+Crossbow, light|Simple Ranged Weapon|25|gp
+Crowbar|Adventuring Gear|2|gp
+Crystal|Arcane Focus|10|gp
+Dagger|Simple Melee Weapon|2|gp
+Damselfly Ship|Vehicle (Space)|20000|gp
+Dart|Simple Ranged Weapon|5|cp
+Diamond|Gemstone|5000|gp
+Dice Set|Tool|1|sp
+Diplomat's Pack|Equipment Pack|39|gp
+Disguise Kit|Tool|25|gp
+Dogsled|Vehicle (Land)|20|gp
+Donkey (or Mule)|Mount|8|gp
+Double-Bladed Scimitar|Martial Melee Weapon|100|gp
+Draft Horse|Mount|50|gp
+Dragonchess Set|Tool|1|gp
+Dreamlily|Poison|1|gp
+Drow Poison (Injury)|Poison|200|gp
+Drum|Tool|6|gp
+Dulcimer|Tool|25|gp
+Dungeoneer's Pack|Equipment Pack|12|gp
+Elephant|Mount|200|gp
+Emblem|Holy Symbol|5|gp
+Emerald|Gemstone|1000|gp
+Entertainer's Pack|Equipment Pack|40|gp
+Essence of Ether (Inhaled)|Poison|300|gp
+Explorer's Pack|Equipment Pack|10|gp
+Eye agate|Gemstone|10|gp
+Feed (per day)|Adventuring Gear|5|cp
+Fire Opal|Gemstone|1000|gp
+Fishing Tackle|Adventuring Gear|1|gp
+Flail|Martial Melee Weapon|10|gp
+Flask or Tankard|Adventuring Gear|2|cp
+Flute|Tool|2|gp
+Flying Fish Ship|Vehicle (Space)|20000|gp
+Forgery Kit|Tool|15|gp
+Galley|Vehicle (Water)|30000|gp
+Garnet|Gemstone|100|gp
+Glaive|Martial Melee Weapon|20|gp
+Glassblower's Tools|Tool|30|gp
+Glaur|Tool|3|gp
+Grappling Hook|Adventuring Gear|2|gp
+Greataxe|Martial Melee Weapon|30|gp
+Greatclub|Simple Melee Weapon|2|sp
+Greatsword|Martial Melee Weapon|50|gp
+Gunpowder, Keg|Adventuring Gear|250|gp
+Gunpowder, Powder Horn|Adventuring Gear|35|gp
+Halberd|Martial Melee Weapon|20|gp
+Half Plate|Medium Armor|750|gp
+Hammer|Adventuring Gear|1|gp
+Hammer, Sledge|Adventuring Gear|2|gp
+Hammerhead Ship|Vehicle (Space)|40000|gp
+Hand Drum|Tool|6|gp
+Hand Mortar Ammunition|Ammunition|10|gp
+Handaxe|Simple Melee Weapon|5|gp
+Healer's Kit|Adventuring Gear|5|gp
+Hematite|Gemstone|10|gp
+Herbalism Kit|Tool|5|gp
+Hide|Medium Armor|10|gp
+Holy Water (flask)|Adventuring Gear|25|gp
+Hoopak|Martial Melee Weapon|1|gp
+Hoopak (Ranged)|Martial Ranged Weapon|1|gp
+Horn|Tool|3|gp
+Hourglass|Adventuring Gear|25|gp
+Hunting Trap|Adventuring Gear|5|gp
+Ink (1 ounce bottle)|Adventuring Gear|10|gp
+Ink Pen|Adventuring Gear|2|cp
+Insect Repellent-Incense|Adventuring Gear|1|sp
+Insect Repellent-Salve|Adventuring Gear|1|gp
+Jacinth|Gemstone|5000|gp
+Jade|Gemstone|100|gp
+Jasper|Gemstone|50|gp
+Javelin|Simple Melee Weapon|5|sp
+Jet|Gemstone|100|gp
+Jeweler's Tools|Tool|25|gp
+Jug or Pitcher|Adventuring Gear|2|cp
+Keelboat|Vehicle (Water)|3000|gp
+Ladder (10 foot)|Adventuring Gear|1|sp
+Lamp|Adventuring Gear|5|sp
+Lamprey Ship|Vehicle (Space)|20000|gp
+Lance|Martial Melee Weapon|10|gp
+Lantern, Bullseye|Adventuring Gear|10|gp
+Lantern, Hooded|Adventuring Gear|5|gp
+Lapis Lazuli|Gemstone|10|gp
+Leather|Light Armor|10|gp
+Leatherworker's Tools|Tool|5|gp
+Light Hammer|Simple Melee Weapon|2|gp
+Living Ship|Vehicle (Space)|25000|gp
+Lock|Adventuring Gear|10|gp
+Longbow|Martial Ranged Weapon|50|gp
+Longhorn|Tool|2|gp
+Longship|Vehicle (Water)|10000|gp
+Longsword|Martial Melee Weapon|15|gp
+Lute|Tool|35|gp
+Lyre|Tool|30|gp
+Mace|Simple Melee Weapon|5|gp
+Magnifying Glass|Adventuring Gear|100|gp
+Malachite|Gemstone|10|gp
+Malice (Inhaled)|Poison|250|gp
+Manacles|Adventuring Gear|2|gp
+Mason's Tools|Tool|10|gp
+Mastiff|Mount|25|gp
+Maul|Martial Melee Weapon|10|gp
+Mess Kit|Adventuring Gear|2|sp
+Midnight Tears (Ingested)|Poison|1500|gp
+Mirror, Steel|Adventuring Gear|5|gp
+Monster Hunter's Pack|Equipment Pack|33|gp
+Moonstone|Gemstone|50|gp
+Moorbounder|Mount|400|gp
+Morningstar|Martial Melee Weapon|15|gp
+Moss agate|Gemstone|10|gp
+Muroosa Balm|Potion or Oil|100|gp
+Musket|Firearms Ranged Weapon|500|gp
+Musket (Exandria)|Firearms Ranged Weapon|300|gp
+Musket (Exandria) Bullets|Ammunition|5|gp
+Nautiloid|Vehicle (Space)|50000|gp
+Navigator's Tools|Tool|25|gp
+Net|Martial Ranged Weapon|1|gp
+Nightspider|Vehicle (Space)|50000|gp
+Obsidian|Gemstone|10|gp
+Oil (flask)|Adventuring Gear|1|sp
+Oil of Taggit (Contact)|Poison|400|gp
+Olisuba Leaf|Potion or Oil|50|gp
+Onyx|Gemstone|50|gp
+Opal|Gemstone|1000|gp
+Orb|Arcane Focus|20|gp
+Padded|Light Armor|5|gp
+Painter's Supplies|Tool|10|gp
+Pale Tincture (Ingested)|Poison|250|gp
+Palm Pistol (Exandria)|Firearms Ranged Weapon|50|gp
+Palm Pistol Bullets|Ammunition|2|gp
+Pan Flute|Tool|12|gp
+Paper (one sheet)|Adventuring Gear|2|sp
+Parchment (one sheet)|Adventuring Gear|1|sp
+Pearl|Gemstone|100|gp
+Pepperbox (Exandria)|Firearms Ranged Weapon|250|gp
+Pepperbox Bullets|Ammunition|4|gp
+Perfume (vial)|Adventuring Gear|5|gp
+Peridot|Gemstone|500|gp
+Pick, Miner's|Adventuring Gear|2|gp
+Pike|Martial Melee Weapon|5|gp
+Pistol|Firearms Ranged Weapon|250|gp
+Pistol (Exandria)|Firearms Ranged Weapon|150|gp
+Pistol (Exandria) Bullets|Ammunition|4|gp
+Piton|Adventuring Gear|5|cp
+Plate|Heavy Armor|1500|gp
+Playing Card Set|Tool|5|sp
+Poison, Basic (vial)|Poison|100|gp
+Poisoner's Kit|Tool|50|gp
+Pole (10-foot)|Adventuring Gear|5|cp
+Pony|Mount|30|gp
+Pot, Iron|Adventuring Gear|2|gp
+Potion of Healing|Potion or Oil|50|gp
+Potter's Tools|Tool|10|gp
+Pouch|Adventuring Gear|5|sp
+Pride Silk|Adventuring Gear|100|gp
+Pride Silk Outfit|Light Armor|500|gp
+Priest's Pack|Equipment Pack|19|gp
+Purple Worm Poison (Injury)|Poison|2000|gp
+Quarterstaff|Simple Melee Weapon|2|sp
+Quartz|Gemstone|50|gp
+Quiver|Adventuring Gear|1|gp
+Rain Catcher|Adventuring Gear|1|gp
+Ram, Portable|Adventuring Gear|4|gp
+Rapier|Martial Melee Weapon|25|gp
+Rations (1 day)|Adventuring Gear|5|sp
+Reliquary|Holy Symbol|5|gp
+Rhodochrosite|Gemstone|10|gp
+Riding Horse|Mount|75|gp
+Ring Mail|Heavy Armor|30|gp
+Robes|Adventuring Gear|1|gp
+Rod|Arcane Focus|10|gp
+Rope, Hempen (50 feet)|Adventuring Gear|1|gp
+Rope, Silk (50 feet)|Adventuring Gear|10|gp
+Rowboat|Vehicle (Water)|50|gp
+Ruby|Gemstone|5000|gp
+Sack|Adventuring Gear|1|cp
+Saddle, Exotic|Adventuring Gear|60|gp
+Saddle, Military|Adventuring Gear|20|gp
+Saddle, Pack|Adventuring Gear|5|gp
+Saddle, Riding|Adventuring Gear|10|gp
+Saddlebags|Adventuring Gear|4|gp
+Sailing Ship|Vehicle (Water)|10000|gp
+Sardonyx|Gemstone|50|gp
+Scale Mail|Medium Armor|50|gp
+Scale, Merchant's|Adventuring Gear|5|gp
+Scholar's Pack|Equipment Pack|40|gp
+Scimitar|Martial Melee Weapon|25|gp
+Scorpion Ship|Vehicle (Space)|25000|gp
+Sealing Wax|Adventuring Gear|5|sp
+Serpent Venom (Injury)|Poison|200|gp
+Shawm|Tool|2|gp
+Shield|Shield|10|gp
+Shortbow|Simple Ranged Weapon|25|gp
+Shortsword|Martial Melee Weapon|10|gp
+Shovel|Adventuring Gear|2|gp
+Shrike Ship|Vehicle (Space)|20000|gp
+Sickle|Simple Melee Weapon|1|gp
+Signal Whistle|Adventuring Gear|5|cp
+Signet Ring|Adventuring Gear|5|gp
+Skyship|Vehicle (Land)|100000|gp
+Sled|Vehicle (Land)|20|gp
+Sled Dog|Mount|50|gp
+Sling|Simple Ranged Weapon|1|sp
+Sling Bullets|Ammunition|4|cp
+Smith's Tools|Tool|20|gp
+Snowshoes|Adventuring Gear|2|gp
+Soap|Adventuring Gear|2|cp
+Songhorn|Tool|2|gp
+Soothsalts|Potion or Oil|150|gp
+Space Galleon|Vehicle (Space)|30000|gp
+Spear|Simple Melee Weapon|1|gp
+Spellbook|Adventuring Gear|50|gp
+Spiked Armor|Medium Armor|75|gp
+Spikes, Iron (10)|Adventuring Gear|1|gp
+Spinel|Gemstone|100|gp
+Splint|Heavy Armor|200|gp
+Sprig of Mistletoe|Druidic Focus|1|gp
+Spyglass|Adventuring Gear|1000|gp
+Squid Ship|Vehicle (Space)|25000|gp
+Staff|Arcane Focus|5|gp
+Star Moth|Vehicle (Space)|40000|gp
+Star Rose Quartz|Gemstone|50|gp
+Star Ruby|Gemstone|1000|gp
+Star Sapphire|Gemstone|1000|gp
+Studded Leather|Light Armor|45|gp
+Tantan|Tool|6|gp
+Tent, Two-Person|Adventuring Gear|2|gp
+Theki Root|Potion or Oil|3|gp
+Thelarr|Tool|2|gp
+Thieves' Tools|Tool|25|gp
+Three-Dragon Ante Set|Tool|1|gp
+Tiger Eye|Gemstone|10|gp
+Tinderbox|Adventuring Gear|5|sp
+Tinker's Tools|Tool|50|gp
+Tocken|Tool|6|gp
+Topaz|Gemstone|500|gp
+Torch|Adventuring Gear|1|cp
+Torpor (Ingested)|Poison|600|gp
+Totem|Druidic Focus|1|gp
+Tourmaline|Gemstone|100|gp
+Trident|Martial Melee Weapon|5|gp
+Truth Serum (Ingested)|Poison|150|gp
+Turquoise|Gemstone|10|gp
+Turtle Ship|Vehicle (Space)|40000|gp
+Vial|Adventuring Gear|1|gp
+Viol|Tool|30|gp
+Wagon|Vehicle (Land)|35|gp
+Wand|Arcane Focus|10|gp
+War Pick|Martial Melee Weapon|5|gp
+Wargong|Tool|30|gp
+Warhammer|Martial Melee Weapon|15|gp
+Warhorse|Mount|400|gp
+Warship|Vehicle (Water)|25000|gp
+Wasp Ship|Vehicle (Space)|20000|gp
+Waterskin|Adventuring Gear|2|sp
+Weaver's Tools|Tool|1|gp
+Whetstone|Adventuring Gear|1|cp
+Whip|Martial Melee Weapon|2|gp
+Willowshade Oil|Potion or Oil|30|gp
+Woodcarver's Tools|Tool|1|gp
+Wooden Staff|Druidic Focus|5|gp
+Wyvern Poison (Injury)|Poison|1200|gp
+Yarting|Tool|35|gp
+Yellow sapphire|Gemstone|1000|gp
+Yew Wand|Druidic Focus|10|gp
+Yklwa|Simple Melee Weapon|1|gp
+Zircon|Gemstone|50|gp
+Zulkoon|Tool|30|gp
+Light Crossbow|Weapon|25|gp
+Hand Crossbow|Weapon|75|gp
+Heavy Crossbow|Weapon|50|gp
+Blowgun Needles (50)|Adventuring Gear|1|gp
+Sling Bullets (20)|Adventuring Gear|4|cp
+Bottle, glass|Adventuring Gear|2|gp
+Clothes, Cold Weather|Adventuring Gear|10|gp
+Crampons (2)|Adventuring Gear|2|gp
+Ghillie Suit|Adventuring Gear|50|gp
+Swimming Gear|Adventuring Gear|15|gp
+Waterskin (full)|Adventuring Gear|2|sp
+Antitoxin (vial)|Adventuring Gear|50|gp
+Potions (Common)|Magic Item|50|gp
+Potions (Uncommon)|Magic Item|250|gp
+Potions (Rare)|Magic Item|2500|gp
+Potions (Legendary)|Magic Item|62500|gp
+Book, Common, Soft Bound|Adventuring Gear|8|gp
+Book, Common, Hard Bound|Adventuring Gear|10|gp
+Book, Uncommon, Soft Bound|Adventuring Gear|15|gp
+Book, Uncommon, Hard Bound|Adventuring Gear|20|gp
+Book, Rare, Soft Bound|Adventuring Gear|30|gp
+Book, Rare, Hard Bound|Adventuring Gear|50|gp
+Hollow Book|Adventuring Gear|5|gp
+Journal, Soft Bound, 25 Sheets|Adventuring Gear|7|gp
+Bowstring (5)|Adventuring Gear|2|gp
+Meat Stick|Food, Drink & Lodging|3|cp
+Roasted Locusts|Food, Drink & Lodging|3|cp
+Cheese Omelet|Food, Drink & Lodging|4|cp
+Ham & Cheese on Rye|Food, Drink & Lodging|5|cp
+Bacon & Egg Sandwich|Food, Drink & Lodging|3|sp
+Omelet "Your Way"|Food, Drink & Lodging|3|sp
+Bloodhawk Eggs|Food, Drink & Lodging|4|sp
+Bacon Stuffed Bread|Food, Drink & Lodging|5|sp
+Frittata & Herbs|Food, Drink & Lodging|1|gp
+Bacon & Owlbear Eggs|Food, Drink & Lodging|2|gp
+Boar Ham Steak & Eggs|Food, Drink & Lodging|2|gp
+Truffle Omelet|Food, Drink & Lodging|3|gp
+Stockpot Stew/ Soup|Food, Drink & Lodging|4|cp
+"Adventurer's" Steak|Food, Drink & Lodging|4|cp
+Minced Pork|Food, Drink & Lodging|5|cp
+Roast Goat & Cheese|Food, Drink & Lodging|6|cp
+Roast Lamb & Cheese|Food, Drink & Lodging|4|sp
+Boar Tenderloin|Food, Drink & Lodging|5|sp
+Baked Goose Breast|Food, Drink & Lodging|5|sp
+Grilled Salmon|Food, Drink & Lodging|6|sp
+Rack of Lamb|Food, Drink & Lodging|2|gp
+Shellfish Platter|Food, Drink & Lodging|3|gp
+Dragon Turtle Soup|Food, Drink & Lodging|4|gp
+Roc Meat Tar Tar|Food, Drink & Lodging|5|gp
+Pigeon Pot Pie|Food, Drink & Lodging|5|cp
+'Tasha’s Hideous Stew'|Food, Drink & Lodging|5|cp
+Rabbit and Potato Plate|Food, Drink & Lodging|6|cp
+Hunter's Pie|Food, Drink & Lodging|4|sp
+Bloodhawk Breast|Food, Drink & Lodging|5|sp
+Crocodile Steak|Food, Drink & Lodging|5|sp
+Roasted Bullywug Legs|Food, Drink & Lodging|6|sp
+Buffalo Ribeye|Food, Drink & Lodging|2|gp
+Sahuagin Caviar|Food, Drink & Lodging|3|gp
+Owlbear Steak & Eggs|Food, Drink & Lodging|4|gp
+[Color] Dragon Steak|Food, Drink & Lodging|5|gp
+Coffee (cup)|Food, Drink & Lodging|5|cp
+Goodberry "Wine"|Food, Drink & Lodging|1|sp
+Fruit Juice (Varies)|Food, Drink & Lodging|5|cp
+Milk (Local Variety)|Food, Drink & Lodging|2|cp
+Abbey Red Wine|Food, Drink & Lodging|2|sp
+Bloodwine|Food, Drink & Lodging|2|sp
+Clarry Wine|Food, Drink & Lodging|1|sp
+Evermead|Food, Drink & Lodging|11|gp
+Far Ridge Red|Food, Drink & Lodging|1|sp
+Fire Wine|Food, Drink & Lodging|1|sp
+Glowfire|Food, Drink & Lodging|2|sp
+Highdusk Dark|Food, Drink & Lodging|1|gp
+Mead Wine|Food, Drink & Lodging|1|sp
+Redwood Dry|Food, Drink & Lodging|1|sp
+Special Vat|Food, Drink & Lodging|2|sp
+Table Wine|Food, Drink & Lodging|6|cp
+Temple-Under-Rock|Food, Drink & Lodging|4|sp
+Spiced Wine|Food, Drink & Lodging|1|sp
+Westgate Ruby|Food, Drink & Lodging|1|sp
+Winter Wine|Food, Drink & Lodging|2|sp
+Absinthe|Food, Drink & Lodging|2|gp
+Cherry Fire|Food, Drink & Lodging|2|sp
+Death Wish|Food, Drink & Lodging|1|gp
+Elquestria|Food, Drink & Lodging|3|gp
+Elverquis|Food, Drink & Lodging|56|gp
+Fireball|Food, Drink & Lodging|1|gp
+Flindmaker|Food, Drink & Lodging|1|gp
+Hog Piss|Food, Drink & Lodging|2|cp
+Kumis|Food, Drink & Lodging|4|sp
+Seawine|Food, Drink & Lodging|2|sp
+Shasta|Food, Drink & Lodging|2|sp
+Vodka|Food, Drink & Lodging|1|gp
+White Eye Whiskey|Food, Drink & Lodging|3|gp
+Zzar|Food, Drink & Lodging|15|sp
+Bitter Black|Food, Drink & Lodging|9|cp
+Bleak Stout|Food, Drink & Lodging|1|sp
+Dragon's Breath|Food, Drink & Lodging|2|cp
+Goblin Piss|Food, Drink & Lodging|1|cp
+Golden Sands Ale|Food, Drink & Lodging|3|cp
+Halfling's Best|Food, Drink & Lodging|1|sp
+North Brew|Food, Drink & Lodging|1|cp
+Old One Eye|Food, Drink & Lodging|3|cp
+Purple Noble|Food, Drink & Lodging|2|sp
+Shadowdark Ale|Food, Drink & Lodging|4|cp
+Wizard's Choice|Food, Drink & Lodging|4|cp
+Hill Cider|Food, Drink & Lodging|1|sp
+Knee Cracker Cider|Food, Drink & Lodging|1|cp
+Troll Pear Cider|Food, Drink & Lodging|2|sp
+Vilhoun Cider|Food, Drink & Lodging|1|sp
+Stay, Squalid Inn|Food, Drink & Lodging|7|cp
+Stay, Poor Inn|Food, Drink & Lodging|1|sp
+Stay, Modest Inn|Food, Drink & Lodging|5|sp
+Stay, Comfortable Inn|Food, Drink & Lodging|8|sp
+Stay, Wealthy Inn|Food, Drink & Lodging|2|gp
+Stay, Aristocratic Inn|Food, Drink & Lodging|4|gp
+Amulet/Necklace, Mundane|Adventuring Gear|5|sp
+Amulet/Necklace, Exquisite|Adventuring Gear|5|gp
+Jewelry (+ Gem Value)|Adventuring Gear|50|gp
+Ring, Mundane|Adventuring Gear|3|sp
+Ring, Exquisite|Adventuring Gear|3|gp
+Gemstone Appraisel (3 gems)|Service|5|gp
+Resizing Jewelry|Service|10|gp
+Set Gem (<100 gp value)|Service|45|gp
+Set Gem (100-1K gp value)|Service|75|gp
+Set Gem (>1K gp value)|Service|150|gp
+Gemstone (10 gp)|Miscellaneous|10|gp
+Gemstone (50 gp)|Miscellaneous|50|gp
+Gemstone (100 gp)|Miscellaneous|100|gp
+Gemstone (500 gp)|Miscellaneous|500|gp
+Gemstone (1,000 gp)|Miscellaneous|1000|gp
+Gemstone (5,000 gp)|Miscellaneous|5000|gp
+Azurite (deep blue)|Gemstone|10|gp
+Banded agate (Brown / Blue)|Gemstone|10|gp
+Blue Quartz (pale blue)|Gemstone|10|gp
+Eye Agate (circles, gray / blue)|Gemstone|10|gp
+Hematite (opaque gray-black)|Gemstone|10|gp
+Lapis Lazuli (blue with yellow)|Gemstone|10|gp
+Malachite (striated greens)|Gemstone|10|gp
+Moss Agate (pale, moss marks)|Gemstone|10|gp
+Obsidian (opaque black)|Gemstone|10|gp
+Rhodochrosite (light pink)|Gemstone|10|gp
+Tiger Eye (brown, gold center)|Gemstone|10|gp
+Turquoise (light blue-green)|Gemstone|10|gp
+Bloodstone (gray with red)|Gemstone|50|gp
+Carnelian (opaque oranges)|Gemstone|50|gp
+Chalcedony (opaque white)|Gemstone|50|gp
+Chrysoprase (clear green)|Gemstone|50|gp
+Citrine (pale yellow-brown)|Gemstone|50|gp
+Jasper (blue, black, or brown)|Gemstone|50|gp
+Moonstone (white and glow)|Gemstone|50|gp
+Onyx (black, white, or both)|Gemstone|50|gp
+Quartz (transparent range)|Gemstone|50|gp
+Sardonyx (red and white)|Gemstone|50|gp
+Star Rose Quartz (white star)|Gemstone|50|gp
+Zircon (pale blue-green)|Gemstone|50|gp
+Amber (watery gold)|Gemstone|100|gp
+Amethyst (deep purple)|Gemstone|100|gp
+Chrysoberyl (yellow-green)|Gemstone|100|gp
+Coral (opaque crimson)|Gemstone|100|gp
+Garnet (red, or violet)|Gemstone|100|gp
+Jade (green to white)|Gemstone|100|gp
+Jet (opaque deep black)|Gemstone|100|gp
+Pearl (lustrous white to pink)|Gemstone|100|gp
+Spinel (clear red to green)|Gemstone|100|gp
+Tourmaline (pale red / brown)|Gemstone|100|gp
+Alexandrite (dark green)|Gemstone|500|gp
+Aquamarine (pale green-blue)|Gemstone|500|gp
+Black Pearl (pure black)|Gemstone|500|gp
+Blue Spinel (deep blue)|Gemstone|500|gp
+Peridot (rich olive green)|Gemstone|500|gp
+Topaz (golden yellow)|Gemstone|500|gp
+Black Opal (translucent green)|Gemstone|1000|gp
+Blue Sapphire (shades of blue)|Gemstone|1000|gp
+Emerald (deep bright green)|Gemstone|1000|gp
+Fire Opal (fiery red)|Gemstone|1000|gp
+Opal (pale blue with green)|Gemstone|1000|gp
+Star Ruby (ruby with star)|Gemstone|1000|gp
+Star Sapphire (blue with star)|Gemstone|1000|gp
+Yellow Sapphire (fiery yellow)|Gemstone|1000|gp
+Black Sapphire (lustrous black)|Gemstone|5000|gp
+Diamond (transparent)|Gemstone|5000|gp
+Jacinth (fiery orange)|Gemstone|5000|gp
+Ruby (shades of red)|Gemstone|5000|gp
+Gemstones (10 gp)|Gemstone|20|gp
+Gemstones (50 gp)|Gemstone|70|gp
+Gemstones (100 gp)|Gemstone|150|gp
+Gemstones (500 gp)|Gemstone|600|gp
+Gemstones (1000 gp)|Gemstone|1500|gp
+Gemstones (5000 gp)|Gemstone|6000|gp
+Aniseed, vial|Adventuring Gear|2|sp
+Black Suit|Adventuring Gear|30|gp
+Blinding Powder|Adventuring Gear|1|sp
+Dog Pepper|Adventuring Gear|1|sp
+Finger Blades|Adventuring Gear|20|gp
+Glass-cutter|Adventuring Gear|120|gp
+Listening Cone|Adventuring Gear|20|gp
+Pin Ring (iron)|Adventuring Gear|2|gp
+Pin Ring (silver)|Adventuring Gear|10|gp
+Smoke Stick|Adventuring Gear|20|gp
+Tar Paper|Adventuring Gear|1|sp
+Wrist Sheath|Adventuring Gear|5|sp
+Canesword|Weapon|50|gp
+Assassin's Blood|Poison|150|gp
+Burnt Othur Fumes|Poison|500|gp
+Crawler Mucus|Poison|200|gp
+Drow Poison|Poison|200|gp
+Essence of Ether|Poison|300|gp
+Malice|Poison|250|gp
+Midnight Tears|Poison|1500|gp
+Oil of Taggit|Poison|400|gp
+Pale Tincture|Poison|250|gp
+Purple Worm Poison|Poison|2000|gp
+Torpor|Poison|600|gp
+Truth Serum|Poison|150|gp
+Wyvern Poison|Poison|1200|gp
+Cloak, Canvas|Adventuring Gear|7|sp
+Cloak, Leather|Adventuring Gear|2|gp
+Cloak, Leather, Lined|Adventuring Gear|4|gp
+Bone Needle (5)|Miscellaneous|3|cp
+Steel Needle (1)|Miscellaneous|1|sp
+Cotton Thread (30 feet)|Miscellaneous|5|sp
+Leather Cord (15 feet)|Miscellaneous|1|gp
+Hollow Boot Heel|Modification|20|gp
+Apparel Inside Pocket|Modification|1|gp
+Pack/Bag Inside Flap|Modification|1|gp
+Alms Box|Adventuring Gear|5|gp
+Book, Scripture|Adventuring Gear|25|gp
+Censer|Adventuring Gear|5|gp
+Incense (1 block)|Adventuring Gear|1|cp
+Cure Wounds (Level 1)|Service|10|gp
+Gentle Repose (Level 2)|Service|50|gp
+Lesser Restoration (Level 2)|Service|50|gp
+Remove Curse (Level 3)|Service|100|gp
+Revivify (Level 4)|Service|400|gp
+Raise Dead (Level 5)|Service|1000|gp
+Abracadabrus|Wondrous Item|2500|gp
+Absorbing Tattoo|Wondrous Item|8000|gp
+Acheron Blade|Weapon|900|gp
+Alchemical Compendium|Wondrous Item|3000|gp
+Alchemy Jug|Wondrous Item|100|gp
+All-Purpose Tool, +1|Wondrous Item|1500|gp
+All-Purpose Tool, +2|Wondrous Item|4500|gp
+All-Purpose Tool, +3|Wondrous Item|16000|gp
+Amethyst Lodestone|Wondrous Item|20000|gp
+Ammunition +1 (Ea)|Ammunition|50|gp
+Ammunition +2 (Ea)|Ammunition|250|gp
+Ammunition +3 (Ea)|Ammunition|2500|gp
+Ammunition, Adamantine (10 pieces)|Ammunition|500|gp
+Amulet Of Health|Wondrous Item|4000|gp
+Amulet Of Proof Against Detection And Location|Wondrous Item|400|gp
+Amulet Of Protection From Turning|Wondrous Item|3600|gp
+Amulet Of The Black Skull|Wondrous Item|6400|gp
+Amulet of the Devout, +1|Wondrous Item|425|gp
+Amulet of the Devout, +2|Wondrous Item|4250|gp
+Amulet of the Devout, +3|Wondrous Item|14500|gp
+Amulet of the Drunkard|Wondrous Item|500|gp
+Amulet Of The Planes|Wondrous Item|43000|gp
+Animated Shield|Shield|6000|gp
+Apparatus Of Kwalish|Wondrous Item|90000|gp
+Apparatus Of The Crab|Wondrous Item|90000|gp
+Arcane Cannon|Wondrous Item|6500|gp
+Arcane Grimoire, +1|Wondrous Item|425|gp
+Arcane Grimoire, +2|Wondrous Item|4250|gp
+Arcane Grimoire, +3|Wondrous Item|14500|gp
+Arcane Propulsion Arm|Wondrous Item|5100|gp
+Armblade|Weapon|100|gp
+Armor Of Invulnerability|Armor|70000|gp
+Armor Of Resistance|Armor|3000|gp
+Armor Of Vulnerability|Armor|1500|gp
+Armor, +1|Armor|3000|gp
+Armor, +2|Armor|20000|gp
+Armor, +3|Armor|51000|gp
+Arrow Of Slaying (Ea)|Ammunition|1000|gp
+Arrow-Catching Shield|Shield|4500|gp
+Astral Shard|Wondrous Item|4200|gp
+Astronomy Archive|Wondrous Item|3300|gp
+Atlas of Endless Horizons|Wondrous Item|3750|gp
+Azuredge (battleaxe)|Weapon|53000|gp
+Badge Of The Watch|Wondrous Item|3250|gp
+Bag Of Beans|Wondrous Item|4200|gp
+Bag Of Devouring|Wondrous Item|12000|gp
+Bag Of Holding|Wondrous Item|500|gp
+Bag Of Tricks|Wondrous Item|350|gp
+Balance Of Harmony|Wondrous Item|200|gp
+Balloon Pack|Wondrous Item|275|gp
+Banner Of The Krig Rune|Wondrous Item|4400|gp
+Barrier Tattoo (Rare)|Wondrous Item|1500|gp
+Barrier Tattoo (Uncommon)|Wondrous Item|200|gp
+Barrier Tattoo (Very Rare)|Wondrous Item|6000|gp
+Battering Shield|Armor|850|gp
+Battle Standard Of Infernal Power|Wondrous Item|6000|gp
+Bead Of Force|Wondrous Item|3000|gp
+Bead Of Nourishment|Wondrous Item|25|gp
+Bead Of Refreshment|Wondrous Item|25|gp
+Belashyrra's Beholder Crown|Wondrous Item|51000|gp
+Bell Branch|Wondrous Item|750|gp
+Belt Of Dwarvenkind|Wondrous Item|5000|gp
+Belt Of Giant Strength (Cloud)|Wondrous Item|66000|gp
+Belt Of Giant Strength (Fire)|Wondrous Item|36000|gp
+Belt Of Giant Strength (Hill)|Wondrous Item|4000|gp
+Belt Of Giant Strength (Stone/Frost)|Wondrous Item|12000|gp
+Belt Of Giant Strength (Storm)|Wondrous Item|100000|gp
+Berserker Axe|Weapon|2000|gp
+Black Crystal Tablet|Wondrous Item|90000|gp
+Black Dragon Mask|Wondrous Item|95000|gp
+Blackstaff|Staff|72000|gp
+Blade Of The Medusa|Weapon|5500|gp
+Blast Scepter|Rod|9500|gp
+Blod Stone|Wondrous Item|6500|gp
+Blood Fury Tattoo|Wondrous Item|32000|gp
+Blood of the Lycanthrope Antidote|Potion or Oil|500|gp
+Blood Spear|Weapon|375|gp
+Bloodaxe|Weapon|27000|gp
+Bloodwell Vial, +1|Wondrous Item|425|gp
+Bloodwell Vial, +2|Wondrous Item|4250|gp
+Bloodwell Vial, +3|Wondrous Item|14500|gp
+Bobbing Lilly Pad|Wondrous Item|4000|gp
+Bookmark (dagger)|Weapon|30000|gp
+Boots Of Elvenkind|Wondrous Item|400|gp
+Boots Of False Tracks|Wondrous Item|60|gp
+Boots Of Levitation|Wondrous Item|4500|gp
+Boots Of Speed|Wondrous Item|3000|gp
+Boots Of Striding And Springing|Wondrous Item|200|gp
+Boots Of The Winterlands|Wondrous Item|300|gp
+Bottle of Boundless Coffee|Wondrous Item|50|gp
+Bottled Breath|Potion or Oil|350|gp
+Bowl Of Commanding Water Elementals|Wondrous Item|4700|gp
+Bracelet Of Rock Magic|Wondrous Item|9000|gp
+Bracer Of Flying Daggers|Wondrous Item|1000|gp
+Bracers Of Archery|Wondrous Item|350|gp
+Bracers Of Defense|Wondrous Item|4000|gp
+Brazier Of Commanding Fire Elementals|Wondrous Item|4700|gp
+Breathing Bubble|Wondrous Item|50|gp
+Bridle of Capturing|Wondrous Item|4500|gp
+Brooch of Living Essence|Wondrous Item|250|gp
+Brooch Of Shielding|Wondrous Item|375|gp
+Broom Of Flying|Wondrous Item|7500|gp
+Butchers Bib|Wondrous Item|2750|gp
+Candle Of Invocation|Wondrous Item|8400|gp
+Candle Of The Deep|Wondrous Item|50|gp
+Cap Of Water Breathing|Wondrous Item|450|gp
+Cape Of The Mountebank|Wondrous Item|3900|gp
+Carpet Of Flying|Wondrous Item|44000|gp
+Cauldron of Plenty|Wondrous Item|3500|gp
+Cauldron of Rebirth|Wondrous Item|10000|gp
+Censer Of Controlling Air Elementals|Wondrous Item|4700|gp
+Charlatan's Die|Wondrous Item|80|gp
+Charm Of Plant Command|Wondrous Item|1500|gp
+Chest Of Preserving|Wondrous Item|100|gp
+Chime Of Opening|Wondrous Item|3000|gp
+Chromatic Rose|Wondrous Item|500|gp
+Chronolometer|Wondrous Item|12500|gp
+Circlet Of Blasting|Wondrous Item|350|gp
+Circlet Of Human Perfection|Wondrous Item|200|gp
+Claw Of The Wyrm Rune|Wondrous Item|4400|gp
+Claws Of The Umber Hulk|Wondrous Item|4300|gp
+Cleansing Stone|Wondrous Item|50|gp
+Cloak Of Arachnida|Wondrous Item|14000|gp
+Cloak Of Billowing|Wondrous Item|100|gp
+Cloak Of Displacement|Wondrous Item|3600|gp
+Cloak Of Elvenkind|Wondrous Item|250|gp
+Cloak Of Invisibility|Wondrous Item|54000|gp
+Cloak Of Many Fashions|Wondrous Item|90|gp
+Cloak Of Protection|Wondrous Item|400|gp
+Cloak Of The Bat|Wondrous Item|4600|gp
+Cloak Of The Manta Ray|Wondrous Item|350|gp
+Clockwork Amulet|Wondrous Item|100|gp
+Clothes Of Mending|Wondrous Item|50|gp
+Codicil of White|Wondrous Item|500|gp
+Coiling Grasp Tattoo|Wondrous Item|500|gp
+Coin of Delving|Wondrous Item|50|gp
+Conch Of Teleportation|Wondrous Item|1850|gp
+Corpse Slayer|Weapon|1300|gp
+Crystal Ball|Wondrous Item|42000|gp
+Crystal Ball Of Mind Reading|Wondrous Item|51000|gp
+Crystal Ball Of Telepathy|Wondrous Item|70000|gp
+Crystal Ball Of True Seeing|Wondrous Item|80000|gp
+Crystal Blade|Weapon|6000|gp
+Crystalline Chronicle|Wondrous Item|6500|gp
+Cube Of Force|Wondrous Item|5000|gp
+Cubic Gate|Wondrous Item|164000|gp
+Cuddly Strixhaven Mascot|Wondrous Item|100|gp
+Cursed Luckstone|Wondrous Item|250|gp
+Daern's Instant Fortress|Wondrous Item|5000|gp
+Dagger Of Blindsight|Weapon|1000|gp
+Dagger Of Venom|Weapon|1500|gp
+Dancing Sword (any sword)|Weapon|10000|gp
+Dark Shard Amulet|Wondrous Item|75|gp
+Dawnbringer (longsword)|Weapon|57000|gp
+Decanter Of Endless Water|Wondrous Item|300|gp
+Deck Of Illusions|Wondrous Item|450|gp
+Deck Of Many Things|Wondrous Item|250000|gp
+Deck Of Several Things|Wondrous Item|51000|gp
+Defender (any sword)|Weapon|55000|gp
+Demon Armor (plate) (cursed)|Armor|7500|gp
+Devastation Orb (Air)|Wondrous Item|8000|gp
+Devastation Orb (Earth)|Wondrous Item|11000|gp
+Devastation Orb (Fire)|Wondrous Item|9500|gp
+Devastation Orb (Water)|Wondrous Item|9500|gp
+Devotee's Censer (flail)|Weapon|4500|gp
+Dimensional Loop|Wondrous Item|6000|gp
+Dimensional Shackles|Wondrous Item|2800|gp
+Dispelling Stone|Wondrous Item|7000|gp
+Docent|Wondrous Item|4500|gp
+Dodecahedron Of Doom|Wondrous Item|750|gp
+Dragon Scale Mail|Armor|15000|gp
+Dragon Slayer (any sword)|Weapon|4800|gp
+Dragon Vessel (Ascendant)|Wondrous Item|150000|gp
+Dragon Vessel (Slumbering)|Wondrous Item|500|gp
+Dragon Vessel (Stirring)|Wondrous Item|3000|gp
+Dragon Vessel (Wakened)|Wondrous Item|25000|gp
+Dragon Wing Bow|Weapon|4000|gp
+Dragon-Touched Focus (Ascendant)|Wondrous Item|30000|gp
+Dragon-Touched Focus (Slumbering)|Wondrous Item|400|gp
+Dragon-Touched Focus (Stirring)|Wondrous Item|2000|gp
+Dragon-Touched Focus (Wakened)|Wondrous Item|10000|gp
+Dragon's Wrath weapon (Ascendant) (any)|Weapon|65000|gp
+Dragon's Wrath weapon (Slumbering) (any)|Weapon|250|gp
+Dragon's Wrath weapon (Stirring) (any)|Weapon|3000|gp
+Dragon's Wrath weapon (Wakened) (any)|Weapon|11000|gp
+Dragonguard (breastplate)|Armor|4000|gp
+Dragonhide Belt (Rare)|Wondrous Item|4000|gp
+Dragonhide Belt (Uncommon)|Wondrous Item|400|gp
+Dragonhide Belt (Very Rare)|Wondrous Item|14000|gp
+Dragonlance|Weapon|25000|gp
+Dragonstaff Of Ahghairon|Staff|50500|gp
+Dragontooth Dagger|Weapon|5000|gp
+Dread Helm|Wondrous Item|55|gp
+Driftglobe|Wondrous Item|100|gp
+Drown (trident)|Weapon|66000|gp
+Duplicitous Manuscript|Wondrous Item|3000|gp
+Duskcrusher|Weapon|8500|gp
+Dust of Corrosion|Wondrous Item|150|gp
+Dust of Deliciousness|Wondrous Item|150|gp
+Dust Of Disappearance|Wondrous Item|200|gp
+Dust Of Dryness (1 pellet)|Wondrous Item|350|gp
+Dust Of Sneezing And Choking|Wondrous Item|150|gp
+Dwarven Plate|Armor|25000|gp
+Dwarven Thrower (warhammer)|Weapon|25000|gp
+Dyrrn's Tentacle Whip|Weapon|17000|gp
+Eagle Whistle|Wondrous Item|600|gp
+Ear Horn Of Hearing|Wondrous Item|75|gp
+Earworm|Wondrous Item|225|gp
+Efreeti Bottle|Wondrous Item|45000|gp
+Efreeti Chain (chain mail)|Armor|80000|gp
+Eldritch Claw Tattoo|Wondrous Item|500|gp
+Eldritch Staff|Staff|2000|gp
+Elemental Essence Shard|Wondrous Item|3500|gp
+Elemental Gem|Wondrous Item|250|gp
+Elixir Of Health|Potion or Oil|2000|gp
+Elven Chain|Armor|4500|gp
+Emerald Pen|Wondrous Item|250|gp
+Enduring Spellbook|Wondrous Item|100|gp
+Ersatz Eye|Wondrous Item|75|gp
+Everbright Lantern|Wondrous Item|100|gp
+Eversmoking Bottle|Wondrous Item|270|gp
+Eyes Of Charming|Wondrous Item|300|gp
+Eyes Of Minute Seeing|Wondrous Item|150|gp
+Eyes Of The Eagle|Wondrous Item|400|gp
+Fane-Eater (battleaxe)|Weapon|55000|gp
+Far Gear|Wondrous Item|7500|gp
+Far Realm Shard|Wondrous Item|2500|gp
+Feather Of Diatryma Summoning|Wondrous Item|600|gp
+Feather Token|Wondrous Item|25|gp
+Feather Token (Feather Fall)|Wondrous Item|25|gp
+Feather Token Feather Fall|Wondrous Item|25|gp
+Feywild Shard|Wondrous Item|250|gp
+Figurine of Wondrous Power (Bronze Griffon)|Wondrous Item|3600|gp
+Figurine of Wondrous Power (Ebony Fly)|Wondrous Item|3600|gp
+Figurine of Wondrous Power (Golden Canary)|Wondrous Item|55000|gp
+Figurine of Wondrous Power (Golden Lions)|Wondrous Item|5000|gp
+Figurine of Wondrous Power (Ivory Goats - Terror)|Wondrous Item|5000|gp
+Figurine of Wondrous Power (Ivory Goats - Travail)|Wondrous Item|5000|gp
+Figurine of Wondrous Power (Ivory Goats - Travelling)|Wondrous Item|5000|gp
+Figurine of Wondrous Power (Marble Elephant)|Wondrous Item|5000|gp
+Figurine of Wondrous Power (Obsidian Steed)|Wondrous Item|28500|gp
+Figurine of Wondrous Power (Onyx Dog)|Wondrous Item|3200|gp
+Figurine of Wondrous Power (Serpentine Owl)|Wondrous Item|3000|gp
+Figurine of Wondrous Power (Silver Raven)|Wondrous Item|380|gp
+Finder's Goggles|Wondrous Item|500|gp
+Flail of Tiamat|Weapon|70000|gp
+Flame Tongue|Weapon|5000|gp
+Flying Chariot|Wondrous Item|4750|gp
+Folding Boat|Wondrous Item|4750|gp
+Frost Brand (any sword)|Weapon|11000|gp
+Fulminating Treatise|Wondrous Item|4000|gp
+Galder's Bubble Pipe|Wondrous Item|2000|gp
+Gambler's Blade|Weapon|10000|gp
+Gauntlets Of Flaming Fury|Wondrous Item|2000|gp
+Gauntlets Of Ogre Power|Wondrous Item|450|gp
+Gavel Of The Venn Rune|Wondrous Item|2800|gp
+Gem Of Brightness|Wondrous Item|250|gp
+Gem Of Seeing|Wondrous Item|5000|gp
+Ghost Lantern|Wondrous Item|1750|gp
+Ghost Step Tattoo|Wondrous Item|9000|gp
+Giant Slayer (any sword or axe)|Weapon|4600|gp
+Glamerweave (Common)|Wondrous Item|50|gp
+Glamerweave (Uncommon)|Wondrous Item|150|gp
+Glamoured Studded Leather|Armor|4800|gp
+Gloves Of Missile Snaring|Wondrous Item|325|gp
+Gloves Of Swimming And Climbing|Wondrous Item|250|gp
+Gloves Of Thievery|Wondrous Item|300|gp
+Goggles Of Night|Wondrous Item|300|gp
+Goggles of Object Reading|Wondrous Item|350|gp
+Greater Silver Sword|Weapon|16000|gp
+Guardian Emblem|Wondrous Item|300|gp
+Guild Charms|Wondrous Item|450|gp
+Guild Keyrune (Azorius)|Wondrous Item|1000|gp
+Guild Keyrune (Boros)|Wondrous Item|3500|gp
+Guild Keyrune (Dimir)|Wondrous Item|26000|gp
+Guild Keyrune (Golgari)|Wondrous Item|7500|gp
+Guild Keyrune (Gruul)|Wondrous Item|2800|gp
+Guild Keyrune (Izzet)|Wondrous Item|1850|gp
+Guild Keyrune (Orzhov)|Wondrous Item|1100|gp
+Guild Keyrune (Rakdos)|Wondrous Item|400|gp
+Guild Keyrune (Selesnya)|Wondrous Item|1500|gp
+Guild Keyrune (Simic)|Wondrous Item|500|gp
+Guild Signet|Ring|350|gp
+Gulthias Staff|Staff|2200|gp
+Gurt's Greataxe|Weapon|67000|gp
+Hammer Of Thunderbolts (maul)|Weapon|51000|gp
+Handy Haversack|Wondrous Item|2000|gp
+Hat Of Disguise|Wondrous Item|475|gp
+Hat Of Vermin|Wondrous Item|65|gp
+Hat Of Wizardry|Wondrous Item|75|gp
+Hazirawn (greatsword)|Weapon|66000|gp
+Headband Of Intellect|Wondrous Item|450|gp
+Heart Weaver's Primer|Wondrous Item|3000|gp
+Hell Hound Cloak|Wondrous Item|1700|gp
+Hellfire Weapon|Weapon|500|gp
+Helm Of Brilliance|Wondrous Item|32000|gp
+Helm Of Comprehending Languages|Wondrous Item|200|gp
+Helm Of Devil Command|Wondrous Item|21500|gp
+Helm Of Telepathy|Wondrous Item|300|gp
+Helm Of Teleportation|Wondrous Item|4250|gp
+Helm of the Gods|Wondrous Item|1200|gp
+Helm Of The Scavenger|Wondrous Item|175000|gp
+Helm Of Underwater Action|Wondrous Item|500|gp
+Hew (battleaxe)|Weapon|800|gp
+Heward's Handy Haversack|Wondrous Item|2000|gp
+Heward's Handy Spice Pouch|Wondrous Item|100|gp
+Heward's Hireling Armor (leather)|Armor|7000|gp
+Holy Avenger (any sword)|Weapon|65000|gp
+Holy Symbol Of Ravenkind|Wondrous Item|51000|gp
+Hook of Fisher's Delight|Wondrous Item|550|gp
+Horn Of Blasting|Wondrous Item|2500|gp
+Horn Of Silent Alarm|Wondrous Item|85|gp
+Horn Of Valhalla (Brass)|Wondrous Item|5000|gp
+Horn Of Valhalla (Bronze)|Wondrous Item|20000|gp
+Horn Of Valhalla (Iron)|Wondrous Item|50000|gp
+Horn Of Valhalla (Silver)|Wondrous Item|5000|gp
+Horned Ring|Ring|10000|gp
+Horseshoes Of A Zephyr|Wondrous Item|6000|gp
+Horseshoes Of Speed|Wondrous Item|3000|gp
+Hunter's Coat|Armor|5000|gp
+Icon Of Ravenloft|Wondrous Item|50500|gp
+Ild Rune Armor|Armor|3000|gp
+Ild Rune Weapon (any)|Weapon|400|gp
+Illuminator's Tattoo|Wondrous Item|65|gp
+Illusionist's Bracers|Wondrous Item|13500|gp
+Imbued Wood Focus|Wondrous Item|75|gp
+Immovable Rod|Rod|500|gp
+Incantation of Iriolarthas|Wondrous Item|100000|gp
+Infernal Puzzle Box|Wondrous Item|3500|gp
+Infernal Tack|Wondrous Item|8000|gp
+Ingot Of The Skold Rune|Wondrous Item|15000|gp
+Insignia Of Claws|Wondrous Item|450|gp
+Instant Fortress|Wondrous Item|5000|gp
+Instrument Of Illusions|Wondrous Item|100|gp
+Instrument Of Scribing|Wondrous Item|80|gp
+Instrument of the Bards (Anstruth Harp)|Wondrous Item|17500|gp
+Instrument of the Bards (Canaith Mandolin)|Wondrous Item|3750|gp
+Instrument of the Bards (Cli Lyre)|Wondrous Item|4250|gp
+Instrument of the Bards (Doss Lute)|Wondrous Item|250|gp
+Instrument of the Bards (Fochulan Bandore)|Wondrous Item|350|gp
+Instrument of the Bards (Mac-Fuirmidh Cittern)|Wondrous Item|450|gp
+Instrument of the Bards (Ollamh Harp)|Wondrous Item|51000|gp
+Ioun Stone (Absorption)|Wondrous Item|20000|gp
+Ioun Stone (Agility)|Wondrous Item|8000|gp
+Ioun Stone (Awareness)|Wondrous Item|4000|gp
+Ioun Stone (Fortitude)|Wondrous Item|8000|gp
+Ioun Stone (Greater Absorption)|Wondrous Item|60000|gp
+Ioun Stone (Insight)|Wondrous Item|8000|gp
+Ioun Stone (Intellect)|Wondrous Item|8000|gp
+Ioun Stone (Leadership)|Wondrous Item|8000|gp
+Ioun Stone (Mastery)|Wondrous Item|60000|gp
+Ioun Stone (Protection)|Wondrous Item|3600|gp
+Ioun Stone (Regeneration)|Wondrous Item|55000|gp
+Ioun Stone (Reserve)|Wondrous Item|4500|gp
+Ioun Stone (Strength)|Wondrous Item|8000|gp
+Ioun Stone (Sustenance)|Wondrous Item|3000|gp
+Ioun Stone (Vitality)|Wondrous Item|1000|gp
+Ioun Stone Of Historical Knowledge|Wondrous Item|500|gp
+Ioun Stone Of Language Knowledge|Wondrous Item|500|gp
+Ioun Stone Of Natural Knowledge|Wondrous Item|500|gp
+Ioun Stone Of Religious Knowledge|Wondrous Item|500|gp
+Ioun Stone Of Self Preservation|Wondrous Item|750|gp
+Ioun Stone Of Supreme Intellect|Wondrous Item|600|gp
+Iron Bands Of Bilarro|Wondrous Item|2600|gp
+Iron Bands Of Binding|Wondrous Item|2600|gp
+Iron Flask|Wondrous Item|170000|gp
+Ironfang (war pick)|Weapon|76000|gp
+Ise Rune Boots|Wondrous Item|2650|gp
+Ise Rune Cloak|Wondrous Item|1200|gp
+Javelin Of Backbiting (or spear)|Weapon|6500|gp
+Javelin Of Lightning|Weapon|350|gp
+Keoghtom's Ointment (Per Dose)|Wondrous Item|400|gp
+Keycharm|Wondrous Item|50|gp
+Knave's Eye Patch|Wondrous Item|2000|gp
+Korolnor Scepter|Weapon|63000|gp
+Kyrzin's Ooze|Wondrous Item|21000|gp
+Lantern Of Revealing|Wondrous Item|500|gp
+Lantern of Tracking|Wondrous Item|75|gp
+Last Stand Armor|Armor|6500|gp
+Leather Golem Armor|Armor|3000|gp
+Libram of Souls and Flesh|Wondrous Item|4200|gp
+Lifewell Tattoo|Wondrous Item|5100|gp
+Lightbringer (mace)|Weapon|1600|gp
+Living Armor|Armor|9500|gp
+Living Gloves|Wondrous Item|500|gp
+Loadstone|Wondrous Item|150|gp
+Lock Of Trickery|Wondrous Item|50|gp
+Lord's Ensemble|Wondrous Item|5000|gp
+Lorehold Primer|Wondrous Item|300|gp
+Lost Crown Of Besilmer|Wondrous Item|23000|gp
+Luck Blade|Weapon|100000|gp
+Luxon Beacon|Wondrous Item|35000|gp
+Lyre of Building|Wondrous Item|4750|gp
+Mace Of Disruption|Weapon|1750|gp
+Mace Of Smiting|Weapon|2000|gp
+Mace Of Terror|Weapon|3500|gp
+Mantle Of Spell Resistance|Wondrous Item|4200|gp
+Manual Of Bodily Health|Wondrous Item|36000|gp
+Manual Of Gainful Exercise|Wondrous Item|36000|gp
+Manual Of Golems|Wondrous Item|22000|gp
+Manual Of Quickness Of Action|Wondrous Item|36000|gp
+Marvelous Pigments|Wondrous Item|16000|gp
+Mask Of The Beast|Wondrous Item|200|gp
+Masquerade Tattoo|Wondrous Item|75|gp
+Matalotok|Weapon|70000|gp
+Medallion Of Thoughts|Wondrous Item|300|gp
+Mind Blade (any sword)|Weapon|2000|gp
+Mind Lash (whip)|Weapon|750|gp
+Mirror Of Life Trapping|Wondrous Item|50000|gp
+Mirror Of The Past|Wondrous Item|3800|gp
+Mizzium Apparatus|Wondrous Item|500|gp
+Mizzium Mortar|Wondrous Item|2100|gp
+Moodmark Paint|Wondrous Item|50|gp
+Moon Sickle, +1|Weapon|1500|gp
+Moon Sickle, +2|Weapon|4000|gp
+Moon Sickle, +3|Weapon|16500|gp
+Mummy Rot Antidote|Potion or Oil|150|gp
+Mystery Key|Wondrous Item|50|gp
+Nature's Mantle|Wondrous Item|325|gp
+Navigation Orb|Wondrous Item|27000|gp
+Necklace Of Adaptation|Wondrous Item|450|gp
+Necklace of Fireballs (1 Bead)|Wondrous Item|725|gp
+Necklace of Fireballs (2 Beads)|Wondrous Item|1450|gp
+Necklace of Fireballs (3 Beads)|Wondrous Item|2175|gp
+Necklace of Fireballs (4 Beads)|Wondrous Item|2900|gp
+Necklace of Fireballs (5 Beads)|Wondrous Item|3625|gp
+Necklace of Fireballs (6 Beads)|Wondrous Item|4350|gp
+Necklace Of Prayer Beads (Blessing)|Wondrous Item|5000|gp
+Necklace Of Prayer Beads (Curing)|Wondrous Item|5000|gp
+Necklace Of Prayer Beads (Favor)|Wondrous Item|5000|gp
+Necklace Of Prayer Beads (Smiting)|Wondrous Item|5000|gp
+Necklace Of Prayer Beads (Summons)|Wondrous Item|5000|gp
+Necklace Of Prayer Beads (Wind Walking)|Wondrous Item|5000|gp
+Needle of Mending|Weapon|1400|gp
+Night Caller|Wondrous Item|350|gp
+Nightfall Pearl|Wondrous Item|51000|gp
+Nine Lives Stealer (Fully Charged) (any sword)|Weapon|36000|gp
+Nolzur's Marvelous Pigments|Wondrous Item|16000|gp
+Oathbow (longbow)|Weapon|13000|gp
+Obsidian Flint Dragon Plate|Armor|27000|gp
+Oil Of Etherealness|Potion or Oil|2000|gp
+Oil Of Sharpness|Potion or Oil|2200|gp
+Oil Of Slipperiness|Potion or Oil|250|gp
+Opal Of The Ild Rune|Wondrous Item|3500|gp
+Orb Of Direction|Wondrous Item|50|gp
+Orb Of Gonging|Wondrous Item|50|gp
+Orb Of Shielding|Wondrous Item|80|gp
+Orb Of The Stein Rune|Wondrous Item|2700|gp
+Orb of the Veil|Wondrous Item|31000|gp
+Orb Of Time|Wondrous Item|50|gp
+Orcsplitter (greataxe)|Weapon|60000|gp
+Ornithopter of Flying|Wondrous Item|3500|gp
+Outer Essence Shard|Wondrous Item|2000|gp
+Paper Bird|Wondrous Item|350|gp
+Pariah's Shield|Shield|1500|gp
+Pearl Of Power|Wondrous Item|400|gp
+Pennant Of The Vind Rune|Wondrous Item|13000|gp
+Peregrine Mask|Wondrous Item|6000|gp
+Perfume Of Bewitching|Potion or Oil|75|gp
+Periapt Of Health|Wondrous Item|250|gp
+Periapt Of Proof Against Poison|Wondrous Item|4700|gp
+Periapt Of Wound Closure|Wondrous Item|375|gp
+Philter Of Love|Potion or Oil|150|gp
+Pipe Of Remembrance|Wondrous Item|50|gp
+Pipe Of Smoke Monsters|Wondrous Item|50|gp
+Pipes Of Haunting|Wondrous Item|300|gp
+Pipes Of The Sewers|Wondrous Item|150|gp
+Piwafwi (Cloak Of Elvenkind)|Wondrous Item|200|gp
+Piwafwi Of Fire Resistance|Wondrous Item|1400|gp
+Pixie Dust|Wondrous Item|1000|gp
+Planecaller's Codex|Wondrous Item|3500|gp
+Plate Armor Of Etherealness|Armor|60000|gp
+Platinum Scarf|Wondrous Item|20000|gp
+Pole Of Angling|Wondrous Item|50|gp
+Pole Of Collapsing|Wondrous Item|55|gp
+Polymorph Blade (any sword)|Weapon|6500|gp
+Portable Hole|Wondrous Item|5000|gp
+Pot Of Awakening|Wondrous Item|85|gp
+Potion of Advantage|Potion or Oil|125|gp
+Potion Of Animal Friendship|Potion or Oil|200|gp
+Potion of Aqueous Form|Potion or Oil|1000|gp
+Potion Of Clairvoyance|Potion or Oil|900|gp
+Potion Of Climbing|Potion or Oil|30|gp
+Potion Of Comprehension|Potion or Oil|25|gp
+Potion Of Diminution|Potion or Oil|500|gp
+Potion of Dragon's Majesty|Potion or Oil|15000|gp
+Potion Of Fire Breath|Potion or Oil|350|gp
+Potion Of Flying|Potion or Oil|2500|gp
+Potion Of Gaseous Form|Potion or Oil|1500|gp
+Potion Of Giant Size|Potion or Oil|11000|gp
+Potion Of Giant Strength (Cloud)|Potion or Oil|1800|gp
+Potion Of Giant Strength (Fire)|Potion or Oil|1200|gp
+Potion Of Giant Strength (Frost/Stone)|Potion or Oil|650|gp
+Potion Of Giant Strength (Hill)|Potion or Oil|125|gp
+Potion Of Giant Strength (Storm)|Potion or Oil|8000|gp
+Potion Of Growth|Potion or Oil|300|gp
+Potion Of Healing|Potion or Oil|50|gp
+Potion Of Healing (Greater)|Potion or Oil|300|gp
+Potion Of Healing (Superior)|Potion or Oil|750|gp
+Potion Of Healing (Supreme)|Potion or Oil|1500|gp
+Potion Of Heroism|Potion or Oil|800|gp
+Potion Of Invisibility|Potion or Oil|2000|gp
+Potion Of Invulnerability|Potion or Oil|1500|gp
+Potion Of Longevity|Potion or Oil|3000|gp
+Potion of Maximum Power|Potion or Oil|2000|gp
+Potion Of Mind Control (Beast)|Potion or Oil|1600|gp
+Potion Of Mind Control (Humanoid)|Potion or Oil|2500|gp
+Potion Of Mind Control (Monster)|Potion or Oil|6000|gp
+Potion Of Mind Reading|Potion or Oil|1100|gp
+Potion Of Poison|Potion or Oil|500|gp
+Potion of Possibility|Potion or Oil|1900|gp
+Potion Of Resistance|Potion or Oil|500|gp
+Potion Of Speed|Potion or Oil|2000|gp
+Potion Of Vitality|Potion or Oil|1800|gp
+Potion Of Watchful Rest|Potion or Oil|35|gp
+Potion Of Water Breathing|Potion or Oil|400|gp
+Powered Armor (plate)|Armor|30000|gp
+Pressure Capsule|Wondrous Item|25|gp
+Prismari Primer|Wondrous Item|300|gp
+Professor Orb|Wondrous Item|4000|gp
+Propeller Helm|Wondrous Item|250|gp
+Prosthetic Limb|Wondrous Item|100|gp
+Protective Verses|Wondrous Item|3500|gp
+Psi Crystal|Wondrous Item|500|gp
+Pyroconverger|Wondrous Item|250|gp
+Pyxis of Pandemonium|Wondrous Item|25000|gp
+Quaals Feather Token (Anchor)|Wondrous Item|1000|gp
+Quaals Feather Token (Bird)|Wondrous Item|1000|gp
+Quaals Feather Token (Fan)|Wondrous Item|1000|gp
+Quaals Feather Token (Swan Boat)|Wondrous Item|1000|gp
+Quaals Feather Token (Whip)|Wondrous Item|1000|gp
+Quandrix Primer|Wondrous Item|300|gp
+Quiver Of Ehlonna|Wondrous Item|250|gp
+Rakdos Riteknife (dagger)|Weapon|60000|gp
+Reincarnation Dust|Wondrous Item|3500|gp
+Reveler's Concertina|Wondrous Item|4250|gp
+Rhythm-Maker's Drum, +1|Wondrous Item|425|gp
+Rhythm-Maker's Drum, +2|Wondrous Item|4250|gp
+Rhythm-Maker's Drum, +3|Wondrous Item|14500|gp
+Ring Of Air Elemental Command|Ring|200000|gp
+Ring Of Animal Influence|Ring|1000|gp
+Ring Of Djinni Summoning|Ring|125000|gp
+Ring Of Earth Elemental Command|Ring|200000|gp
+Ring Of Elemental Command|Ring|200000|gp
+Ring Of Evasion|Ring|4900|gp
+Ring Of Feather Falling|Ring|2200|gp
+Ring Of Fire Elemental Command|Ring|200000|gp
+Ring Of Free Action|Ring|4500|gp
+Ring Of Invisibility|Ring|75000|gp
+Ring Of Jumping|Ring|250|gp
+Ring Of Mind Shielding|Ring|250|gp
+Ring of Obscuring|Ring|150|gp
+Ring Of Protection|Ring|3000|gp
+Ring Of Regeneration|Ring|40000|gp
+Ring Of Resistance|Ring|3500|gp
+Ring Of Shooting Stars|Ring|20000|gp
+Ring Of Spell Storing|Ring|3600|gp
+Ring Of Spell Turning|Ring|66000|gp
+Ring Of Swimming|Ring|300|gp
+Ring Of Telekinesis|Ring|25000|gp
+Ring of Temporal Salvation|Ring|2250|gp
+Ring Of The Ram|Ring|4000|gp
+Ring Of Three Wishes|Ring|97950|gp
+Ring Of Truth Telling|Ring|150|gp
+Ring Of Warmth|Ring|480|gp
+Ring Of Water Elemental Command|Ring|200000|gp
+Ring Of Water Walking|Ring|500|gp
+Ring Of X-Ray Vision|Ring|3500|gp
+Robe Of Eyes|Wondrous Item|5000|gp
+Robe Of Scintillating Colors|Wondrous Item|27000|gp
+Robe Of Serpents|Wondrous Item|375|gp
+Robe Of Stars|Wondrous Item|45000|gp
+Robe Of Summer|Wondrous Item|2900|gp
+Robe Of The Archmagi|Wondrous Item|75000|gp
+Robe Of Useful Items|Wondrous Item|400|gp
+Rod Of Absorption|Rod|48000|gp
+Rod Of Alertness|Rod|11000|gp
+Rod Of Lordly Might|Rod|70000|gp
+Rod Of Resurrection|Rod|125000|gp
+Rod of Retribution|Rod|250|gp
+Rod Of Rulership|Rod|3600|gp
+Rod Of Security|Rod|45000|gp
+Rod Of The Pact Keeper +1|Rod|400|gp
+Rod Of The Pact Keeper +2|Rod|4000|gp
+Rod Of The Pact Keeper +3|Rod|17000|gp
+Rod Of The Vonindod|Rod|3400|gp
+Rope Of Climbing|Wondrous Item|350|gp
+Rope Of Entanglement|Wondrous Item|1000|gp
+Rope Of Mending|Wondrous Item|50|gp
+Rotor Of Return|Wondrous Item|2500|gp
+Ruby Of The War Mage|Wondrous Item|100|gp
+Ruby Weave Gem|Wondrous Item|30000|gp
+Ruinblade (greatsword)|Weapon|17000|gp
+Saddle Of The Cavalier|Wondrous Item|250|gp
+Sapphire Buckler|Armor|9000|gp
+Scaled Ornament (Ascendant)|Wondrous Item|20000|gp
+Scaled Ornament (Slumbering)|Wondrous Item|200|gp
+Scaled Ornament (Stirring)|Wondrous Item|4000|gp
+Scaled Ornament (Wakened)|Wondrous Item|8000|gp
+Scarab Of Protection|Wondrous Item|58000|gp
+Scimitar Of Speed|Weapon|7500|gp
+Scissors of Shadow Snipping|Wondrous Item|750|gp
+Scorpion Armor (plate)|Armor|2100|gp
+Scribe's Pen|Wondrous Item|60|gp
+Scribes Pen|Wondrous Item|60|gp
+Scroll Of Protection|Spell Scroll|3500|gp
+Scroll of Tarrasque Summoning|Spell Scroll|150000|gp
+Scroll of the Comet|Spell Scroll|250000|gp
+Seeker Dart|Weapon|100|gp
+Sekolahian Worshiping Statuette|Wondrous Item|50|gp
+Sending Stone|Wondrous Item|500|gp
+Sending Stones|Wondrous Item|500|gp
+Sentinel Shield|Shield|300|gp
+Shadowfell Brand Tattoo|Wondrous Item|1100|gp
+Shadowfell Shard|Wondrous Item|600|gp
+Shard Of The Ise Rune|Wondrous Item|9000|gp
+Shatterspike (longsword)|Weapon|550|gp
+Shield Of Expression|Shield|50|gp
+Shield Of Far Sight|Shield|750|gp
+Shield Of Missile Attraction|Shield|1000|gp
+Shield Of The Hidden Lord|Armor|86000|gp
+Shield Of The Uven Rune|Shield|11000|gp
+Shield, +1|Shield|450|gp
+Shield, +2|Shield|4000|gp
+Shield, +3|Shield|22000|gp
+Shiftweave|Wondrous Item|100|gp
+Silverquill Primer|Wondrous Item|300|gp
+Siren Song Lyre|Wondrous Item|650|gp
+Skold Rune Shield|Shield|2600|gp
+Skold Rune Weapon|Weapon|500|gp
+Skyblinder Staff|Staff|375|gp
+Sling Bullets of Althemone|Weapon|5500|gp
+Slippers Of Spider Climbing|Wondrous Item|500|gp
+Smokepowder|Wondrous Item|325|gp
+Snicker-Snack (greatsword)|Weapon|80000|gp
+Soul Coin|Wondrous Item|250|gp
+Sovereign Glue|Wondrous Item|5000|gp
+Speaking Stone|Wondrous Item|5000|gp
+Spear Of Backbiting (javelin or spear)|Weapon|6500|gp
+Spell Bottle|Wondrous Item|75000|gp
+Spell Gem (Amber, Level 4)|Spell Gem|8000|gp
+Spell Gem (Bloodstone, Level 3)|Spell Gem|4000|gp
+Spell Gem (Diamond, Level 9)|Spell Gem|78000|gp
+Spell Gem (Jade, Level 5)|Spell Gem|15000|gp
+Spell Gem (Lapis Lazuli, Level 1)|Spell Gem|350|gp
+Spell Gem (Obsidian, Level 0)|Spell Gem|150|gp
+Spell Gem (Quartz ,Level 2)|Spell Gem|1500|gp
+Spell Gem (Ruby, Level 8)|Spell Gem|51000|gp
+Spell Gem (Star Ruby, Level 7)|Spell Gem|35000|gp
+Spell Gem (Topaz, Level 6)|Spell Gem|20000|gp
+Spell Scroll (Level 0)|Spell Scroll|15|gp
+Spell Scroll (Level 1)|Spell Scroll|25|gp
+Spell Scroll (Level 2)|Spell Scroll|150|gp
+Spell Scroll (Level 3)|Spell Scroll|400|gp
+Spell Scroll (Level 4)|Spell Scroll|800|gp
+Spell Scroll (Level 5)|Spell Scroll|1500|gp
+Spell Scroll (Level 6)|Spell Scroll|2000|gp
+Spell Scroll (Level 7)|Spell Scroll|3500|gp
+Spell Scroll (Level 8)|Spell Scroll|5000|gp
+Spell Scroll (Level 9)|Spell Scroll|20000|gp
+Spellguard Shield|Shield|36000|gp
+Spellshard|Wondrous Item|100|gp
+Spellwrought Tattoo (Level 0)|Wondrous Item|20|gp
+Spellwrought Tattoo (Level 1)|Wondrous Item|35|gp
+Spellwrought Tattoo (Level 2)|Wondrous Item|225|gp
+Spellwrought Tattoo (Level 3)|Wondrous Item|500|gp
+Spellwrought Tattoo (Level 4)|Wondrous Item|1200|gp
+Spellwrought Tattoo (Level 5)|Wondrous Item|2100|gp
+Sphere Of Annihilation|Wondrous Item|200000|gp
+Spider Staff|Staff|1750|gp
+Spies' Murmur|Wondrous Item|475|gp
+Staff Of Adornment|Staff|50|gp
+Staff Of Birdcalls|Staff|70|gp
+Staff Of Charming|Staff|1750|gp
+Staff Of Defense|Staff|3400|gp
+Staff of Dunamancy|Staff|27000|gp
+Staff Of Fire|Staff|18000|gp
+Staff Of Flowers|Staff|50|gp
+Staff Of Frost|Staff|18000|gp
+Staff Of Healing|Staff|4800|gp
+Staff Of Power|Staff|46000|gp
+Staff Of Striking|Staff|36000|gp
+Staff Of Swarming Insects|Staff|4500|gp
+Staff Of The Adder|Staff|350|gp
+Staff of the Ivory Claw|Staff|1000|gp
+Staff Of The Magi|Staff|98000|gp
+Staff Of The Python|Staff|250|gp
+Staff Of The Woodlands|Staff|4500|gp
+Staff Of Thunder And Lightning|Staff|30000|gp
+Staff Of Withering|Staff|2100|gp
+Steel (longsword)|Weapon|6500|gp
+Stein Rune Boots|Wondrous Item|350|gp
+Stein Rune Shield|Shield|4600|gp
+Stone Of Controlling Earth Elementals|Wondrous Item|4700|gp
+Stone Of Good Luck (Luckstone)|Wondrous Item|400|gp
+Stone Of Ill Luck|Wondrous Item|400|gp
+Stonespeaker Crystal|Wondrous Item|4600|gp
+Storm Boomerang|Weapon|150|gp
+Strixhaven Pennant|Wondrous Item|50|gp
+Sun Blade (longsword)|Weapon|3500|gp
+Sunforger (warhammer)|Weapon|4600|gp
+Sunsword (longsword)|Weapon|55000|gp
+Sword Of Answering|Weapon|51000|gp
+Sword Of Life Stealing (any sword)|Weapon|2200|gp
+Sword Of Sharpness (slashing swords)|Weapon|42000|gp
+Sword Of The Paruns (longsword)|Weapon|16000|gp
+Sword Of Vengeance (any sword)|Weapon|400|gp
+Sword Of Wounding (any sword)|Weapon|2000|gp
+Talisman Of Pure Good|Wondrous Item|125000|gp
+Talisman Of The Sphere|Wondrous Item|75000|gp
+Talisman Of Ultimate Evil|Wondrous Item|125000|gp
+Talking Doll|Wondrous Item|75|gp
+Tankard Of Plenty|Wondrous Item|25|gp
+Tankard Of Sobriety|Wondrous Item|80|gp
+Tentacle Rod|Rod|2000|gp
+Thermal Cube|Wondrous Item|50|gp
+Thessaltoxin Antidote|Potion or Oil|100|gp
+Timepiece Of Travel|Wondrous Item|8000|gp
+Tinderstrike (dagger)|Weapon|71000|gp
+Tome Of Clear Thought|Wondrous Item|36000|gp
+Tome Of Leadership And Influence|Wondrous Item|36000|gp
+Tome Of The Stilled Tongue|Wondrous Item|60000|gp
+Tome Of Understanding|Wondrous Item|36000|gp
+Topaz Annihilator (firearm)|Weapon|12000|gp
+Trident Of Fish Command|Weapon|300|gp
+Two-Birds Sling|Weapon|4000|gp
+Unbreakable Arrow|Ammunition|25|gp
+Universal Solvent|Wondrous Item|5000|gp
+Ventilating Lungs|Wondrous Item|1000|gp
+Veteran's Cane|Weapon|50|gp
+Vicious Weapon (any)|Weapon|1200|gp
+Vind Rune Boots|Wondrous Item|650|gp
+Vorpal Sword|Weapon|75000|gp
+Vox Seeker|Wondrous Item|100|gp
+Voyager Staff|Staff|10500|gp
+Walloping Ammunition|Ammunition|30|gp
+Wand Of Binding|Wand|2500|gp
+Wand Of Conducting|Wand|90|gp
+Wand Of Enemy Detection|Wand|3750|gp
+Wand Of Entangle|Wand|300|gp
+Wand Of Fear|Wand|3250|gp
+Wand Of Fireballs|Wand|4800|gp
+Wand Of Lightning Bolts|Wand|4800|gp
+Wand Of Magic Detection|Wand|150|gp
+Wand Of Magic Missiles|Wand|300|gp
+Wand Of Paralysis|Wand|4250|gp
+Wand Of Polymorph|Wand|21000|gp
+Wand Of Pyrotechnics|Wand|65|gp
+Wand Of Scowls|Wand|60|gp
+Wand Of Secrets|Wand|125|gp
+Wand Of Smiles|Wand|60|gp
+Wand Of The War Mage +1|Wand|400|gp
+Wand Of The War Mage +2|Wand|4000|gp
+Wand Of The War Mage +3|Wand|14000|gp
+Wand Of Viscid Globs|Wand|900|gp
+Wand Of Web|Wand|250|gp
+Wand Of Winter|Wand|4100|gp
+Wand Of Wonder|Wand|2250|gp
+Wand Sheath|Wondrous Item|75|gp
+Waythe (greatsword)|Weapon|62000|gp
+Weapon of Certain Death|Weapon|1500|gp
+Weapon of the Uven Rune (any)|Weapon|2000|gp
+Weapon Of Warning|Weapon|400|gp
+Weapon, +1|Weapon|500|gp
+Weapon, +2|Weapon|2500|gp
+Weapon, +3|Weapon|15000|gp
+Weird Tank|Wondrous Item|2200|gp
+Well Of Many Worlds|Wondrous Item|90000|gp
+Wheel Of Stars|Wondrous Item|6500|gp
+Wheel Of Wind And Water|Wondrous Item|350|gp
+Wind Fan|Wondrous Item|150|gp
+Windvane|Weapon|68000|gp
+Winged Boots|Wondrous Item|5000|gp
+Wings Of Flying|Wondrous Item|3600|gp
+Wingwear|Wondrous Item|300|gp
+Witherbloom Primer|Wondrous Item|300|gp
+Woodcutter's Axe|Weapon|1500|gp
+Ythryn Mythallar|Wondrous Item|200000|gp
