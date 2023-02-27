@@ -19,7 +19,13 @@ import re
 
 def unique_filter(dictionary, name):
 	"""
+	:inputs: 	dictionary   [a dict with (string, int) val pairs]
+			 	name  [a str]
+	:returns:	Bool
 
+	Tells us whether an item name is a unique entry in our list. Specifically,
+	returns True if this is the first time we've seen this item name and False
+	otherwise.
 	"""
 	ret = False
 	if (dictionary.get(name) == None):
@@ -31,6 +37,13 @@ def unique_filter(dictionary, name):
 
 def price_filter(price, denom):
 	"""
+	:inputs: 	price [a str]
+			 	denom [a str]
+	:returns:	Bool
+
+	Tells us whether the price and denomination strings are valid in the data.
+	Specifically, if they are of valid format we return True and otherwise we
+	return False.
 	"""
 	ret = False
 	match_1 = re.match(r"gp|sp|cp", denom)
@@ -45,7 +58,13 @@ def price_filter(price, denom):
 
 def category_simplify(category):
 	"""
+	:inputs: 	category  [a str]
+	:returns:	ret 	  [a str]
 
+	This function reduces the number of categories in our data by simplfying 
+	an input category into a set of more general categories with less overlap.
+	Also handles slight differences in notation from web sources 
+	(e.g., "Potion" vs. "Potions").
 	"""
 	ret = category
 	gemstone_cats = ['Gemstones']
@@ -94,6 +113,12 @@ def write_data(header, item_list, write_file):
 
 def main():
 	"""
+	:inputs: 	None
+	:returns:	None
+
+	This is the main function which drives the execution of the above functions
+	to complete the purpose of this script which is to combine the disparate
+	data files generated through web scraping.
 	"""
 	i = 0
 	existing_items = {}
